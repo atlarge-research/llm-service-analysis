@@ -1,0 +1,1299 @@
+Date,Outages,Outage_Color,Incidents,Service
+1 Jun 2024,[],#10a37f,[],api
+2 Jun 2024,[],#10a37f,[],api
+3 Jun 2024,[],#10a37f,[],api
+4 Jun 2024,[],#10a37f,[],api
+5 Jun 2024,[],#10a37f,[],api
+6 Jun 2024,[],#10a37f,[],api
+7 Jun 2024,[],#10a37f,[],api
+8 Jun 2024,[],#10a37f,[],api
+9 Jun 2024,[],#10a37f,[],api
+10 Jun 2024,[],#10a37f,[],api
+11 Jun 2024,[],#10a37f,[],api
+12 Jun 2024,[],#10a37f,[],api
+13 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting the API"", ""Incident_Link"": ""https://status.openai.com/incidents/2t970r3170nq""}]",api
+14 Jun 2024,[],#10a37f,[],api
+15 Jun 2024,[],#10a37f,[],api
+16 Jun 2024,[],#10a37f,[],api
+17 Jun 2024,[],#10a37f,[],api
+18 Jun 2024,[],#10a37f,[],api
+19 Jun 2024,[],#10a37f,[],api
+20 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 54}]",#e0ab3c,"[{""Incident_Title"": ""Elevated 5xx errors impacting the API"", ""Incident_Link"": ""https://status.openai.com/incidents/sbwl2td13jf9""}]",api
+21 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 22}]",#a9a94e,"[{""Incident_Title"": ""Login issues with SSO impacting some customers"", ""Incident_Link"": ""https://status.openai.com/incidents/rwzw1nvmt4dq""}]",api
+22 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 73}]",#f2a12e,"[{""Incident_Title"": ""Increased error rates impacting API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/1fkvf7jj1zzk""}]",api
+23 Jun 2024,[],#10a37f,[],api
+24 Jun 2024,[],#10a37f,[],api
+25 Jun 2024,[],#10a37f,[],api
+26 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 12}]",#98a853,"[{""Incident_Title"": ""Elevated errors in the API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/1fq4lzfy1m17""}]",api
+27 Jun 2024,[],#10a37f,[],api
+28 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Increased errors on ChatGPT and API."", ""Incident_Link"": ""https://status.openai.com/incidents/9r53pld7szhp""}]",api
+29 Jun 2024,[],#10a37f,[],api
+30 Jun 2024,[],#10a37f,[],api
+1 Jul 2024,[],#10a37f,[],api
+2 Jul 2024,[],#10a37f,[],api
+3 Jul 2024,[],#10a37f,[],api
+4 Jul 2024,[],#10a37f,[],api
+5 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 10}]",#94a855,"[{""Incident_Title"": ""Outage on ChatGPT and API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/92tyglr0b7tk""}]",api
+6 Jul 2024,[],#10a37f,[],api
+7 Jul 2024,[],#10a37f,[],api
+8 Jul 2024,[],#10a37f,[],api
+9 Jul 2024,[],#10a37f,[],api
+10 Jul 2024,[],#10a37f,[],api
+11 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 61}]",#ecac39,"[{""Incident_Title"": ""Elevate Errors on Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/dtgbfvqmjfm8""}]",api
+12 Jul 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 48}]",#ec532d,"[{""Incident_Title"": ""Outage on ChatGPT and Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/b0z4bgvlh8z0""}]",api
+13 Jul 2024,[],#10a37f,[],api
+14 Jul 2024,[],#10a37f,[],api
+15 Jul 2024,[],#10a37f,[],api
+16 Jul 2024,[],#10a37f,[],api
+17 Jul 2024,[],#10a37f,[],api
+18 Jul 2024,[],#10a37f,"[{""Incident_Title"": ""Outage on ChatGPT and API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/cgvtvlvkvfxq""}]",api
+19 Jul 2024,[],#10a37f,[],api
+20 Jul 2024,[],#10a37f,[],api
+21 Jul 2024,[],#10a37f,[],api
+22 Jul 2024,[],#10a37f,[],api
+23 Jul 2024,[],#10a37f,[],api
+24 Jul 2024,[],#10a37f,[],api
+25 Jul 2024,[],#10a37f,[],api
+26 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 112}]",#e86b0a,"[{""Incident_Title"": ""Increased latency and error rates affecting GPT-4o mini"", ""Incident_Link"": ""https://status.openai.com/incidents/rq519d4v09bw""}]",api
+27 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 90}]",#ed881d,"[{""Incident_Title"": ""GPT-4o-mini Fine-Tuned Models High Error Rate"", ""Incident_Link"": ""https://status.openai.com/incidents/b2cbq8c9crbs""}]",api
+28 Jul 2024,[],#10a37f,[],api
+29 Jul 2024,[],#10a37f,[],api
+30 Jul 2024,[],#10a37f,[],api
+31 Jul 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate while creating fine-tuning jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/2gqshgzt6gpb""}]",api
+1 Aug 2024,[],#10a37f,[],api
+2 Aug 2024,[],#10a37f,[],api
+3 Aug 2024,[],#10a37f,[],api
+4 Aug 2024,[],#10a37f,[],api
+5 Aug 2024,[],#10a37f,[],api
+6 Aug 2024,[],#10a37f,[],api
+7 Aug 2024,[],#10a37f,[],api
+8 Aug 2024,[],#10a37f,[],api
+9 Aug 2024,[],#10a37f,[],api
+10 Aug 2024,[],#10a37f,[],api
+11 Aug 2024,[],#10a37f,[],api
+12 Aug 2024,[],#10a37f,[],api
+13 Aug 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting API"", ""Incident_Link"": ""https://status.openai.com/incidents/txk5wmd6n68l""}]",api
+14 Aug 2024,[],#10a37f,[],api
+15 Aug 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates for the Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/26jngpxh098l""}]",api
+16 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 34}]",#bdaa48,"[{""Incident_Title"": ""Elevated error rates for ChatGPT and Platform API"", ""Incident_Link"": ""https://status.openai.com/incidents/s9d5cv5jcy7x""}]",api
+17 Aug 2024,[],#10a37f,[],api
+18 Aug 2024,[],#10a37f,[],api
+19 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 87}]",#ee8c20,"[{""Incident_Title"": ""File uploads returning error messages"", ""Incident_Link"": ""https://status.openai.com/incidents/433mh2zvfmww""}]",api
+20 Aug 2024,[],#10a37f,[],api
+21 Aug 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 35}]",#e9680f,"[{""Incident_Title"": ""Authentication Issues on ChatGPT and the API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/sz5ltf8r0d7p""}, {""Incident_Title"": ""Elevated error rate impacting Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/0mxbfltxlnmh""}, {""Incident_Title"": ""Elevated errors impacting logins to ChatGPT and the API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/k59vpk7p41p5""}]",api
+22 Aug 2024,[],#10a37f,[],api
+23 Aug 2024,[],#10a37f,[],api
+24 Aug 2024,[],#10a37f,[],api
+25 Aug 2024,[],#10a37f,[],api
+26 Aug 2024,[],#10a37f,[],api
+27 Aug 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates for gpt-4o-mini-2024-07-18 fine-tuned models"", ""Incident_Link"": ""https://status.openai.com/incidents/83ywkwsc4tk8""}]",api
+28 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 140}]",#ea5e1d,"[{""Incident_Title"": ""Elevated errors rates in Assistants API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/8kb29fwgbp25""}]",api
+29 Aug 2024,[],#10a37f,[],api
+30 Aug 2024,[],#10a37f,[],api
+31 Aug 2024,[],#10a37f,[],api
+1 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated Error Rate on GPT-3.5-Turbo-0125 Fine Tuned Models"", ""Incident_Link"": ""https://status.openai.com/incidents/xyhsgz91y269""}, {""Incident_Title"": ""Elevated error rates on Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/v2rthv2f43qd""}]",api
+2 Mar 2024,[],#10a37f,[],api
+3 Mar 2024,[],#10a37f,[],api
+4 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""DALL-E API seeing increased errors"", ""Incident_Link"": ""https://status.openai.com/incidents/g00cfglc6l7f""}, {""Incident_Title"": ""Elevated rate of request timeouts in Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/4xc1wqft73w8""}]",api
+5 Mar 2024,[],#10a37f,[],api
+6 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 5}]",#8ba858,"[{""Incident_Title"": ""Elevated error rate across API endpoints"", ""Incident_Link"": ""https://status.openai.com/incidents/8dpb195tp2tp""}, {""Incident_Title"": ""Delays while processing fine-tuning jobs / spike in job errors"", ""Incident_Link"": ""https://status.openai.com/incidents/x6txscwvw8j9""}, {""Incident_Title"": ""Elevated error rate on Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/w0q8rkhbyfpd""}]",api
+7 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated API error rates"", ""Incident_Link"": ""https://status.openai.com/incidents/9kmhcgh5zfc0""}]",api
+8 Mar 2024,[],#10a37f,[],api
+9 Mar 2024,[],#10a37f,[],api
+10 Mar 2024,[],#10a37f,[],api
+11 Mar 2024,[],#10a37f,[],api
+12 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 19}]",#a4a950,"[{""Incident_Title"": ""Elevated errors on Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/8hxf6bzdbwkw""}, {""Incident_Title"": ""Elevated API Error Rates"", ""Incident_Link"": ""https://status.openai.com/incidents/7lc0fprwrfzw""}, {""Incident_Title"": ""Increased latency affecting both ChatGPT and APIs"", ""Incident_Link"": ""https://status.openai.com/incidents/f0465gcr4cq4""}]",api
+13 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 27}]",#b1a94b,"[{""Incident_Title"": ""Degraded performance in ChatGPT and GPT4 models"", ""Incident_Link"": ""https://status.openai.com/incidents/k0v37m46n5t4""}]",api
+14 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Increased error rates and latency on GPT-3.5-Turbo and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/vy3rjsn7pp5j""}]",api
+15 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Billing Alert Delays"", ""Incident_Link"": ""https://status.openai.com/incidents/06kspq62g9jk""}, {""Incident_Title"": ""Elevated error rate in Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/rqhqz7sg4q3v""}, {""Incident_Title"": ""Increased error rates and latency on GPT-3.5-Turbo and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/vy3rjsn7pp5j""}]",api
+16 Mar 2024,[],#10a37f,[],api
+17 Mar 2024,[],#10a37f,[],api
+18 Mar 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 55}]",#ee483c,"[{""Incident_Title"": ""Elevated Error Rate for TTS API"", ""Incident_Link"": ""https://status.openai.com/incidents/0ptm8m1l2jhk""}]",api
+19 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""High error rate on DALL\u00b7E"", ""Incident_Link"": ""https://status.openai.com/incidents/j6j35msq9vdt""}, {""Incident_Title"": ""Elevated errors for gpt-3.5-turbo-0613 and gpt-3.5-turbo-instruct in our API"", ""Incident_Link"": ""https://status.openai.com/incidents/34vcy5pdxxrr""}, {""Incident_Title"": ""Elevated errors in requests to GPT-4 in the API"", ""Incident_Link"": ""https://status.openai.com/incidents/vlmww06nns0z""}]",api
+20 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors in requests to GPT-4 in the API"", ""Incident_Link"": ""https://status.openai.com/incidents/15vnk6cbbzb4""}]",api
+21 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors in requests to GPT-4 in the API"", ""Incident_Link"": ""https://status.openai.com/incidents/15vnk6cbbzb4""}]",api
+22 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors in the API for gpt-4-1106-preview"", ""Incident_Link"": ""https://status.openai.com/incidents/l8bf357j4l4d""}, {""Incident_Title"": ""Elevated errors in the Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/v0g2kxvhk4jc""}]",api
+23 Mar 2024,[],#10a37f,[],api
+24 Mar 2024,[],#10a37f,[],api
+25 Mar 2024,[],#10a37f,[],api
+26 Mar 2024,[],#10a37f,[],api
+27 Mar 2024,[],#10a37f,[],api
+28 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Repeated responses from gpt-4"", ""Incident_Link"": ""https://status.openai.com/incidents/39qgkf8x02vk""}]",api
+29 Mar 2024,[],#10a37f,[],api
+30 Mar 2024,[],#10a37f,[],api
+31 Mar 2024,[],#10a37f,[],api
+1 Apr 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 3}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 14}]",#ada94d,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/yk2pndv2tdfw""}]",api
+2 Apr 2024,[],#10a37f,[],api
+3 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Increased errors on Assistants API while streaming"", ""Incident_Link"": ""https://status.openai.com/incidents/g7k3xb8xx9s2""}]",api
+4 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Assistants API messages are truncated or split"", ""Incident_Link"": ""https://status.openai.com/incidents/7b6zrdqn4x1v""}]",api
+5 Apr 2024,[],#10a37f,[],api
+6 Apr 2024,[],#10a37f,[],api
+7 Apr 2024,[],#10a37f,[],api
+8 Apr 2024,[],#10a37f,[],api
+9 Apr 2024,[],#10a37f,[],api
+10 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors in requests using vision in ChatGPT and the API"", ""Incident_Link"": ""https://status.openai.com/incidents/tslskm62x0v6""}]",api
+11 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 36}]",#c1aa46,"[{""Incident_Title"": ""Increased Queue Wait Times for GPT-3.5-Turbo Fine-Tuning Jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/6z0kjhhj0wbm""}, {""Incident_Title"": ""Increased latency and error rate affecting gpt-3.5-turbo"", ""Incident_Link"": ""https://status.openai.com/incidents/6w4b9337p6xt""}]",api
+12 Apr 2024,[],#10a37f,[],api
+13 Apr 2024,[],#10a37f,[],api
+14 Apr 2024,[],#10a37f,[],api
+15 Apr 2024,[],#10a37f,[],api
+16 Apr 2024,[],#10a37f,[],api
+17 Apr 2024,[],#10a37f,[],api
+18 Apr 2024,[],#10a37f,[],api
+19 Apr 2024,[],#10a37f,[],api
+20 Apr 2024,[],#10a37f,[],api
+21 Apr 2024,[],#10a37f,[],api
+22 Apr 2024,[],#10a37f,[],api
+23 Apr 2024,[],#10a37f,[],api
+24 Apr 2024,[],#10a37f,[],api
+25 Apr 2024,[],#10a37f,[],api
+26 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate affecting /chat/completions streaming"", ""Incident_Link"": ""https://status.openai.com/incidents/pqzv8nwct4j4""}]",api
+27 Apr 2024,[],#10a37f,[],api
+28 Apr 2024,[],#10a37f,[],api
+29 Apr 2024,[],#10a37f,[],api
+30 Apr 2024,[],#10a37f,[],api
+1 May 2024,[],#10a37f,"[{""Incident_Title"": ""The website openai.com is currently down."", ""Incident_Link"": ""https://status.openai.com/incidents/dnd5t229ll1l""}, {""Incident_Title"": ""Elevated error rates on ASR (Whisper)"", ""Incident_Link"": ""https://status.openai.com/incidents/8n6cpxchrx14""}]",api
+2 May 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates on fine-tuning API models and reserved capacity"", ""Incident_Link"": ""https://status.openai.com/incidents/276x19pnppyp""}]",api
+3 May 2024,[],#10a37f,[],api
+4 May 2024,[],#10a37f,[],api
+5 May 2024,[],#10a37f,[],api
+6 May 2024,[],#10a37f,[],api
+7 May 2024,[],#10a37f,"[{""Incident_Title"": ""Some Customers Cannot Message Support"", ""Incident_Link"": ""https://status.openai.com/incidents/tk3m1vwpslck""}]",api
+8 May 2024,[],#10a37f,[],api
+9 May 2024,[],#10a37f,[],api
+10 May 2024,[],#10a37f,[],api
+11 May 2024,[],#10a37f,[],api
+12 May 2024,[],#10a37f,[],api
+13 May 2024,[],#10a37f,[],api
+14 May 2024,[],#10a37f,[],api
+15 May 2024,[],#10a37f,[],api
+16 May 2024,[],#10a37f,[],api
+17 May 2024,[],#10a37f,[],api
+18 May 2024,[],#10a37f,[],api
+19 May 2024,[],#10a37f,[],api
+20 May 2024,[],#10a37f,[],api
+21 May 2024,[],#10a37f,[],api
+22 May 2024,[],#10a37f,[],api
+23 May 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated API and ChatGPT Latency and Error Rate"", ""Incident_Link"": ""https://status.openai.com/incidents/9gm58mclcmst""}]",api
+24 May 2024,[],#10a37f,[],api
+25 May 2024,[],#10a37f,[],api
+26 May 2024,[],#10a37f,[],api
+27 May 2024,[],#10a37f,[],api
+28 May 2024,[],#10a37f,[],api
+29 May 2024,[],#10a37f,[],api
+30 May 2024,[],#10a37f,"[{""Incident_Title"": ""Some Batch API Calls Are Failing"", ""Incident_Link"": ""https://status.openai.com/incidents/qr0k0p729t5k""}, {""Incident_Title"": ""Elevated errors on Images API"", ""Incident_Link"": ""https://status.openai.com/incidents/08ldcycb0kl9""}]",api
+31 May 2024,[],#10a37f,"[{""Incident_Title"": ""Some Batch API Calls Are Failing"", ""Incident_Link"": ""https://status.openai.com/incidents/qr0k0p729t5k""}]",api
+1 Dec 2023,[],#10a37f,"[{""Incident_Title"": ""Issue with API credits"", ""Incident_Link"": ""https://status.openai.com/incidents/13hqyjbvmf4l""}]",api
+2 Dec 2023,[],#10a37f,[],api
+3 Dec 2023,[],#10a37f,[],api
+4 Dec 2023,[],#10a37f,[],api
+5 Dec 2023,[],#10a37f,[],api
+6 Dec 2023,[],#10a37f,[],api
+7 Dec 2023,[],#10a37f,[],api
+8 Dec 2023,[],#10a37f,[],api
+9 Dec 2023,[],#10a37f,[],api
+10 Dec 2023,[],#10a37f,[],api
+11 Dec 2023,[],#10a37f,[],api
+12 Dec 2023,[],#10a37f,[],api
+13 Dec 2023,[],#10a37f,[],api
+14 Dec 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates with file uploads"", ""Incident_Link"": ""https://status.openai.com/incidents/knvm9l5xb78m""}, {""Incident_Title"": ""Elevated API Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/v51l19tgy6pd""}]",api
+15 Dec 2023,[],#10a37f,[],api
+16 Dec 2023,[],#10a37f,[],api
+17 Dec 2023,[],#10a37f,[],api
+18 Dec 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated API Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/8q7c7rnnqgcd""}]",api
+19 Dec 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on GPT-V for ChatGPT models"", ""Incident_Link"": ""https://status.openai.com/incidents/qpsc9m1z6bjv""}]",api
+20 Dec 2023,[],#10a37f,[],api
+21 Dec 2023,[],#10a37f,[],api
+22 Dec 2023,[],#10a37f,[],api
+23 Dec 2023,[],#10a37f,[],api
+24 Dec 2023,[],#10a37f,[],api
+25 Dec 2023,[],#10a37f,[],api
+26 Dec 2023,[],#10a37f,[],api
+27 Dec 2023,[],#10a37f,[],api
+28 Dec 2023,[],#10a37f,[],api
+29 Dec 2023,[],#10a37f,[],api
+30 Dec 2023,[],#10a37f,[],api
+31 Dec 2023,[],#10a37f,[],api
+1 Jan 2024,[],#10a37f,[],api
+2 Jan 2024,[],#10a37f,[],api
+3 Jan 2024,[],#10a37f,[],api
+4 Jan 2024,[],#10a37f,[],api
+5 Jan 2024,[],#10a37f,[],api
+6 Jan 2024,[],#10a37f,[],api
+7 Jan 2024,[],#10a37f,[],api
+8 Jan 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on Whisper API"", ""Incident_Link"": ""https://status.openai.com/incidents/g9211h91crkb""}]",api
+9 Jan 2024,[],#10a37f,[],api
+10 Jan 2024,[],#10a37f,[],api
+11 Jan 2024,[],#10a37f,[],api
+12 Jan 2024,[],#10a37f,[],api
+13 Jan 2024,[],#10a37f,[],api
+14 Jan 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate on gpt-3.5-turbo-0613, gpt-3.5-turbo-instruct, and reserved capacity m..."", ""Incident_Link"": ""https://status.openai.com/incidents/hyb079s2pqrd""}]",api
+15 Jan 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate on moderations API"", ""Incident_Link"": ""https://status.openai.com/incidents/cw9c0skph31n""}]",api
+16 Jan 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate on moderations API"", ""Incident_Link"": ""https://status.openai.com/incidents/cw9c0skph31n""}]",api
+17 Jan 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate on text-embedding-ada-002"", ""Incident_Link"": ""https://status.openai.com/incidents/g3k6lsj173gz""}]",api
+18 Jan 2024,[],#10a37f,[],api
+19 Jan 2024,[],#10a37f,[],api
+20 Jan 2024,[],#10a37f,[],api
+21 Jan 2024,[],#10a37f,[],api
+22 Jan 2024,[],#10a37f,[],api
+23 Jan 2024,[],#10a37f,[],api
+24 Jan 2024,[],#10a37f,[],api
+25 Jan 2024,[],#10a37f,[],api
+26 Jan 2024,[],#10a37f,[],api
+27 Jan 2024,[],#10a37f,[],api
+28 Jan 2024,[],#10a37f,[],api
+29 Jan 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 19}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 3}]",#f3a833,"[{""Incident_Title"": ""Elevated errors affecting API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/n38dwwksfkv9""}]",api
+30 Jan 2024,[],#10a37f,[],api
+31 Jan 2024,[],#10a37f,[],api
+1 Feb 2024,[],#10a37f,[],api
+2 Feb 2024,[],#10a37f,[],api
+3 Feb 2024,[],#10a37f,[],api
+4 Feb 2024,[],#10a37f,[],api
+5 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/y6c5p2pcxmzn""}]",api
+6 Feb 2024,[],#10a37f,[],api
+7 Feb 2024,[],#10a37f,[],api
+8 Feb 2024,[],#10a37f,[],api
+9 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/1jr5v353kpcc""}, {""Incident_Title"": ""Elevated errors indexing files in Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/wmqhx8xylds1""}]",api
+10 Feb 2024,[],#10a37f,[],api
+11 Feb 2024,[],#10a37f,[],api
+12 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/shqybftjc7mc""}]",api
+13 Feb 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 316}]",#ef4146,"[{""Incident_Title"": ""Elevated errors across multiple API endpoints and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/mswp9vt22gm2""}, {""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/70p519qgngrw""}]",api
+14 Feb 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 209}]",#ef4146,"[{""Incident_Title"": ""Elevated error rate impacting API services (including Assistants and Fine-tuning)"", ""Incident_Link"": ""https://status.openai.com/incidents/62wkltqhbrmk""}, {""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/70p519qgngrw""}]",api
+15 Feb 2024,[],#10a37f,[],api
+16 Feb 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 70}]",#f3a632,[],api
+17 Feb 2024,[],#10a37f,[],api
+18 Feb 2024,[],#10a37f,[],api
+19 Feb 2024,[],#10a37f,[],api
+20 Feb 2024,[],#10a37f,[],api
+21 Feb 2024,[],#10a37f,[],api
+22 Feb 2024,[],#10a37f,[],api
+23 Feb 2024,[],#10a37f,[],api
+24 Feb 2024,[],#10a37f,[],api
+25 Feb 2024,[],#10a37f,[],api
+26 Feb 2024,[],#10a37f,[],api
+27 Feb 2024,[],#10a37f,[],api
+28 Feb 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 121}]",#e96711,[],api
+29 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Increased queue wait times for GPT-3.5-Turbo fine-tuning jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/zm9ssldbs7ds""}]",api
+1 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Delayed processing of fine tuning jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/lvb30zsnw126""}]",api
+2 Sep 2023,[],#10a37f,[],api
+3 Sep 2023,[],#10a37f,[],api
+4 Sep 2023,[],#10a37f,[],api
+5 Sep 2023,[],#10a37f,[],api
+6 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""File Processing Delays - Fine Tuning Job Affected"", ""Incident_Link"": ""https://status.openai.com/incidents/5zy1x26029bn""}, {""Incident_Title"": ""Increased latency to specific GPT-4 endpoints"", ""Incident_Link"": ""https://status.openai.com/incidents/pjf70pnw4ls6""}]",api
+7 Sep 2023,[],#10a37f,[],api
+8 Sep 2023,[],#10a37f,[],api
+9 Sep 2023,[],#10a37f,[],api
+10 Sep 2023,[],#10a37f,[],api
+11 Sep 2023,[],#10a37f,[],api
+12 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated rates of job failures for gpt-3.5-turbo fine tuning jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/7kxrn5qsm7f2""}]",api
+13 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Increase in latency in ChatGPT conversations for free and paid users and increase in error..."", ""Incident_Link"": ""https://status.openai.com/incidents/p81f131pnw0v""}]",api
+14 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Increased error rates for chat completions endpoint on gpt-3.5-turbo fine tunes"", ""Incident_Link"": ""https://status.openai.com/incidents/gw8rdp4thnsk""}]",api
+15 Sep 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 185}]",#ee483c,"[{""Incident_Title"": ""High error rates for sampling requests to fine tuned snapshots (babbage-002, davinci-002, ..."", ""Incident_Link"": ""https://status.openai.com/incidents/7n8jqsxkzs38""}, {""Incident_Title"": ""Elevated error rates across multiple models (text, image, and audio)"", ""Incident_Link"": ""https://status.openai.com/incidents/dsds2vdmgnnw""}]",api
+16 Sep 2023,[],#10a37f,[],api
+17 Sep 2023,[],#10a37f,[],api
+18 Sep 2023,[],#10a37f,[],api
+19 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Moderation API returning incorrect scores"", ""Incident_Link"": ""https://status.openai.com/incidents/70cbfl5cqxbj""}]",api
+20 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates for sampling requests for fine-tunes of davinci-002 and babbage-002"", ""Incident_Link"": ""https://status.openai.com/incidents/rt6cxft629h0""}, {""Incident_Title"": ""Moderation API returning incorrect scores"", ""Incident_Link"": ""https://status.openai.com/incidents/70cbfl5cqxbj""}]",api
+21 Sep 2023,[],#10a37f,[],api
+22 Sep 2023,[],#10a37f,[],api
+23 Sep 2023,[],#10a37f,[],api
+24 Sep 2023,[],#10a37f,[],api
+25 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Degraded performance on the Embeddings API"", ""Incident_Link"": ""https://status.openai.com/incidents/93ylm07rpbjv""}]",api
+26 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""High error rates on DALLE API and Labs generations"", ""Incident_Link"": ""https://status.openai.com/incidents/b6tkh7zdsgwc""}]",api
+27 Sep 2023,[],#10a37f,[],api
+28 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on DALL\u00b7E API"", ""Incident_Link"": ""https://status.openai.com/incidents/l519spkkk605""}]",api
+29 Sep 2023,[],#10a37f,[],api
+30 Sep 2023,[],#10a37f,[],api
+1 Oct 2023,[],#10a37f,[],api
+2 Oct 2023,[],#10a37f,[],api
+3 Oct 2023,[],#10a37f,[],api
+4 Oct 2023,[],#10a37f,[],api
+5 Oct 2023,[],#10a37f,[],api
+6 Oct 2023,[],#10a37f,[],api
+7 Oct 2023,[],#10a37f,[],api
+8 Oct 2023,[],#10a37f,[],api
+9 Oct 2023,[],#10a37f,[],api
+10 Oct 2023,[],#10a37f,[],api
+11 Oct 2023,[],#10a37f,"[{""Incident_Title"": ""Fine-tuning jobs backed up"", ""Incident_Link"": ""https://status.openai.com/incidents/4391qn7gqfb1""}]",api
+12 Oct 2023,[],#10a37f,[],api
+13 Oct 2023,[],#10a37f,"[{""Incident_Title"": ""Delay in processing uploaded files for Fine-Tuning Jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/ft2zctc3j9bc""}]",api
+14 Oct 2023,[],#10a37f,[],api
+15 Oct 2023,[],#10a37f,[],api
+16 Oct 2023,[],#10a37f,"[{""Incident_Title"": ""Increased error rate for gpt-3.5-turbo on the API"", ""Incident_Link"": ""https://status.openai.com/incidents/w7mdxh7y2c0g""}]",api
+17 Oct 2023,[],#10a37f,[],api
+18 Oct 2023,[],#10a37f,[],api
+19 Oct 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 210}]",#ef4146,"[{""Incident_Title"": ""Elevated API Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/fk0tcbydtybr""}]",api
+20 Oct 2023,[],#10a37f,[],api
+21 Oct 2023,[],#10a37f,[],api
+22 Oct 2023,[],#10a37f,[],api
+23 Oct 2023,[],#10a37f,[],api
+24 Oct 2023,[],#10a37f,[],api
+25 Oct 2023,[],#10a37f,[],api
+26 Oct 2023,[],#10a37f,[],api
+27 Oct 2023,[],#10a37f,[],api
+28 Oct 2023,[],#10a37f,[],api
+29 Oct 2023,[],#10a37f,[],api
+30 Oct 2023,[],#10a37f,[],api
+31 Oct 2023,[],#10a37f,[],api
+1 Nov 2023,[],#10a37f,[],api
+2 Nov 2023,[],#10a37f,[],api
+3 Nov 2023,[],#10a37f,[],api
+4 Nov 2023,[],#10a37f,[],api
+5 Nov 2023,[],#10a37f,[],api
+6 Nov 2023,[],#10a37f,[],api
+7 Nov 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 54}]",#e0ab3c,"[{""Incident_Title"": ""Partial outage across ChatGPT and the API"", ""Incident_Link"": ""https://status.openai.com/incidents/462433f2fk2j""}]",api
+8 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 141}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 7}]",#ef4146,"[{""Incident_Title"": ""Periodic outages across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/21vl32gvx3hb""}, {""Incident_Title"": ""Major Outage across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/00fpy0yxrx1q""}]",api
+9 Nov 2023,[],#10a37f,"[{""Incident_Title"": ""Periodic outages across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/21vl32gvx3hb""}]",api
+10 Nov 2023,[],#10a37f,[],api
+11 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 47}]",#ec5529,"[{""Incident_Title"": ""Labs, API, ChatGPT, and Platform.openai.com are inaccessible"", ""Incident_Link"": ""https://status.openai.com/incidents/xlqxj2ncx6nh""}]",api
+12 Nov 2023,[],#10a37f,[],api
+13 Nov 2023,[],#10a37f,[],api
+14 Nov 2023,[],#10a37f,[],api
+15 Nov 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 174}]",#ed4d34,"[{""Incident_Title"": ""Fine-tuning jobs are experiencing delays in processing"", ""Incident_Link"": ""https://status.openai.com/incidents/z0qhlt6ms67k""}, {""Incident_Title"": ""Elevated error rates on DALLE API and Labs"", ""Incident_Link"": ""https://status.openai.com/incidents/m1fn86ksw0q1""}, {""Incident_Title"": ""Elevated error rates for davinci-002 and babbage-002 fine-tuning jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/t3zhdlrvcrpl""}]",api
+16 Nov 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 44}]",#ceab42,"[{""Incident_Title"": ""Degraded API performance for TTS, Whisper, and Fine-tuning inference"", ""Incident_Link"": ""https://status.openai.com/incidents/ps5q1yfn7794""}, {""Incident_Title"": ""Elevated DALLE API Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/cmf2z1kq9b35""}]",api
+17 Nov 2023,[],#10a37f,[],api
+18 Nov 2023,[],#10a37f,[],api
+19 Nov 2023,[],#10a37f,[],api
+20 Nov 2023,[],#10a37f,[],api
+21 Nov 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 196}]",#ef4344,"[{""Incident_Title"": ""Elevated Errors on API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/n254wyd7nml7""}]",api
+22 Nov 2023,[],#10a37f,[],api
+23 Nov 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated ChatGPT Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/hjkhcq784trv""}]",api
+24 Nov 2023,[],#10a37f,[],api
+25 Nov 2023,[],#10a37f,[],api
+26 Nov 2023,[],#10a37f,[],api
+27 Nov 2023,[],#10a37f,[],api
+28 Nov 2023,[],#10a37f,"[{""Incident_Title"": ""Increased errors across API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/q58417g6n5r7""}, {""Incident_Title"": ""Increased errors during streaming Chat Completions"", ""Incident_Link"": ""https://status.openai.com/incidents/xzsbnxzpw1j2""}]",api
+29 Nov 2023,[],#10a37f,[],api
+30 Nov 2023,[],#10a37f,[],api
+1 Jun 2023,[],#10a37f,[],api
+2 Jun 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 15}]",#9ca952,"[{""Incident_Title"": ""Outage on code-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/fzbn6ldp47n3""}]",api
+3 Jun 2023,[],#10a37f,[],api
+4 Jun 2023,[],#10a37f,[],api
+5 Jun 2023,[],#10a37f,[],api
+6 Jun 2023,[],#10a37f,[],api
+7 Jun 2023,[],#10a37f,[],api
+8 Jun 2023,[],#10a37f,"[{""Incident_Title"": ""Degraded performance on text-davinci-003 and ChatGPT with elevated error rates on multiple..."", ""Incident_Link"": ""https://status.openai.com/incidents/mbs0wctm6dcx""}, {""Incident_Title"": ""Degraded performance on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/3gzktgbgh0vz""}, {""Incident_Title"": ""Elevated error rates for some users of text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/rfmdwp2xcg71""}]",api
+9 Jun 2023,[],#10a37f,[],api
+10 Jun 2023,[],#10a37f,[],api
+11 Jun 2023,[],#10a37f,[],api
+12 Jun 2023,[],#10a37f,[],api
+13 Jun 2023,[],#10a37f,[],api
+14 Jun 2023,[],#10a37f,[],api
+15 Jun 2023,[],#10a37f,[],api
+16 Jun 2023,[],#10a37f,[],api
+17 Jun 2023,[],#10a37f,[],api
+18 Jun 2023,[],#10a37f,[],api
+19 Jun 2023,[],#10a37f,[],api
+20 Jun 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates on gpt-4-32k"", ""Incident_Link"": ""https://status.openai.com/incidents/lqvkhkgdqxg8""}, {""Incident_Title"": ""Eleveated error rates on text-embedding-ada-002"", ""Incident_Link"": ""https://status.openai.com/incidents/6prt189j4hq4""}]",api
+21 Jun 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate on text-embedding-ada-002"", ""Incident_Link"": ""https://status.openai.com/incidents/2z38c72flwrv""}]",api
+22 Jun 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates on text-embedding-ada-002"", ""Incident_Link"": ""https://status.openai.com/incidents/9rv5ms95l3ss""}]",api
+23 Jun 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates on text-embedding-ada-002"", ""Incident_Link"": ""https://status.openai.com/incidents/cbx4jxr7lkcf""}]",api
+24 Jun 2023,[],#10a37f,[],api
+25 Jun 2023,[],#10a37f,[],api
+26 Jun 2023,[],#10a37f,[],api
+27 Jun 2023,[],#10a37f,[],api
+28 Jun 2023,[],#10a37f,[],api
+29 Jun 2023,[],#10a37f,[],api
+30 Jun 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 1}]",#82a85a,"[{""Incident_Title"": ""Elevated error rates affecting Files and Fine-tuned model creation"", ""Incident_Link"": ""https://status.openai.com/incidents/pvgd191ppfxn""}]",api
+1 Jul 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate on gpt-4-0314"", ""Incident_Link"": ""https://status.openai.com/incidents/2k2jf6256z31""}, {""Incident_Title"": ""Elevated error rate on gpt-4 and gpt-4-0613"", ""Incident_Link"": ""https://status.openai.com/incidents/j2hh2691d3z9""}]",api
+2 Jul 2023,[],#10a37f,[],api
+3 Jul 2023,[],#10a37f,[],api
+4 Jul 2023,[],#10a37f,[],api
+5 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 69}]",#f3a732,"[{""Incident_Title"": ""DALL-E API and Labs edits and variations degraded"", ""Incident_Link"": ""https://status.openai.com/incidents/p688x1zdqy4f""}]",api
+6 Jul 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates affecting gpt-4"", ""Incident_Link"": ""https://status.openai.com/incidents/094f6cp38wcf""}, {""Incident_Title"": ""Elevated error rates affecting gpt-4 and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/k8zt0j662p02""}]",api
+7 Jul 2023,[],#10a37f,"[{""Incident_Title"": ""DALL-E API and Labs edits and variations degraded"", ""Incident_Link"": ""https://status.openai.com/incidents/2wvkrb2sf8sk""}]",api
+8 Jul 2023,[],#10a37f,[],api
+9 Jul 2023,[],#10a37f,[],api
+10 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 53}]",#deab3d,"[{""Incident_Title"": ""Elevated error rate affecting GPT-4"", ""Incident_Link"": ""https://status.openai.com/incidents/gx1xm18qrmc3""}, {""Incident_Title"": ""Elevated API error rates on GPT 3.5-turbo models"", ""Incident_Link"": ""https://status.openai.com/incidents/2jr7qpp8rwdp""}, {""Incident_Title"": ""Elevated error rates affecting gpt-4"", ""Incident_Link"": ""https://status.openai.com/incidents/c3h9jktk0d71""}]",api
+11 Jul 2023,[],#10a37f,[],api
+12 Jul 2023,[],#10a37f,[],api
+13 Jul 2023,[],#10a37f,[],api
+14 Jul 2023,[],#10a37f,[],api
+15 Jul 2023,[],#10a37f,[],api
+16 Jul 2023,[],#10a37f,[],api
+17 Jul 2023,[],#10a37f,[],api
+18 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 91}]",#ed881c,"[{""Incident_Title"": ""text-davinci-002 elevated error rates"", ""Incident_Link"": ""https://status.openai.com/incidents/39n436x1lhmr""}]",api
+19 Jul 2023,[],#10a37f,[],api
+20 Jul 2023,[],#10a37f,[],api
+21 Jul 2023,[],#10a37f,[],api
+22 Jul 2023,[],#10a37f,[],api
+23 Jul 2023,[],#10a37f,[],api
+24 Jul 2023,[],#10a37f,[],api
+25 Jul 2023,[],#10a37f,[],api
+26 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 76}]",#f19c2b,"[{""Incident_Title"": ""Elevated error rate in Whisper API"", ""Incident_Link"": ""https://status.openai.com/incidents/9pxh7qmbwp6n""}]",api
+27 Jul 2023,[],#10a37f,[],api
+28 Jul 2023,[],#10a37f,[],api
+29 Jul 2023,[],#10a37f,[],api
+30 Jul 2023,[],#10a37f,[],api
+31 Jul 2023,[],#10a37f,[],api
+1 Aug 2023,[],#10a37f,"[{""Incident_Title"": ""Erroneous rate-limit error messages"", ""Incident_Link"": ""https://status.openai.com/incidents/40851s4v3r7y""}]",api
+2 Aug 2023,[],#10a37f,[],api
+3 Aug 2023,[],#10a37f,[],api
+4 Aug 2023,[],#10a37f,[],api
+5 Aug 2023,[],#10a37f,[],api
+6 Aug 2023,[],#10a37f,[],api
+7 Aug 2023,[],#10a37f,[],api
+8 Aug 2023,[],#10a37f,[],api
+9 Aug 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 325}]",#ef4146,"[{""Incident_Title"": ""Partial outage on training jobs on fine-tuned model creation"", ""Incident_Link"": ""https://status.openai.com/incidents/xr94r5y4ntjd""}, {""Incident_Title"": ""Code interpreter and plugins not completing"", ""Incident_Link"": ""https://status.openai.com/incidents/gv4j4nmz0ry9""}]",api
+10 Aug 2023,[],#10a37f,[],api
+11 Aug 2023,[],#10a37f,[],api
+12 Aug 2023,[],#10a37f,[],api
+13 Aug 2023,[],#10a37f,[],api
+14 Aug 2023,[],#10a37f,[],api
+15 Aug 2023,[],#10a37f,[],api
+16 Aug 2023,[],#10a37f,[],api
+17 Aug 2023,[],#10a37f,[],api
+18 Aug 2023,[],#10a37f,[],api
+19 Aug 2023,[],#10a37f,[],api
+20 Aug 2023,[],#10a37f,[],api
+21 Aug 2023,[],#10a37f,[],api
+22 Aug 2023,[],#10a37f,[],api
+23 Aug 2023,[],#10a37f,[],api
+24 Aug 2023,[],#10a37f,[],api
+25 Aug 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on creating new fine tuning jobs"", ""Incident_Link"": ""https://status.openai.com/incidents/lvvjy2wh8lbx""}, {""Incident_Title"": ""Elevated error rate affecting GPT-4"", ""Incident_Link"": ""https://status.openai.com/incidents/bs2qjf3p8hcs""}]",api
+26 Aug 2023,[],#10a37f,[],api
+27 Aug 2023,[],#10a37f,[],api
+28 Aug 2023,[],#10a37f,"[{""Incident_Title"": ""Some API account features are unavailable, including credit purchases"", ""Incident_Link"": ""https://status.openai.com/incidents/2kgy57jdv5tp""}, {""Incident_Title"": ""Elevated error rates on GPT-4"", ""Incident_Link"": ""https://status.openai.com/incidents/pvfmn5l08lt3""}]",api
+29 Aug 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate affecting GPT-4"", ""Incident_Link"": ""https://status.openai.com/incidents/tqtbd1zfm4ys""}]",api
+30 Aug 2023,[],#10a37f,[],api
+31 Aug 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 91}]",#ed871c,"[{""Incident_Title"": ""Elevated errors on GPT-3.5-Turbo and GPT-4 API"", ""Incident_Link"": ""https://status.openai.com/incidents/qm1mbg1w9b9z""}]",api
+1 Mar 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 58}]",#e8ac3a,"[{""Incident_Title"": ""Outage on Moderations API, impacting latency on DALL\u00b7E and Labs"", ""Incident_Link"": ""https://status.openai.com/incidents/55sczvtl6hyj""}]",api
+2 Mar 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 192}]",#ee4541,"[{""Incident_Title"": ""Partial Outage of the API"", ""Incident_Link"": ""https://status.openai.com/incidents/nkr1l9r1dhbd""}]",api
+3 Mar 2023,[],#10a37f,[],api
+4 Mar 2023,[],#10a37f,[],api
+5 Mar 2023,[],#10a37f,[],api
+6 Mar 2023,[],#10a37f,[],api
+7 Mar 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates on all models."", ""Incident_Link"": ""https://status.openai.com/incidents/75n0s8jzv5gx""}]",api
+8 Mar 2023,[],#10a37f,[],api
+9 Mar 2023,[],#10a37f,[],api
+10 Mar 2023,[],#10a37f,[],api
+11 Mar 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 30}]",#b6aa4a,[],api
+12 Mar 2023,[],#10a37f,[],api
+13 Mar 2023,[],#10a37f,[],api
+14 Mar 2023,[],#10a37f,[],api
+15 Mar 2023,[],#10a37f,[],api
+16 Mar 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 7}]",#aaa94e,[],api
+17 Mar 2023,[],#10a37f,[],api
+18 Mar 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 27}]",#b0a94c,"[{""Incident_Title"": ""Outage in API"", ""Incident_Link"": ""https://status.openai.com/incidents/z0tly13xsyyb""}]",api
+19 Mar 2023,[],#10a37f,[],api
+20 Mar 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 30}]",#b6aa4a,"[{""Incident_Title"": ""Outage on text-curie-001"", ""Incident_Link"": ""https://status.openai.com/incidents/904wl07j5xm1""}]",api
+21 Mar 2023,[],#10a37f,[],api
+22 Mar 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated latency + error rate on text-davinci-003 and gpt-3.5-turbo"", ""Incident_Link"": ""https://status.openai.com/incidents/fw6nnl9thq6r""}]",api
+23 Mar 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated failure rate affecting GPT-4."", ""Incident_Link"": ""https://status.openai.com/incidents/wq2p3dvprvf3""}]",api
+24 Mar 2023,[],#10a37f,[],api
+25 Mar 2023,[],#10a37f,[],api
+26 Mar 2023,[],#10a37f,[],api
+27 Mar 2023,[],#10a37f,"[{""Incident_Title"": ""DALL-E, Embeddings, Moderation and Whisper API are experiencing degraded performance"", ""Incident_Link"": ""https://status.openai.com/incidents/vsj5y32mxp0r""}]",api
+28 Mar 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 30}]",#b6aa4a,"[{""Incident_Title"": ""API error rate increase"", ""Incident_Link"": ""https://status.openai.com/incidents/gclzj9h0jfql""}]",api
+29 Mar 2023,[],#10a37f,[],api
+30 Mar 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated API error rate"", ""Incident_Link"": ""https://status.openai.com/incidents/jn5x777t9g8d""}]",api
+31 Mar 2023,[],#10a37f,[],api
+1 Apr 2023,[],#10a37f,[],api
+2 Apr 2023,[],#10a37f,[],api
+3 Apr 2023,[],#10a37f,[],api
+4 Apr 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 72}]",#f2a330,"[{""Incident_Title"": ""Increased errors on gpt-3-5-turbo, curie and davinci fine tuned models"", ""Incident_Link"": ""https://status.openai.com/incidents/w9mflvvd2rv4""}]",api
+5 Apr 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 11}]",#96a854,"[{""Incident_Title"": ""Partial outage on davinci fine tuned models"", ""Incident_Link"": ""https://status.openai.com/incidents/bd361qzn4wwk""}]",api
+6 Apr 2023,[],#10a37f,[],api
+7 Apr 2023,[],#10a37f,[],api
+8 Apr 2023,[],#10a37f,[],api
+9 Apr 2023,[],#10a37f,[],api
+10 Apr 2023,[],#10a37f,[],api
+11 Apr 2023,[],#10a37f,[],api
+12 Apr 2023,[],#10a37f,[],api
+13 Apr 2023,[],#10a37f,[],api
+14 Apr 2023,[],#10a37f,[],api
+15 Apr 2023,[],#10a37f,[],api
+16 Apr 2023,[],#10a37f,[],api
+17 Apr 2023,[],#10a37f,[],api
+18 Apr 2023,[],#10a37f,[],api
+19 Apr 2023,[],#10a37f,[],api
+20 Apr 2023,[],#10a37f,[],api
+21 Apr 2023,[],#10a37f,"[{""Incident_Title"": ""Minor increase in error rates across all models"", ""Incident_Link"": ""https://status.openai.com/incidents/911qqwlvm46k""}]",api
+22 Apr 2023,[],#10a37f,[],api
+23 Apr 2023,[],#10a37f,[],api
+24 Apr 2023,[],#10a37f,[],api
+25 Apr 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 105}]",#e9720d,"[{""Incident_Title"": ""Partial outage affecting DALLE and Moderations API"", ""Incident_Link"": ""https://status.openai.com/incidents/qhh2rvr528qh""}, {""Incident_Title"": ""Elevated error rates on some OpenAI models"", ""Incident_Link"": ""https://status.openai.com/incidents/h0trpydy4dqw""}]",api
+26 Apr 2023,[],#10a37f,[],api
+27 Apr 2023,[],#10a37f,[],api
+28 Apr 2023,[],#10a37f,"[{""Incident_Title"": ""Whisper API is experiencing degraded performance"", ""Incident_Link"": ""https://status.openai.com/incidents/r8zch6g794b1""}]",api
+29 Apr 2023,[],#10a37f,[],api
+30 Apr 2023,[],#10a37f,[],api
+1 May 2023,[],#10a37f,[],api
+2 May 2023,[],#10a37f,[],api
+3 May 2023,[],#10a37f,"[{""Incident_Title"": ""text-davinci-003 is experiencing degraded performance"", ""Incident_Link"": ""https://status.openai.com/incidents/7hk17svmtnzq""}]",api
+4 May 2023,[],#10a37f,[],api
+5 May 2023,[],#10a37f,[],api
+6 May 2023,[],#10a37f,[],api
+7 May 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 21}]",#a7a94f,"[{""Incident_Title"": ""Elevated issues in labs, v1/images API, and v1/moderations API"", ""Incident_Link"": ""https://status.openai.com/incidents/pvmyt0m129wj""}]",api
+8 May 2023,[],#10a37f,[],api
+9 May 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 19}]",#f1ac37,"[{""Incident_Title"": ""Outage affecting text-davinci-003, Curie models, and DALL-E"", ""Incident_Link"": ""https://status.openai.com/incidents/3qqvjp7wzf43""}]",api
+10 May 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 28}]",#b2a94b,"[{""Incident_Title"": ""Elevated error rates across all services"", ""Incident_Link"": ""https://status.openai.com/incidents/wz6ndnqbzgt0""}, {""Incident_Title"": ""Elevated errors rates across multiple models"", ""Incident_Link"": ""https://status.openai.com/incidents/nsxptf4yxf1p""}]",api
+11 May 2023,[],#10a37f,"[{""Incident_Title"": ""Outage on DALL-E API"", ""Incident_Link"": ""https://status.openai.com/incidents/00py3j1ndcr3""}]",api
+12 May 2023,[],#10a37f,[],api
+13 May 2023,[],#10a37f,[],api
+14 May 2023,[],#10a37f,[],api
+15 May 2023,[],#10a37f,[],api
+16 May 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 34}]",#e86a0c,"[{""Incident_Title"": ""DALL-E outage on labs.openai.com and API"", ""Incident_Link"": ""https://status.openai.com/incidents/yjy51r0z6sbm""}]",api
+17 May 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates affecting gpt-4 and text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/w10wvlpskc7p""}]",api
+18 May 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 8}]",#90a856,"[{""Incident_Title"": ""Elevated error rates for API & ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/qq8bygtcgp2k""}]",api
+19 May 2023,[],#10a37f,[],api
+20 May 2023,[],#10a37f,[],api
+21 May 2023,[],#10a37f,[],api
+22 May 2023,[],#10a37f,[],api
+23 May 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates across all services"", ""Incident_Link"": ""https://status.openai.com/incidents/8myhythbkn51""}]",api
+24 May 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 51}]",#ed4e33,"[{""Incident_Title"": ""Multiple engines have elevated error rates"", ""Incident_Link"": ""https://status.openai.com/incidents/jbt079x532bg""}]",api
+25 May 2023,[],#10a37f,[],api
+26 May 2023,[],#10a37f,[],api
+27 May 2023,[],#10a37f,[],api
+28 May 2023,[],#10a37f,[],api
+29 May 2023,[],#10a37f,[],api
+30 May 2023,[],#10a37f,[],api
+31 May 2023,[],#10a37f,[],api
+1 Dec 2022,[],#10a37f,[],api
+2 Dec 2022,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on Image and Moderation APIs"", ""Incident_Link"": ""https://status.openai.com/incidents/rxgy83j2s0cl""}]",api
+3 Dec 2022,[],#10a37f,[],api
+4 Dec 2022,[],#10a37f,[],api
+5 Dec 2022,[],#10a37f,"[{""Incident_Title"": ""Elevated latency + error rate on some models"", ""Incident_Link"": ""https://status.openai.com/incidents/3tbqg3x0fs1j""}]",api
+6 Dec 2022,[],#10a37f,[],api
+7 Dec 2022,[],#10a37f,"[{""Incident_Title"": ""Elevated latency + error rate on all models"", ""Incident_Link"": ""https://status.openai.com/incidents/fsf45b1fxgmg""}]",api
+8 Dec 2022,[],#10a37f,[],api
+9 Dec 2022,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 19}]",#f3ac36,"[{""Incident_Title"": ""Degredation across all API endpoints"", ""Incident_Link"": ""https://status.openai.com/incidents/qwddp6y07r21""}]",api
+10 Dec 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 119}]",#e96710,"[{""Incident_Title"": ""Ada finetune engines experience high error rates"", ""Incident_Link"": ""https://status.openai.com/incidents/1zk5t84xx49c""}]",api
+11 Dec 2022,[],#10a37f,[],api
+12 Dec 2022,[],#10a37f,[],api
+13 Dec 2022,[],#10a37f,[],api
+14 Dec 2022,[],#10a37f,[],api
+15 Dec 2022,[],#10a37f,[],api
+16 Dec 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 92}]",#ed861b,"[{""Incident_Title"": ""High latencies on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/2s598rnnc1xy""}, {""Incident_Title"": ""Ada embedding engines experiencing high error rate"", ""Incident_Link"": ""https://status.openai.com/incidents/6rkg1zwnnvqr""}]",api
+17 Dec 2022,[],#10a37f,[],api
+18 Dec 2022,[],#10a37f,[],api
+19 Dec 2022,[],#10a37f,[],api
+20 Dec 2022,[],#10a37f,[],api
+21 Dec 2022,[],#10a37f,[],api
+22 Dec 2022,[],#10a37f,[],api
+23 Dec 2022,[],#10a37f,[],api
+24 Dec 2022,[],#10a37f,[],api
+25 Dec 2022,[],#10a37f,[],api
+26 Dec 2022,[],#10a37f,[],api
+27 Dec 2022,[],#10a37f,[],api
+28 Dec 2022,[],#10a37f,[],api
+29 Dec 2022,[],#10a37f,[],api
+30 Dec 2022,[],#10a37f,[],api
+31 Dec 2022,[],#10a37f,[],api
+1 Jan 2023,[],#10a37f,[],api
+2 Jan 2023,[],#10a37f,[],api
+3 Jan 2023,[],#10a37f,[],api
+4 Jan 2023,[],#10a37f,[],api
+5 Jan 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 166}]",#ec512f,"[{""Incident_Title"": ""Elevated latency + error rate on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/820wp9j4tz4q""}]",api
+6 Jan 2023,[],#10a37f,[],api
+7 Jan 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 427}]",#ef4146,"[{""Incident_Title"": ""Elevated latency + error rate on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/b3l4j2kbtzh7""}]",api
+8 Jan 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 87}]",#ee8d20,"[{""Incident_Title"": ""Elevated latency + error rate on code-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/95r99nh8klw1""}]",api
+9 Jan 2023,[],#10a37f,[],api
+10 Jan 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 107}]",#e9700c,"[{""Incident_Title"": ""High latency and error rates on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/6vnc9k50xfrb""}]",api
+11 Jan 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 128}]",#e96316,"[{""Incident_Title"": ""Elevated latency + error rate on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/4yt8t89bw56k""}, {""Incident_Title"": ""Elevated latency + error rate on code-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/rk6lhfgt0frs""}]",api
+12 Jan 2023,[],#10a37f,[],api
+13 Jan 2023,[],#10a37f,[],api
+14 Jan 2023,[],#10a37f,[],api
+15 Jan 2023,[],#10a37f,[],api
+16 Jan 2023,[],#10a37f,[],api
+17 Jan 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated API Errors on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/jccgxcytvfvj""}]",api
+18 Jan 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 7}]",#aba94d,"[{""Incident_Title"": ""Outage for text-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/7jmh8k8p9dvw""}]",api
+19 Jan 2023,[],#10a37f,[],api
+20 Jan 2023,[],#10a37f,[],api
+21 Jan 2023,[],#10a37f,[],api
+22 Jan 2023,[],#10a37f,[],api
+23 Jan 2023,[],#10a37f,[],api
+24 Jan 2023,[],#10a37f,[],api
+25 Jan 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 260}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 66}]",#ef4146,"[{""Incident_Title"": ""Multiple engines are down"", ""Incident_Link"": ""https://status.openai.com/incidents/tljwlz08w539""}, {""Incident_Title"": ""Elevated error rates on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/3k71p5qjg0pf""}]",api
+26 Jan 2023,[],#10a37f,[],api
+27 Jan 2023,[],#10a37f,[],api
+28 Jan 2023,[],#10a37f,[],api
+29 Jan 2023,[],#10a37f,"[{""Incident_Title"": ""Multiple API endpoints are down"", ""Incident_Link"": ""https://status.openai.com/incidents/ttsvq5p4379d""}]",api
+30 Jan 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 13}]",#cdaa43,"[{""Incident_Title"": ""Multiple API endpoints are down"", ""Incident_Link"": ""https://status.openai.com/incidents/br1fbkxcmt68""}]",api
+31 Jan 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 57}]",#ee4540,"[{""Incident_Title"": ""Multiple API endpoints impacted"", ""Incident_Link"": ""https://status.openai.com/incidents/v0svxqjzhsrr""}]",api
+1 Feb 2023,[],#10a37f,[],api
+2 Feb 2023,[],#10a37f,[],api
+3 Feb 2023,[],#10a37f,[],api
+4 Feb 2023,[],#10a37f,[],api
+5 Feb 2023,[],#10a37f,[],api
+6 Feb 2023,[],#10a37f,[],api
+7 Feb 2023,[],#10a37f,[],api
+8 Feb 2023,[],#10a37f,[],api
+9 Feb 2023,[],#10a37f,"[{""Incident_Title"": ""Degraded performance on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/1nwf7xt5y5j4""}]",api
+10 Feb 2023,[],#10a37f,[],api
+11 Feb 2023,[],#10a37f,[],api
+12 Feb 2023,[],#10a37f,[],api
+13 Feb 2023,[],#10a37f,"[{""Incident_Title"": ""Degraded performance on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/6j5rly832k8t""}]",api
+14 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 57}]",#ee4541,"[{""Incident_Title"": ""Outage on fine-tuned Curie models"", ""Incident_Link"": ""https://status.openai.com/incidents/pfjlxg6d6rgq""}, {""Incident_Title"": ""Major outage on text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/9hrykvh16skp""}]",api
+15 Feb 2023,[],#10a37f,[],api
+16 Feb 2023,[],#10a37f,"[{""Incident_Title"": ""Fine tune jobs are taking longer to run than usual"", ""Incident_Link"": ""https://status.openai.com/incidents/bfgtmq5gqlx5""}, {""Incident_Title"": ""Degraded performance on text-davinci-002 and code-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/qtdx7xs6tk70""}]",api
+17 Feb 2023,[],#10a37f,[],api
+18 Feb 2023,[],#10a37f,[],api
+19 Feb 2023,[],#10a37f,[],api
+20 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 19}]",#f3ac36,"[{""Incident_Title"": ""Outage on all models"", ""Incident_Link"": ""https://status.openai.com/incidents/mq5jgswy45fr""}]",api
+21 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 186}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 19}]",#ef4146,"[{""Incident_Title"": ""OpenAI Labs (DALL\u00b7E User interface) and Some API Endpoint Degradation"", ""Incident_Link"": ""https://status.openai.com/incidents/vzrthmy2shh7""}, {""Incident_Title"": ""Outage on all models"", ""Incident_Link"": ""https://status.openai.com/incidents/mq5jgswy45fr""}]",api
+22 Feb 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 113}]",#e86a0c,"[{""Incident_Title"": ""Partial Outage for Edit and Variation functionality on the Images API and OpenAI Labs (DAL..."", ""Incident_Link"": ""https://status.openai.com/incidents/7t1xsrrk259t""}, {""Incident_Title"": ""Outage on text-embedding-ada-002"", ""Incident_Link"": ""https://status.openai.com/incidents/sncytbfx8wb7""}]",api
+23 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 34}]",#e8690d,"[{""Incident_Title"": ""Outage on multiple models"", ""Incident_Link"": ""https://status.openai.com/incidents/s29fb94kx5q7""}]",api
+24 Feb 2023,[],#10a37f,[],api
+25 Feb 2023,[],#10a37f,[],api
+26 Feb 2023,[],#10a37f,[],api
+27 Feb 2023,[],#10a37f,[],api
+28 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 16}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 57}]",#e86b0b,"[{""Incident_Title"": ""Outage on DALL\u00b7E API and text-davinci-003"", ""Incident_Link"": ""https://status.openai.com/incidents/7wrs0psqdl15""}]",api
+1 Sep 2022,[],#10a37f,[],api
+2 Sep 2022,[],#10a37f,[],api
+3 Sep 2022,[],#10a37f,[],api
+4 Sep 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 7}]",#8ea857,"[{""Incident_Title"": ""Elevated errors on some Curie models"", ""Incident_Link"": ""https://status.openai.com/incidents/7ctmj1q7p0vm""}]",api
+5 Sep 2022,[],#10a37f,[],api
+6 Sep 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 34}]",#beaa47,"[{""Incident_Title"": ""Increased latencies, failures in text-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/98p2cpwbwxnq""}]",api
+7 Sep 2022,[],#10a37f,[],api
+8 Sep 2022,[],#10a37f,[],api
+9 Sep 2022,[],#10a37f,[],api
+10 Sep 2022,[],#10a37f,[],api
+11 Sep 2022,[],#10a37f,[],api
+12 Sep 2022,[],#10a37f,[],api
+13 Sep 2022,[],#10a37f,[],api
+14 Sep 2022,[],#10a37f,[],api
+15 Sep 2022,[],#10a37f,[],api
+16 Sep 2022,[],#10a37f,"[{""Incident_Title"": ""Partial degradation of finetuned models outputs"", ""Incident_Link"": ""https://status.openai.com/incidents/0dnn5yfxvk6d""}]",api
+17 Sep 2022,[],#10a37f,[],api
+18 Sep 2022,[],#10a37f,[],api
+19 Sep 2022,[],#10a37f,[],api
+20 Sep 2022,[],#10a37f,"[{""Incident_Title"": ""Elevated 400 errors on requests with suffix parameter set"", ""Incident_Link"": ""https://status.openai.com/incidents/vwd8zncpm96w""}]",api
+21 Sep 2022,[],#10a37f,"[{""Incident_Title"": ""Partial Outage on Account Management"", ""Incident_Link"": ""https://status.openai.com/incidents/mmp1ph8sp9j2""}]",api
+22 Sep 2022,[],#10a37f,[],api
+23 Sep 2022,[],#10a37f,[],api
+24 Sep 2022,[],#10a37f,[],api
+25 Sep 2022,[],#10a37f,[],api
+26 Sep 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 10}]",#94a855,"[{""Incident_Title"": ""Outage on some davinci models"", ""Incident_Link"": ""https://status.openai.com/incidents/rh00pyzkt4h9""}]",api
+27 Sep 2022,[],#10a37f,[],api
+28 Sep 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 30}]",#b7aa4a,"[{""Incident_Title"": ""Error responses from Content Filter"", ""Incident_Link"": ""https://status.openai.com/incidents/m52xd9lt7kkd""}]",api
+29 Sep 2022,[],#10a37f,[],api
+30 Sep 2022,[],#10a37f,[],api
+1 Oct 2022,[],#10a37f,[],api
+2 Oct 2022,[],#10a37f,[],api
+3 Oct 2022,[],#10a37f,[],api
+4 Oct 2022,[],#10a37f,[],api
+5 Oct 2022,[],#10a37f,[],api
+6 Oct 2022,[],#10a37f,[],api
+7 Oct 2022,[],#10a37f,[],api
+8 Oct 2022,[],#10a37f,[],api
+9 Oct 2022,[],#10a37f,[],api
+10 Oct 2022,[],#10a37f,[],api
+11 Oct 2022,[],#10a37f,[],api
+12 Oct 2022,[],#10a37f,[],api
+13 Oct 2022,[],#10a37f,[],api
+14 Oct 2022,[],#10a37f,[],api
+15 Oct 2022,[],#10a37f,[],api
+16 Oct 2022,[],#10a37f,[],api
+17 Oct 2022,[],#10a37f,[],api
+18 Oct 2022,[],#10a37f,[],api
+19 Oct 2022,[],#10a37f,[],api
+20 Oct 2022,[],#10a37f,[],api
+21 Oct 2022,[],#10a37f,[],api
+22 Oct 2022,[],#10a37f,[],api
+23 Oct 2022,[],#10a37f,[],api
+24 Oct 2022,[],#10a37f,[],api
+25 Oct 2022,[],#10a37f,[],api
+26 Oct 2022,[],#10a37f,[],api
+27 Oct 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 12}]",#97a854,"[{""Incident_Title"": ""Outage on some Curie models"", ""Incident_Link"": ""https://status.openai.com/incidents/ldgr8phtyx5v""}]",api
+28 Oct 2022,[],#10a37f,[],api
+29 Oct 2022,[],#10a37f,[],api
+30 Oct 2022,[],#10a37f,[],api
+31 Oct 2022,[],#10a37f,[],api
+1 Nov 2022,[],#10a37f,[],api
+2 Nov 2022,[],#10a37f,[],api
+3 Nov 2022,[],#10a37f,[],api
+4 Nov 2022,[],#10a37f,[],api
+5 Nov 2022,[],#10a37f,[],api
+6 Nov 2022,[],#10a37f,[],api
+7 Nov 2022,[],#10a37f,[],api
+8 Nov 2022,[],#10a37f,[],api
+9 Nov 2022,[],#10a37f,[],api
+10 Nov 2022,[],#10a37f,[],api
+11 Nov 2022,[],#10a37f,"[{""Incident_Title"": ""Elevated latency + error rate on Image APIs"", ""Incident_Link"": ""https://status.openai.com/incidents/8fzpls5z3pyv""}]",api
+12 Nov 2022,[],#10a37f,[],api
+13 Nov 2022,[],#10a37f,[],api
+14 Nov 2022,[],#10a37f,[],api
+15 Nov 2022,[],#10a37f,[],api
+16 Nov 2022,[],#10a37f,"[{""Incident_Title"": ""Elevated latency + error rate on some models"", ""Incident_Link"": ""https://status.openai.com/incidents/b3v85ygc88dh""}]",api
+17 Nov 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 57}]",#e4ab3b,"[{""Incident_Title"": ""Outage for text-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/syxvnwvys0jw""}]",api
+18 Nov 2022,[],#10a37f,[],api
+19 Nov 2022,[],#10a37f,[],api
+20 Nov 2022,[],#10a37f,[],api
+21 Nov 2022,[],#10a37f,[],api
+22 Nov 2022,[],#10a37f,[],api
+23 Nov 2022,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on Image and Moderation APIs"", ""Incident_Link"": ""https://status.openai.com/incidents/sdnrfjf2yytz""}]",api
+24 Nov 2022,[],#10a37f,[],api
+25 Nov 2022,[],#10a37f,[],api
+26 Nov 2022,[],#10a37f,[],api
+27 Nov 2022,[],#10a37f,[],api
+28 Nov 2022,[],#10a37f,[],api
+29 Nov 2022,[],#10a37f,[],api
+30 Nov 2022,[],#10a37f,[],api
+1 Jun 2022,[],#10a37f,[],api
+2 Jun 2022,[],#10a37f,[],api
+3 Jun 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 36}]",#c0aa47,"[{""Incident_Title"": ""Degradation in serving fine tuned models."", ""Incident_Link"": ""https://status.openai.com/incidents/4cmnntq2t89y""}]",api
+4 Jun 2022,[],#10a37f,[],api
+5 Jun 2022,[],#10a37f,[],api
+6 Jun 2022,[],#10a37f,[],api
+7 Jun 2022,[],#10a37f,[],api
+8 Jun 2022,[],#10a37f,[],api
+9 Jun 2022,[],#10a37f,[],api
+10 Jun 2022,[],#10a37f,[],api
+11 Jun 2022,[],#10a37f,[],api
+12 Jun 2022,[],#10a37f,[],api
+13 Jun 2022,[],#10a37f,[],api
+14 Jun 2022,[],#10a37f,[],api
+15 Jun 2022,[],#10a37f,[],api
+16 Jun 2022,[],#10a37f,[],api
+17 Jun 2022,[],#10a37f,[],api
+18 Jun 2022,[],#10a37f,[],api
+19 Jun 2022,[],#10a37f,[],api
+20 Jun 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 4}]",#8aa858,"[{""Incident_Title"": ""Base babbage model currently down"", ""Incident_Link"": ""https://status.openai.com/incidents/2bxby42r6wv4""}]",api
+21 Jun 2022,[],#10a37f,[],api
+22 Jun 2022,[],#10a37f,[],api
+23 Jun 2022,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 60}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 304}]",#ef4146,[],api
+24 Jun 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 390}]",#ef4146,"[{""Incident_Title"": ""Cluster Outage"", ""Incident_Link"": ""https://status.openai.com/incidents/7h9pjy5d1lz5""}]",api
+25 Jun 2022,[],#10a37f,[],api
+26 Jun 2022,[],#10a37f,[],api
+27 Jun 2022,[],#10a37f,[],api
+28 Jun 2022,[],#10a37f,[],api
+29 Jun 2022,[],#10a37f,[],api
+30 Jun 2022,[],#10a37f,[],api
+1 Jul 2022,[],#10a37f,[],api
+2 Jul 2022,[],#10a37f,[],api
+3 Jul 2022,[],#10a37f,[],api
+4 Jul 2022,[],#10a37f,[],api
+5 Jul 2022,[],#10a37f,[],api
+6 Jul 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 49}]",#d7ab3f,"[{""Incident_Title"": ""Outage on some Ada and Babbage models"", ""Incident_Link"": ""https://status.openai.com/incidents/qz0h6b7jw268""}]",api
+7 Jul 2022,[],#10a37f,"[{""Incident_Title"": ""Outage on some Ada and Babbage models"", ""Incident_Link"": ""https://status.openai.com/incidents/qz0h6b7jw268""}]",api
+8 Jul 2022,[],#10a37f,[],api
+9 Jul 2022,[],#10a37f,[],api
+10 Jul 2022,[],#10a37f,[],api
+11 Jul 2022,[],#10a37f,[],api
+12 Jul 2022,[],#10a37f,[],api
+13 Jul 2022,[],#10a37f,[],api
+14 Jul 2022,[],#10a37f,[],api
+15 Jul 2022,[],#10a37f,[],api
+16 Jul 2022,[],#10a37f,[],api
+17 Jul 2022,[],#10a37f,[],api
+18 Jul 2022,[],#10a37f,"[{""Incident_Title"": ""Authentication outage"", ""Incident_Link"": ""https://status.openai.com/incidents/x7ypskmhwdmj""}]",api
+19 Jul 2022,[],#10a37f,[],api
+20 Jul 2022,[],#10a37f,[],api
+21 Jul 2022,[],#10a37f,[],api
+22 Jul 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 16}]",#9ea951,"[{""Incident_Title"": ""Error responses for curie fine-tuned models"", ""Incident_Link"": ""https://status.openai.com/incidents/0vbqdb8gmyvy""}]",api
+23 Jul 2022,[],#10a37f,"[{""Incident_Title"": ""Error responses for curie fine-tuned models"", ""Incident_Link"": ""https://status.openai.com/incidents/0vbqdb8gmyvy""}]",api
+24 Jul 2022,[],#10a37f,[],api
+25 Jul 2022,[],#10a37f,[],api
+26 Jul 2022,[],#10a37f,[],api
+27 Jul 2022,[],#10a37f,[],api
+28 Jul 2022,[],#10a37f,[],api
+29 Jul 2022,[],#10a37f,[],api
+30 Jul 2022,[],#10a37f,[],api
+31 Jul 2022,[],#10a37f,[],api
+1 Aug 2022,[],#10a37f,[],api
+2 Aug 2022,[],#10a37f,[],api
+3 Aug 2022,[],#10a37f,[],api
+4 Aug 2022,[],#10a37f,[],api
+5 Aug 2022,[],#10a37f,[],api
+6 Aug 2022,[],#10a37f,[],api
+7 Aug 2022,[],#10a37f,[],api
+8 Aug 2022,[],#10a37f,[],api
+9 Aug 2022,[],#10a37f,[],api
+10 Aug 2022,[],#10a37f,[],api
+11 Aug 2022,[],#10a37f,[],api
+12 Aug 2022,[],#10a37f,[],api
+13 Aug 2022,[],#10a37f,[],api
+14 Aug 2022,[],#10a37f,[],api
+15 Aug 2022,[],#10a37f,[],api
+16 Aug 2022,[],#10a37f,[],api
+17 Aug 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 32}]",#baaa49,"[{""Incident_Title"": ""Elevated errors on fine-tuned Babbage models"", ""Incident_Link"": ""https://status.openai.com/incidents/sb9nhynw9jjf""}]",api
+18 Aug 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 87}]",#ee8d20,"[{""Incident_Title"": ""Elevated errors on some davinci models"", ""Incident_Link"": ""https://status.openai.com/incidents/xplpszlpsh5j""}]",api
+19 Aug 2022,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 83}]",#ef4146,"[{""Incident_Title"": ""Outage on All Endpoints"", ""Incident_Link"": ""https://status.openai.com/incidents/ljkf68byn8bm""}]",api
+20 Aug 2022,[],#10a37f,[],api
+21 Aug 2022,[],#10a37f,[],api
+22 Aug 2022,[],#10a37f,[],api
+23 Aug 2022,[],#10a37f,[],api
+24 Aug 2022,[],#10a37f,"[{""Incident_Title"": ""Partial Outage on Account Management"", ""Incident_Link"": ""https://status.openai.com/incidents/nkbpzgdp4sh5""}]",api
+25 Aug 2022,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 55}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 43}]",#ef4146,"[{""Incident_Title"": ""Outage in text-davinci-002"", ""Incident_Link"": ""https://status.openai.com/incidents/56m9dhrdmzq6""}]",api
+26 Aug 2022,[],#10a37f,[],api
+27 Aug 2022,[],#10a37f,[],api
+28 Aug 2022,[],#10a37f,[],api
+29 Aug 2022,[],#10a37f,[],api
+30 Aug 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 26}]",#b0a94c,"[{""Incident_Title"": ""Partial outage in some ada, davinci models"", ""Incident_Link"": ""https://status.openai.com/incidents/ydpd7d9v63r7""}]",api
+31 Aug 2022,[],#10a37f,[],api
+1 Mar 2022,[],#10a37f,[],api
+2 Mar 2022,[],#10a37f,[],api
+3 Mar 2022,[],#10a37f,[],api
+4 Mar 2022,[],#10a37f,[],api
+5 Mar 2022,[],#10a37f,[],api
+6 Mar 2022,[],#10a37f,[],api
+7 Mar 2022,[],#10a37f,[],api
+8 Mar 2022,[],#10a37f,[],api
+9 Mar 2022,[],#10a37f,[],api
+10 Mar 2022,[],#10a37f,[],api
+11 Mar 2022,[],#10a37f,[],api
+12 Mar 2022,[],#10a37f,[],api
+13 Mar 2022,[],#10a37f,"[{""Incident_Title"": ""Degraded API Performance"", ""Incident_Link"": ""https://status.openai.com/incidents/y25mr50w80df""}]",api
+14 Mar 2022,[],#10a37f,[],api
+15 Mar 2022,[],#10a37f,[],api
+16 Mar 2022,[],#10a37f,[],api
+17 Mar 2022,[],#10a37f,[],api
+18 Mar 2022,[],#10a37f,[],api
+19 Mar 2022,[],#10a37f,[],api
+20 Mar 2022,[],#10a37f,[],api
+21 Mar 2022,[],#10a37f,[],api
+22 Mar 2022,[],#10a37f,[],api
+23 Mar 2022,[],#10a37f,[],api
+24 Mar 2022,[],#10a37f,[],api
+25 Mar 2022,[],#10a37f,"[{""Incident_Title"": ""Degraded Fine-tune Model Performance"", ""Incident_Link"": ""https://status.openai.com/incidents/xmbcbch07pnp""}]",api
+26 Mar 2022,[],#10a37f,[],api
+27 Mar 2022,[],#10a37f,[],api
+28 Mar 2022,[],#10a37f,[],api
+29 Mar 2022,[],#10a37f,[],api
+30 Mar 2022,[],#10a37f,[],api
+31 Mar 2022,[],#10a37f,[],api
+1 Apr 2022,[],#10a37f,[],api
+2 Apr 2022,[],#10a37f,[],api
+3 Apr 2022,[],#10a37f,[],api
+4 Apr 2022,[],#10a37f,[],api
+5 Apr 2022,[],#10a37f,[],api
+6 Apr 2022,[],#10a37f,[],api
+7 Apr 2022,[],#10a37f,[],api
+8 Apr 2022,[],#10a37f,[],api
+9 Apr 2022,[],#10a37f,[],api
+10 Apr 2022,[],#10a37f,[],api
+11 Apr 2022,[],#10a37f,[],api
+12 Apr 2022,[],#10a37f,[],api
+13 Apr 2022,[],#10a37f,[],api
+14 Apr 2022,[],#10a37f,[],api
+15 Apr 2022,[],#10a37f,[],api
+16 Apr 2022,[],#10a37f,[],api
+17 Apr 2022,[],#10a37f,[],api
+18 Apr 2022,[],#10a37f,[],api
+19 Apr 2022,[],#10a37f,[],api
+20 Apr 2022,[],#10a37f,[],api
+21 Apr 2022,[],#10a37f,[],api
+22 Apr 2022,[],#10a37f,[],api
+23 Apr 2022,[],#10a37f,[],api
+24 Apr 2022,[],#10a37f,[],api
+25 Apr 2022,[],#10a37f,[],api
+26 Apr 2022,[],#10a37f,[],api
+27 Apr 2022,[],#10a37f,[],api
+28 Apr 2022,[],#10a37f,[],api
+29 Apr 2022,[],#10a37f,[],api
+30 Apr 2022,[],#10a37f,[],api
+1 May 2022,[],#10a37f,[],api
+2 May 2022,[],#10a37f,[],api
+3 May 2022,[],#10a37f,[],api
+4 May 2022,[],#10a37f,[],api
+5 May 2022,[],#10a37f,[],api
+6 May 2022,[],#10a37f,[],api
+7 May 2022,[],#10a37f,[],api
+8 May 2022,[],#10a37f,[],api
+9 May 2022,[],#10a37f,[],api
+10 May 2022,[],#10a37f,[],api
+11 May 2022,[],#10a37f,[],api
+12 May 2022,[],#10a37f,[],api
+13 May 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 61}]",#ecac39,"[{""Incident_Title"": ""Partial outage on fine-tuned davinci models"", ""Incident_Link"": ""https://status.openai.com/incidents/207xg6548byf""}]",api
+14 May 2022,[],#10a37f,[],api
+15 May 2022,[],#10a37f,[],api
+16 May 2022,[],#10a37f,"[{""Incident_Title"": ""Degradation Across All API Endpoints"", ""Incident_Link"": ""https://status.openai.com/incidents/qmq4pfs877z0""}]",api
+17 May 2022,[],#10a37f,[],api
+18 May 2022,[],#10a37f,"[{""Incident_Title"": ""Degraded API performance"", ""Incident_Link"": ""https://status.openai.com/incidents/4v96nl1gwmlc""}]",api
+19 May 2022,[],#10a37f,[],api
+20 May 2022,[],#10a37f,[],api
+21 May 2022,[],#10a37f,[],api
+22 May 2022,[],#10a37f,[],api
+23 May 2022,[],#10a37f,[],api
+24 May 2022,[],#10a37f,[],api
+25 May 2022,[],#10a37f,[],api
+26 May 2022,[],#10a37f,[],api
+27 May 2022,[],#10a37f,[],api
+28 May 2022,[],#10a37f,[],api
+29 May 2022,[],#10a37f,[],api
+30 May 2022,[],#10a37f,[],api
+31 May 2022,[],#10a37f,[],api
+1 Dec 2021,[],#10a37f,[],api
+2 Dec 2021,[],#10a37f,[],api
+3 Dec 2021,[],#10a37f,[],api
+4 Dec 2021,[],#10a37f,[],api
+5 Dec 2021,[],#10a37f,[],api
+6 Dec 2021,[],#10a37f,[],api
+7 Dec 2021,[],#10a37f,[],api
+8 Dec 2021,[],#10a37f,[],api
+9 Dec 2021,[],#10a37f,[],api
+10 Dec 2021,[],#10a37f,[],api
+11 Dec 2021,[],#10a37f,[],api
+12 Dec 2021,[],#10a37f,[],api
+13 Dec 2021,[],#10a37f,[],api
+14 Dec 2021,[],#10a37f,[],api
+15 Dec 2021,[],#10a37f,[],api
+16 Dec 2021,[],#10a37f,[],api
+17 Dec 2021,[],#10a37f,[],api
+18 Dec 2021,[],#10a37f,[],api
+19 Dec 2021,[],#10a37f,[],api
+20 Dec 2021,[],#10a37f,[],api
+21 Dec 2021,[],#10a37f,[],api
+22 Dec 2021,[],#10a37f,[],api
+23 Dec 2021,[],#10a37f,[],api
+24 Dec 2021,[],#10a37f,[],api
+25 Dec 2021,[],#10a37f,[],api
+26 Dec 2021,[],#10a37f,[],api
+27 Dec 2021,[],#10a37f,[],api
+28 Dec 2021,[],#10a37f,[],api
+29 Dec 2021,[],#10a37f,[],api
+30 Dec 2021,[],#10a37f,[],api
+31 Dec 2021,[],#10a37f,[],api
+1 Jan 2022,[],#10a37f,[],api
+2 Jan 2022,[],#10a37f,[],api
+3 Jan 2022,[],#10a37f,[],api
+4 Jan 2022,[],#10a37f,[],api
+5 Jan 2022,[],#10a37f,[],api
+6 Jan 2022,[],#10a37f,[],api
+7 Jan 2022,[],#10a37f,[],api
+8 Jan 2022,[],#10a37f,[],api
+9 Jan 2022,[],#10a37f,[],api
+10 Jan 2022,[],#10a37f,[],api
+11 Jan 2022,[],#10a37f,[],api
+12 Jan 2022,[],#10a37f,[],api
+13 Jan 2022,[],#10a37f,[],api
+14 Jan 2022,[],#10a37f,[],api
+15 Jan 2022,[],#10a37f,[],api
+16 Jan 2022,[],#10a37f,[],api
+17 Jan 2022,[],#10a37f,[],api
+18 Jan 2022,[],#10a37f,[],api
+19 Jan 2022,[],#10a37f,[],api
+20 Jan 2022,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 198}]",#ef4245,"[{""Incident_Title"": ""Elevated errors on Babbage and Curie"", ""Incident_Link"": ""https://status.openai.com/incidents/dw0rmhbcppq0""}]",api
+21 Jan 2022,[],#10a37f,[],api
+22 Jan 2022,[],#10a37f,[],api
+23 Jan 2022,[],#10a37f,[],api
+24 Jan 2022,[],#10a37f,[],api
+25 Jan 2022,[],#10a37f,[],api
+26 Jan 2022,[],#10a37f,[],api
+27 Jan 2022,[],#10a37f,[],api
+28 Jan 2022,[],#10a37f,[],api
+29 Jan 2022,[],#10a37f,[],api
+30 Jan 2022,[],#10a37f,[],api
+31 Jan 2022,[],#10a37f,[],api
+1 Feb 2022,[],#10a37f,[],api
+2 Feb 2022,[],#10a37f,[],api
+3 Feb 2022,[],#10a37f,[],api
+4 Feb 2022,[],#10a37f,[],api
+5 Feb 2022,[],#10a37f,[],api
+6 Feb 2022,[],#10a37f,[],api
+7 Feb 2022,[],#10a37f,[],api
+8 Feb 2022,[],#10a37f,[],api
+9 Feb 2022,[],#10a37f,[],api
+10 Feb 2022,[],#10a37f,[],api
+11 Feb 2022,[],#10a37f,[],api
+12 Feb 2022,[],#10a37f,[],api
+13 Feb 2022,[],#10a37f,[],api
+14 Feb 2022,[],#10a37f,[],api
+15 Feb 2022,[],#10a37f,[],api
+16 Feb 2022,[],#10a37f,[],api
+17 Feb 2022,[],#10a37f,[],api
+18 Feb 2022,[],#10a37f,[],api
+19 Feb 2022,[],#10a37f,[],api
+20 Feb 2022,[],#10a37f,[],api
+21 Feb 2022,[],#10a37f,[],api
+22 Feb 2022,[],#10a37f,[],api
+23 Feb 2022,[],#10a37f,[],api
+24 Feb 2022,[],#10a37f,[],api
+25 Feb 2022,[],#10a37f,[],api
+26 Feb 2022,[],#10a37f,[],api
+27 Feb 2022,[],#10a37f,[],api
+28 Feb 2022,[],#10a37f,[],api
+1 Sep 2021,[],#10a37f,[],api
+2 Sep 2021,[],#10a37f,[],api
+3 Sep 2021,[],#10a37f,[],api
+4 Sep 2021,[],#10a37f,[],api
+5 Sep 2021,[],#10a37f,[],api
+6 Sep 2021,[],#10a37f,[],api
+7 Sep 2021,[],#10a37f,[],api
+8 Sep 2021,[],#10a37f,[],api
+9 Sep 2021,[],#10a37f,[],api
+10 Sep 2021,[],#10a37f,[],api
+11 Sep 2021,[],#10a37f,[],api
+12 Sep 2021,[],#10a37f,[],api
+13 Sep 2021,[],#10a37f,[],api
+14 Sep 2021,[],#10a37f,[],api
+15 Sep 2021,[],#10a37f,[],api
+16 Sep 2021,[],#10a37f,[],api
+17 Sep 2021,[],#10a37f,[],api
+18 Sep 2021,[],#10a37f,[],api
+19 Sep 2021,[],#10a37f,[],api
+20 Sep 2021,[],#10a37f,[],api
+21 Sep 2021,[],#10a37f,[],api
+22 Sep 2021,[],#10a37f,[],api
+23 Sep 2021,[],#10a37f,[],api
+24 Sep 2021,[],#10a37f,[],api
+25 Sep 2021,[],#10a37f,[],api
+26 Sep 2021,[],#10a37f,[],api
+27 Sep 2021,[],#10a37f,[],api
+28 Sep 2021,[],#10a37f,[],api
+29 Sep 2021,[],#10a37f,[],api
+30 Sep 2021,[],#10a37f,[],api
+1 Oct 2021,[],#10a37f,[],api
+2 Oct 2021,[],#10a37f,[],api
+3 Oct 2021,[],#10a37f,[],api
+4 Oct 2021,[],#10a37f,[],api
+5 Oct 2021,[],#10a37f,[],api
+6 Oct 2021,[],#10a37f,[],api
+7 Oct 2021,[],#10a37f,[],api
+8 Oct 2021,[],#10a37f,[],api
+9 Oct 2021,[],#10a37f,[],api
+10 Oct 2021,[],#10a37f,[],api
+11 Oct 2021,[],#10a37f,[],api
+12 Oct 2021,[],#10a37f,[],api
+13 Oct 2021,[],#10a37f,[],api
+14 Oct 2021,[],#10a37f,[],api
+15 Oct 2021,[],#10a37f,[],api
+16 Oct 2021,[],#10a37f,[],api
+17 Oct 2021,[],#10a37f,[],api
+18 Oct 2021,[],#10a37f,[],api
+19 Oct 2021,[],#10a37f,[],api
+20 Oct 2021,[],#10a37f,[],api
+21 Oct 2021,[],#10a37f,[],api
+22 Oct 2021,[],#10a37f,[],api
+23 Oct 2021,[],#10a37f,[],api
+24 Oct 2021,[],#10a37f,[],api
+25 Oct 2021,[],#10a37f,[],api
+26 Oct 2021,[],#10a37f,[],api
+27 Oct 2021,[],#10a37f,[],api
+28 Oct 2021,[],#10a37f,[],api
+29 Oct 2021,[],#10a37f,[],api
+30 Oct 2021,[],#10a37f,[],api
+31 Oct 2021,[],#10a37f,[],api
+1 Nov 2021,[],#10a37f,[],api
+2 Nov 2021,[],#10a37f,[],api
+3 Nov 2021,[],#10a37f,[],api
+4 Nov 2021,[],#10a37f,[],api
+5 Nov 2021,[],#10a37f,[],api
+6 Nov 2021,[],#10a37f,[],api
+7 Nov 2021,[],#10a37f,[],api
+8 Nov 2021,[],#10a37f,[],api
+9 Nov 2021,[],#10a37f,[],api
+10 Nov 2021,[],#10a37f,[],api
+11 Nov 2021,[],#10a37f,[],api
+12 Nov 2021,[],#10a37f,[],api
+13 Nov 2021,[],#10a37f,[],api
+14 Nov 2021,[],#10a37f,[],api
+15 Nov 2021,[],#10a37f,[],api
+16 Nov 2021,[],#10a37f,[],api
+17 Nov 2021,[],#10a37f,[],api
+18 Nov 2021,[],#10a37f,[],api
+19 Nov 2021,[],#10a37f,[],api
+20 Nov 2021,[],#10a37f,[],api
+21 Nov 2021,[],#10a37f,[],api
+22 Nov 2021,[],#10a37f,[],api
+23 Nov 2021,[],#10a37f,[],api
+24 Nov 2021,[],#10a37f,[],api
+25 Nov 2021,[],#10a37f,[],api
+26 Nov 2021,[],#10a37f,[],api
+27 Nov 2021,[],#10a37f,[],api
+28 Nov 2021,[],#10a37f,[],api
+29 Nov 2021,[],#10a37f,"[{""Incident_Title"": ""Elevated API Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/2pjsp7khqlmz""}]",api
+30 Nov 2021,[],#10a37f,"[{""Incident_Title"": ""Elevated API Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/2pjsp7khqlmz""}]",api
+1 Jun 2021,[],#10a37f,[],api
+2 Jun 2021,[],#10a37f,[],api
+3 Jun 2021,[],#10a37f,[],api
+4 Jun 2021,[],#10a37f,[],api
+5 Jun 2021,[],#10a37f,[],api
+6 Jun 2021,[],#10a37f,[],api
+7 Jun 2021,[],#10a37f,[],api
+8 Jun 2021,[],#10a37f,[],api
+9 Jun 2021,[],#10a37f,[],api
+10 Jun 2021,[],#10a37f,[],api
+11 Jun 2021,[],#10a37f,[],api
+12 Jun 2021,[],#10a37f,[],api
+13 Jun 2021,[],#10a37f,[],api
+14 Jun 2021,[],#10a37f,[],api
+15 Jun 2021,[],#10a37f,[],api
+16 Jun 2021,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 7}]",#aaa94e,"[{""Incident_Title"": ""API outage"", ""Incident_Link"": ""https://status.openai.com/incidents/5k0mvvx5pygs""}]",api
+17 Jun 2021,[],#10a37f,[],api
+18 Jun 2021,[],#10a37f,[],api
+19 Jun 2021,[],#10a37f,[],api
+20 Jun 2021,[],#10a37f,[],api
+21 Jun 2021,[],#10a37f,[],api
+22 Jun 2021,[],#10a37f,[],api
+23 Jun 2021,[],#10a37f,[],api
+24 Jun 2021,[],#10a37f,[],api
+25 Jun 2021,[],#10a37f,[],api
+26 Jun 2021,[],#10a37f,[],api
+27 Jun 2021,[],#10a37f,[],api
+28 Jun 2021,[],#10a37f,[],api
+29 Jun 2021,[],#10a37f,[],api
+30 Jun 2021,[],#10a37f,[],api
+1 Jul 2021,[],#10a37f,[],api
+2 Jul 2021,[],#10a37f,[],api
+3 Jul 2021,[],#10a37f,[],api
+4 Jul 2021,[],#10a37f,[],api
+5 Jul 2021,[],#10a37f,[],api
+6 Jul 2021,[],#10a37f,[],api
+7 Jul 2021,[],#10a37f,[],api
+8 Jul 2021,[],#10a37f,[],api
+9 Jul 2021,[],#10a37f,[],api
+10 Jul 2021,[],#10a37f,[],api
+11 Jul 2021,[],#10a37f,[],api
+12 Jul 2021,[],#10a37f,[],api
+13 Jul 2021,[],#10a37f,[],api
+14 Jul 2021,[],#10a37f,[],api
+15 Jul 2021,[],#10a37f,[],api
+16 Jul 2021,[],#10a37f,[],api
+17 Jul 2021,[],#10a37f,[],api
+18 Jul 2021,[],#10a37f,[],api
+19 Jul 2021,[],#10a37f,[],api
+20 Jul 2021,[],#10a37f,[],api
+21 Jul 2021,[],#10a37f,[],api
+22 Jul 2021,[],#10a37f,[],api
+23 Jul 2021,[],#10a37f,[],api
+24 Jul 2021,[],#10a37f,[],api
+25 Jul 2021,[],#10a37f,[],api
+26 Jul 2021,[],#10a37f,[],api
+27 Jul 2021,[],#10a37f,[],api
+28 Jul 2021,[],#10a37f,"[{""Incident_Title"": ""Intermittent instability with completion requests"", ""Incident_Link"": ""https://status.openai.com/incidents/05vgc7krfpz5""}]",api
+29 Jul 2021,[],#10a37f,[],api
+30 Jul 2021,[],#10a37f,[],api
+31 Jul 2021,[],#10a37f,[],api
+1 Aug 2021,[],#10a37f,[],api
+2 Aug 2021,[],#10a37f,[],api
+3 Aug 2021,[],#10a37f,[],api
+4 Aug 2021,[],#10a37f,[],api
+5 Aug 2021,[],#10a37f,[],api
+6 Aug 2021,[],#10a37f,[],api
+7 Aug 2021,[],#10a37f,[],api
+8 Aug 2021,[],#10a37f,[],api
+9 Aug 2021,[],#10a37f,[],api
+10 Aug 2021,[],#10a37f,[],api
+11 Aug 2021,[],#10a37f,[],api
+12 Aug 2021,[],#10a37f,[],api
+13 Aug 2021,[],#10a37f,[],api
+14 Aug 2021,[],#10a37f,[],api
+15 Aug 2021,[],#10a37f,[],api
+16 Aug 2021,[],#10a37f,[],api
+17 Aug 2021,[],#10a37f,[],api
+18 Aug 2021,[],#10a37f,[],api
+19 Aug 2021,[],#10a37f,[],api
+20 Aug 2021,[],#10a37f,[],api
+21 Aug 2021,[],#10a37f,[],api
+22 Aug 2021,[],#10a37f,[],api
+23 Aug 2021,[],#10a37f,[],api
+24 Aug 2021,[],#10a37f,[],api
+25 Aug 2021,[],#10a37f,[],api
+26 Aug 2021,[],#10a37f,[],api
+27 Aug 2021,[],#10a37f,[],api
+28 Aug 2021,[],#10a37f,[],api
+29 Aug 2021,[],#10a37f,[],api
+30 Aug 2021,[],#10a37f,[],api
+31 Aug 2021,[],#10a37f,[],api
+1 Mar 2021,[],#10a37f,"[{""Incident_Title"": ""Engine Listing Issues"", ""Incident_Link"": ""https://status.openai.com/incidents/v9c6hwjvywy8""}]",api
+2 Mar 2021,[],#10a37f,[],api
+3 Mar 2021,[],#10a37f,[],api
+4 Mar 2021,[],#10a37f,[],api
+5 Mar 2021,[],#10a37f,[],api
+6 Mar 2021,[],#10a37f,[],api
+7 Mar 2021,[],#10a37f,[],api
+8 Mar 2021,[],#10a37f,[],api
+9 Mar 2021,[],#10a37f,[],api
+10 Mar 2021,[],#10a37f,[],api
+11 Mar 2021,[],#10a37f,[],api
+12 Mar 2021,[],#10a37f,[],api
+13 Mar 2021,[],#10a37f,[],api
+14 Mar 2021,[],#10a37f,[],api
+15 Mar 2021,[],#10a37f,[],api
+16 Mar 2021,[],#10a37f,[],api
+17 Mar 2021,[],#10a37f,[],api
+18 Mar 2021,[],#10a37f,[],api
+19 Mar 2021,[],#10a37f,[],api
+20 Mar 2021,[],#10a37f,[],api
+21 Mar 2021,[],#10a37f,[],api
+22 Mar 2021,[],#10a37f,[],api
+23 Mar 2021,[],#10a37f,[],api
+24 Mar 2021,[],#10a37f,[],api
+25 Mar 2021,[],#10a37f,[],api
+26 Mar 2021,[],#10a37f,[],api
+27 Mar 2021,[],#10a37f,[],api
+28 Mar 2021,[],#10a37f,[],api
+29 Mar 2021,[],#10a37f,[],api
+30 Mar 2021,[],#10a37f,[],api
+31 Mar 2021,[],#10a37f,[],api
+1 Apr 2021,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 58}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 6}]",#ef4146,"[{""Incident_Title"": ""Degraded API Status"", ""Incident_Link"": ""https://status.openai.com/incidents/njmxdd3rh3g9""}]",api
+2 Apr 2021,[],#10a37f,[],api
+3 Apr 2021,[],#10a37f,[],api
+4 Apr 2021,[],#10a37f,[],api
+5 Apr 2021,[],#10a37f,[],api
+6 Apr 2021,[],#10a37f,[],api
+7 Apr 2021,[],#10a37f,[],api
+8 Apr 2021,[],#10a37f,[],api
+9 Apr 2021,[],#10a37f,[],api
+10 Apr 2021,[],#10a37f,[],api
+11 Apr 2021,[],#10a37f,[],api
+12 Apr 2021,[],#10a37f,[],api
+13 Apr 2021,[],#10a37f,[],api
+14 Apr 2021,[],#10a37f,[],api
+15 Apr 2021,[],#10a37f,[],api
+16 Apr 2021,[],#10a37f,[],api
+17 Apr 2021,[],#10a37f,[],api
+18 Apr 2021,[],#10a37f,[],api
+19 Apr 2021,[],#10a37f,[],api
+20 Apr 2021,[],#10a37f,[],api
+21 Apr 2021,[],#10a37f,[],api
+22 Apr 2021,[],#10a37f,[],api
+23 Apr 2021,[],#10a37f,[],api
+24 Apr 2021,[],#10a37f,[],api
+25 Apr 2021,[],#10a37f,[],api
+26 Apr 2021,[],#10a37f,[],api
+27 Apr 2021,[],#10a37f,[],api
+28 Apr 2021,[],#10a37f,[],api
+29 Apr 2021,[],#10a37f,[],api
+30 Apr 2021,[],#10a37f,[],api
+1 May 2021,[],#10a37f,[],api
+2 May 2021,[],#10a37f,[],api
+3 May 2021,[],#10a37f,[],api
+4 May 2021,[],#10a37f,[],api
+5 May 2021,[],#10a37f,[],api
+6 May 2021,[],#10a37f,[],api
+7 May 2021,[],#10a37f,[],api
+8 May 2021,[],#10a37f,[],api
+9 May 2021,[],#10a37f,[],api
+10 May 2021,[],#10a37f,[],api
+11 May 2021,[],#10a37f,[],api
+12 May 2021,[],#10a37f,[],api
+13 May 2021,[],#10a37f,[],api
+14 May 2021,[],#10a37f,[],api
+15 May 2021,[],#10a37f,[],api
+16 May 2021,[],#10a37f,[],api
+17 May 2021,[],#10a37f,[],api
+18 May 2021,[],#10a37f,[],api
+19 May 2021,[],#10a37f,[],api
+20 May 2021,[],#10a37f,[],api
+21 May 2021,[],#10a37f,[],api
+22 May 2021,[],#10a37f,[],api
+23 May 2021,[],#10a37f,[],api
+24 May 2021,[],#10a37f,[],api
+25 May 2021,[],#10a37f,[],api
+26 May 2021,[],#10a37f,[],api
+27 May 2021,[],#10a37f,[],api
+28 May 2021,[],#10a37f,[],api
+29 May 2021,[],#10a37f,[],api
+30 May 2021,[],#10a37f,[],api
+31 May 2021,[],#10a37f,[],api
+11 Feb 2021,[],#10a37f,[],api
+12 Feb 2021,[],#10a37f,[],api
+13 Feb 2021,[],#10a37f,[],api
+14 Feb 2021,[],#10a37f,[],api
+15 Feb 2021,[],#10a37f,[],api
+16 Feb 2021,[],#10a37f,[],api
+17 Feb 2021,[],#10a37f,[],api
+18 Feb 2021,[],#10a37f,[],api
+19 Feb 2021,[],#10a37f,[],api
+20 Feb 2021,[],#10a37f,[],api
+21 Feb 2021,[],#10a37f,[],api
+22 Feb 2021,[],#10a37f,[],api
+23 Feb 2021,[],#10a37f,[],api
+24 Feb 2021,[],#10a37f,[],api
+25 Feb 2021,[],#10a37f,[],api
+26 Feb 2021,[],#10a37f,[],api
+27 Feb 2021,[],#10a37f,[],api
+28 Feb 2021,[],#10a37f,[],api

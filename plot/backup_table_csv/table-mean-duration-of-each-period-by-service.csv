@@ -1,0 +1,10 @@
+service,P_investigate,P_repair,P_check,P_learn,failure_duration,MTTRecover
+API,0.72,1.63,1.46,98.34,2.38,1.58
+ChatGPT,0.65,1.64,1.73,114.88,3.65,1.91
+Labs,1.01,0.96,1.81,44.67,3.21,1.21
+Playground,0.37,1.56,2.22,103.2,3.26,1.34
+api.anthropic.com,1.04,1.11,1.37,,2.64,1.14
+claude.ai,1.35,1.72,2.05,5.1,2.6,1.62
+console.anthropic.com,0.94,0.34,0.58,,2.25,0.72
+Character.AI,0.4,0.5,1.73,86.71,3.17,0.55
+total average,0.83,2.74,1.52,88.93,2.73,1.48

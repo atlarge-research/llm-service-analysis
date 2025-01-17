@@ -1,0 +1,319 @@
+Date,Outages,Outage_Color,Incidents,Service
+1 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 243}]",#e74c3c,"[{""Incident_Title"": ""Partial outage"", ""Incident_Link"": ""https://status.character.ai/incidents/vqdq2k8l41ly""}]",character.ai
+2 Jun 2024,[],#2fcc66,[],character.ai
+3 Jun 2024,[],#2fcc66,[],character.ai
+4 Jun 2024,[],#2fcc66,[],character.ai
+5 Jun 2024,[],#2fcc66,[],character.ai
+6 Jun 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 58}]",#e74e3b,"[{""Incident_Title"": ""Outage"", ""Incident_Link"": ""https://status.character.ai/incidents/vl10lv6p5szc""}]",character.ai
+7 Jun 2024,[],#2fcc66,[],character.ai
+8 Jun 2024,[],#2fcc66,[],character.ai
+9 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 10}]",#9fc734,"[{""Incident_Title"": ""Partial outage"", ""Incident_Link"": ""https://status.character.ai/incidents/n50ntqp72qjm""}]",character.ai
+10 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 367}]",#e74c3c,"[{""Incident_Title"": ""Investigating various outage reports"", ""Incident_Link"": ""https://status.character.ai/incidents/tm4dypfx8n4f""}]",character.ai
+11 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 26}]",#b6c629,"[{""Incident_Title"": ""Investigating various outage reports"", ""Incident_Link"": ""https://status.character.ai/incidents/tm4dypfx8n4f""}]",character.ai
+12 Jun 2024,[],#2fcc66,[],character.ai
+13 Jun 2024,[],#2fcc66,[],character.ai
+14 Jun 2024,[],#2fcc66,[],character.ai
+15 Jun 2024,[],#2fcc66,[],character.ai
+16 Jun 2024,[],#2fcc66,[],character.ai
+17 Jun 2024,[],#2fcc66,[],character.ai
+18 Jun 2024,[],#2fcc66,[],character.ai
+19 Jun 2024,[],#2fcc66,[],character.ai
+20 Jun 2024,[],#2fcc66,[],character.ai
+21 Jun 2024,[],#2fcc66,[],character.ai
+22 Jun 2024,[],#2fcc66,[],character.ai
+23 Jun 2024,[],#2fcc66,[],character.ai
+24 Jun 2024,[],#2fcc66,[],character.ai
+25 Jun 2024,[],#2fcc66,[],character.ai
+26 Jun 2024,[],#2fcc66,[],character.ai
+27 Jun 2024,[],#2fcc66,[],character.ai
+28 Jun 2024,[],#2fcc66,[],character.ai
+29 Jun 2024,[],#2fcc66,"[{""Incident_Title"": ""Email Login Verification Issues"", ""Incident_Link"": ""https://status.character.ai/incidents/3yxjbhm5ptq3""}]",character.ai
+30 Jun 2024,[],#2fcc66,"[{""Incident_Title"": ""Email Login Verification Issues"", ""Incident_Link"": ""https://status.character.ai/incidents/3yxjbhm5ptq3""}]",character.ai
+1 Jul 2024,[],#2fcc66,"[{""Incident_Title"": ""Email Login Verification Issues"", ""Incident_Link"": ""https://status.character.ai/incidents/3yxjbhm5ptq3""}]",character.ai
+2 Jul 2024,[],#2fcc66,[],character.ai
+3 Jul 2024,[],#2fcc66,[],character.ai
+4 Jul 2024,[],#2fcc66,[],character.ai
+5 Jul 2024,[],#2fcc66,[],character.ai
+6 Jul 2024,[],#2fcc66,[],character.ai
+7 Jul 2024,[],#2fcc66,[],character.ai
+8 Jul 2024,[],#2fcc66,[],character.ai
+9 Jul 2024,[],#2fcc66,[],character.ai
+10 Jul 2024,[],#2fcc66,[],character.ai
+11 Jul 2024,[],#2fcc66,[],character.ai
+12 Jul 2024,[],#2fcc66,[],character.ai
+13 Jul 2024,[],#2fcc66,[],character.ai
+14 Jul 2024,[],#2fcc66,[],character.ai
+15 Jul 2024,[],#2fcc66,[],character.ai
+16 Jul 2024,[],#2fcc66,[],character.ai
+17 Jul 2024,[],#2fcc66,[],character.ai
+18 Jul 2024,[],#2fcc66,[],character.ai
+19 Jul 2024,[],#2fcc66,[],character.ai
+20 Jul 2024,[],#2fcc66,[],character.ai
+21 Jul 2024,[],#2fcc66,[],character.ai
+22 Jul 2024,[],#2fcc66,[],character.ai
+23 Jul 2024,[],#2fcc66,[],character.ai
+24 Jul 2024,[],#2fcc66,[],character.ai
+25 Jul 2024,[],#2fcc66,[],character.ai
+26 Jul 2024,[],#2fcc66,[],character.ai
+27 Jul 2024,[],#2fcc66,[],character.ai
+28 Jul 2024,[],#2fcc66,[],character.ai
+29 Jul 2024,[],#2fcc66,[],character.ai
+30 Jul 2024,[],#2fcc66,[],character.ai
+31 Jul 2024,[],#2fcc66,[],character.ai
+1 Aug 2024,[],#2fcc66,[],character.ai
+2 Aug 2024,[],#2fcc66,[],character.ai
+3 Aug 2024,[],#2fcc66,[],character.ai
+4 Aug 2024,[],#2fcc66,[],character.ai
+5 Aug 2024,[],#2fcc66,[],character.ai
+6 Aug 2024,[],#2fcc66,[],character.ai
+7 Aug 2024,[],#2fcc66,[],character.ai
+8 Aug 2024,[],#2fcc66,[],character.ai
+9 Aug 2024,[],#2fcc66,[],character.ai
+10 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Page is slow to load"", ""Incident_Link"": ""https://status.character.ai/incidents/4dnmfbgs809l""}]",character.ai
+11 Aug 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 183}]",#e74c3c,"[{""Incident_Title"": ""Website is slow to load"", ""Incident_Link"": ""https://status.character.ai/incidents/tv1wlpglv6qz""}]",character.ai
+12 Aug 2024,[],#2fcc66,[],character.ai
+13 Aug 2024,[],#2fcc66,[],character.ai
+14 Aug 2024,[],#2fcc66,[],character.ai
+15 Aug 2024,[],#2fcc66,[],character.ai
+16 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Planned Maintenance"", ""Incident_Link"": ""https://status.character.ai/incidents/cbqgfzxx7b2m""}]",character.ai
+17 Aug 2024,[],#2fcc66,[],character.ai
+18 Aug 2024,[],#2fcc66,[],character.ai
+19 Aug 2024,[],#2fcc66,[],character.ai
+20 Aug 2024,[],#2fcc66,[],character.ai
+21 Aug 2024,[],#2fcc66,[],character.ai
+22 Aug 2024,[],#2fcc66,[],character.ai
+23 Aug 2024,[],#2fcc66,[],character.ai
+24 Aug 2024,[],#2fcc66,[],character.ai
+25 Aug 2024,[],#2fcc66,[],character.ai
+26 Aug 2024,[],#2fcc66,[],character.ai
+27 Aug 2024,[],#2fcc66,[],character.ai
+28 Aug 2024,[],#2fcc66,[],character.ai
+29 Aug 2024,[],#2fcc66,[],character.ai
+30 Aug 2024,[],#2fcc66,[],character.ai
+31 Aug 2024,[],#2fcc66,[],character.ai
+1 Mar 2024,[],#2fcc66,[],character.ai
+2 Mar 2024,[],#2fcc66,[],character.ai
+3 Mar 2024,[],#2fcc66,[],character.ai
+4 Mar 2024,[],#2fcc66,[],character.ai
+5 Mar 2024,[],#2fcc66,[],character.ai
+6 Mar 2024,[],#2fcc66,[],character.ai
+7 Mar 2024,[],#2fcc66,[],character.ai
+8 Mar 2024,[],#2fcc66,[],character.ai
+9 Mar 2024,[],#2fcc66,[],character.ai
+10 Mar 2024,[],#2fcc66,[],character.ai
+11 Mar 2024,[],#2fcc66,[],character.ai
+12 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 18}]",#abc72f,"[{""Incident_Title"": ""Android chat down"", ""Incident_Link"": ""https://status.character.ai/incidents/0lrd352s91td""}]",character.ai
+13 Mar 2024,[],#2fcc66,[],character.ai
+14 Mar 2024,[],#2fcc66,[],character.ai
+15 Mar 2024,[],#2fcc66,[],character.ai
+16 Mar 2024,[],#2fcc66,[],character.ai
+17 Mar 2024,[],#2fcc66,[],character.ai
+18 Mar 2024,[],#2fcc66,[],character.ai
+19 Mar 2024,[],#2fcc66,[],character.ai
+20 Mar 2024,[],#2fcc66,[],character.ai
+21 Mar 2024,[],#2fcc66,[],character.ai
+22 Mar 2024,[],#2fcc66,[],character.ai
+23 Mar 2024,[],#2fcc66,[],character.ai
+24 Mar 2024,[],#2fcc66,[],character.ai
+25 Mar 2024,[],#2fcc66,[],character.ai
+26 Mar 2024,[],#2fcc66,[],character.ai
+27 Mar 2024,[],#2fcc66,[],character.ai
+28 Mar 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 33}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 3}]",#e67c23,"[{""Incident_Title"": ""Site Outage"", ""Incident_Link"": ""https://status.character.ai/incidents/0q2v1qd3dpc3""}]",character.ai
+29 Mar 2024,[],#2fcc66,[],character.ai
+30 Mar 2024,[],#2fcc66,[],character.ai
+31 Mar 2024,[],#2fcc66,[],character.ai
+1 Apr 2024,[],#2fcc66,[],character.ai
+2 Apr 2024,[],#2fcc66,[],character.ai
+3 Apr 2024,[],#2fcc66,[],character.ai
+4 Apr 2024,[],#2fcc66,[],character.ai
+5 Apr 2024,[],#2fcc66,[],character.ai
+6 Apr 2024,[],#2fcc66,[],character.ai
+7 Apr 2024,[],#2fcc66,[],character.ai
+8 Apr 2024,[],#2fcc66,[],character.ai
+9 Apr 2024,[],#2fcc66,[],character.ai
+10 Apr 2024,[],#2fcc66,[],character.ai
+11 Apr 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 162}]",#e74c3c,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/nrzlhxt4nw6q""}, {""Incident_Title"": ""Voice Outage"", ""Incident_Link"": ""https://status.character.ai/incidents/9m5pqqytjmgg""}]",character.ai
+12 Apr 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 22}]",#efb713,"[{""Incident_Title"": ""Degraded Performance"", ""Incident_Link"": ""https://status.character.ai/incidents/mc9hvd429jqn""}]",character.ai
+13 Apr 2024,[],#2fcc66,[],character.ai
+14 Apr 2024,[],#2fcc66,[],character.ai
+15 Apr 2024,[],#2fcc66,[],character.ai
+16 Apr 2024,[],#2fcc66,[],character.ai
+17 Apr 2024,[],#2fcc66,[],character.ai
+18 Apr 2024,[],#2fcc66,[],character.ai
+19 Apr 2024,[],#2fcc66,[],character.ai
+20 Apr 2024,[],#2fcc66,[],character.ai
+21 Apr 2024,[],#2fcc66,[],character.ai
+22 Apr 2024,[],#2fcc66,[],character.ai
+23 Apr 2024,[],#2fcc66,[],character.ai
+24 Apr 2024,[],#2fcc66,[],character.ai
+25 Apr 2024,[],#2fcc66,[],character.ai
+26 Apr 2024,[],#2fcc66,[],character.ai
+27 Apr 2024,[],#2fcc66,[],character.ai
+28 Apr 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 48}]",#e76231,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/pwdjlm88pk27""}]",character.ai
+29 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 11}]",#a1c733,"[{""Incident_Title"": ""Web Issue"", ""Incident_Link"": ""https://status.character.ai/incidents/sgwyyq1xr0xr""}]",character.ai
+30 Apr 2024,[],#2fcc66,[],character.ai
+1 May 2024,[],#2fcc66,[],character.ai
+2 May 2024,[],#2fcc66,[],character.ai
+3 May 2024,[],#2fcc66,[],character.ai
+4 May 2024,[],#2fcc66,[],character.ai
+5 May 2024,[],#2fcc66,[],character.ai
+6 May 2024,[],#2fcc66,[],character.ai
+7 May 2024,[],#2fcc66,[],character.ai
+8 May 2024,[],#2fcc66,[],character.ai
+9 May 2024,[],#2fcc66,[],character.ai
+10 May 2024,[],#2fcc66,[],character.ai
+11 May 2024,[],#2fcc66,[],character.ai
+12 May 2024,[],#2fcc66,[],character.ai
+13 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 48}]",#d7c51a,"[{""Incident_Title"": ""Partial outage"", ""Incident_Link"": ""https://status.character.ai/incidents/p67d35ptln3v""}]",character.ai
+14 May 2024,[],#2fcc66,[],character.ai
+15 May 2024,[],#2fcc66,[],character.ai
+16 May 2024,[],#2fcc66,[],character.ai
+17 May 2024,[],#2fcc66,[],character.ai
+18 May 2024,[],#2fcc66,[],character.ai
+19 May 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 189}]",#e74c3c,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/dg258gzdn1w5""}]",character.ai
+20 May 2024,[],#2fcc66,[],character.ai
+21 May 2024,[],#2fcc66,[],character.ai
+22 May 2024,[],#2fcc66,[],character.ai
+23 May 2024,[],#2fcc66,[],character.ai
+24 May 2024,[],#2fcc66,[],character.ai
+25 May 2024,[],#2fcc66,[],character.ai
+26 May 2024,[],#2fcc66,[],character.ai
+27 May 2024,[],#2fcc66,[],character.ai
+28 May 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 70}]",#e74c3c,"[{""Incident_Title"": ""Major outage"", ""Incident_Link"": ""https://status.character.ai/incidents/nxmjjz11m0rm""}]",character.ai
+29 May 2024,[],#2fcc66,[],character.ai
+30 May 2024,[],#2fcc66,[],character.ai
+31 May 2024,[],#2fcc66,[],character.ai
+1 Dec 2023,[],#2fcc66,[],character.ai
+2 Dec 2023,[],#2fcc66,[],character.ai
+3 Dec 2023,[],#2fcc66,[],character.ai
+4 Dec 2023,[],#2fcc66,[],character.ai
+5 Dec 2023,[],#2fcc66,[],character.ai
+6 Dec 2023,[],#2fcc66,[],character.ai
+7 Dec 2023,[],#2fcc66,[],character.ai
+8 Dec 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 46}]",#d5c51c,"[{""Incident_Title"": ""Site Event"", ""Incident_Link"": ""https://status.character.ai/incidents/01vtrvk90lzc""}]",character.ai
+9 Dec 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 9}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 3}]",#c1c624,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/fm7kv47p396k""}]",character.ai
+10 Dec 2023,[],#2fcc66,[],character.ai
+11 Dec 2023,[],#2fcc66,[],character.ai
+12 Dec 2023,[],#2fcc66,[],character.ai
+13 Dec 2023,[],#2fcc66,[],character.ai
+14 Dec 2023,[],#2fcc66,[],character.ai
+15 Dec 2023,[],#2fcc66,[],character.ai
+16 Dec 2023,[],#2fcc66,[],character.ai
+17 Dec 2023,[],#2fcc66,[],character.ai
+18 Dec 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 156}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 184}]",#e74c3c,"[{""Incident_Title"": ""Outage"", ""Incident_Link"": ""https://status.character.ai/incidents/zppcsvf3sf9j""}, {""Incident_Title"": ""Partially Degraded Service"", ""Incident_Link"": ""https://status.character.ai/incidents/h3vtgftrvl61""}]",character.ai
+19 Dec 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 53}]",#dec517,"[{""Incident_Title"": ""Outage"", ""Incident_Link"": ""https://status.character.ai/incidents/zppcsvf3sf9j""}]",character.ai
+20 Dec 2023,[],#2fcc66,[],character.ai
+21 Dec 2023,[],#2fcc66,[],character.ai
+22 Dec 2023,[],#2fcc66,[],character.ai
+23 Dec 2023,[],#2fcc66,[],character.ai
+24 Dec 2023,[],#2fcc66,[],character.ai
+25 Dec 2023,[],#2fcc66,[],character.ai
+26 Dec 2023,[],#2fcc66,[],character.ai
+27 Dec 2023,[],#2fcc66,[],character.ai
+28 Dec 2023,[],#2fcc66,[],character.ai
+29 Dec 2023,[],#2fcc66,[],character.ai
+30 Dec 2023,[],#2fcc66,[],character.ai
+31 Dec 2023,[],#2fcc66,[],character.ai
+1 Jan 2024,[],#2fcc66,[],character.ai
+2 Jan 2024,[],#2fcc66,[],character.ai
+3 Jan 2024,[],#2fcc66,[],character.ai
+4 Jan 2024,[],#2fcc66,"[{""Incident_Title"": ""Avatar image partial outage"", ""Incident_Link"": ""https://status.character.ai/incidents/m9njf9jw164k""}]",character.ai
+5 Jan 2024,[],#2fcc66,[],character.ai
+6 Jan 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 27}]",#eb9b1a,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/d2s6z2yxhyb7""}]",character.ai
+7 Jan 2024,[],#2fcc66,[],character.ai
+8 Jan 2024,[],#2fcc66,[],character.ai
+9 Jan 2024,[],#2fcc66,[],character.ai
+10 Jan 2024,[],#2fcc66,[],character.ai
+11 Jan 2024,[],#2fcc66,[],character.ai
+12 Jan 2024,[],#2fcc66,[],character.ai
+13 Jan 2024,[],#2fcc66,[],character.ai
+14 Jan 2024,[],#2fcc66,[],character.ai
+15 Jan 2024,[],#2fcc66,[],character.ai
+16 Jan 2024,[],#2fcc66,[],character.ai
+17 Jan 2024,[],#2fcc66,[],character.ai
+18 Jan 2024,[],#2fcc66,[],character.ai
+19 Jan 2024,[],#2fcc66,[],character.ai
+20 Jan 2024,[],#2fcc66,[],character.ai
+21 Jan 2024,[],#2fcc66,[],character.ai
+22 Jan 2024,[],#2fcc66,[],character.ai
+23 Jan 2024,[],#2fcc66,[],character.ai
+24 Jan 2024,[],#2fcc66,[],character.ai
+25 Jan 2024,[],#2fcc66,[],character.ai
+26 Jan 2024,[],#2fcc66,[],character.ai
+27 Jan 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 363}]",#e74c3c,"[{""Incident_Title"": ""Unreliable search"", ""Incident_Link"": ""https://status.character.ai/incidents/pz385w9h3vx7""}]",character.ai
+28 Jan 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 580}]",#e74c3c,"[{""Incident_Title"": ""Unreliable search"", ""Incident_Link"": ""https://status.character.ai/incidents/pz385w9h3vx7""}]",character.ai
+29 Jan 2024,[],#2fcc66,[],character.ai
+30 Jan 2024,[],#2fcc66,[],character.ai
+31 Jan 2024,[],#2fcc66,[],character.ai
+1 Feb 2024,[],#2fcc66,[],character.ai
+2 Feb 2024,[],#2fcc66,[],character.ai
+3 Feb 2024,[],#2fcc66,[],character.ai
+4 Feb 2024,[],#2fcc66,[],character.ai
+5 Feb 2024,[],#2fcc66,[],character.ai
+6 Feb 2024,[],#2fcc66,[],character.ai
+7 Feb 2024,[],#2fcc66,[],character.ai
+8 Feb 2024,[],#2fcc66,[],character.ai
+9 Feb 2024,[],#2fcc66,[],character.ai
+10 Feb 2024,[],#2fcc66,[],character.ai
+11 Feb 2024,[],#2fcc66,[],character.ai
+12 Feb 2024,[],#2fcc66,[],character.ai
+13 Feb 2024,[],#2fcc66,[],character.ai
+14 Feb 2024,[],#2fcc66,[],character.ai
+15 Feb 2024,[],#2fcc66,[],character.ai
+16 Feb 2024,[],#2fcc66,[],character.ai
+17 Feb 2024,[],#2fcc66,[],character.ai
+18 Feb 2024,[],#2fcc66,[],character.ai
+19 Feb 2024,[],#2fcc66,[],character.ai
+20 Feb 2024,[],#2fcc66,[],character.ai
+21 Feb 2024,[],#2fcc66,[],character.ai
+22 Feb 2024,[],#2fcc66,[],character.ai
+23 Feb 2024,[],#2fcc66,[],character.ai
+24 Feb 2024,[],#2fcc66,[],character.ai
+25 Feb 2024,[],#2fcc66,[],character.ai
+26 Feb 2024,[],#2fcc66,[],character.ai
+27 Feb 2024,[],#2fcc66,[],character.ai
+28 Feb 2024,[],#2fcc66,[],character.ai
+29 Feb 2024,[],#2fcc66,[],character.ai
+19 Oct 2023,[],#2fcc66,[],character.ai
+20 Oct 2023,[],#2fcc66,[],character.ai
+21 Oct 2023,[],#2fcc66,[],character.ai
+22 Oct 2023,[],#2fcc66,[],character.ai
+23 Oct 2023,[],#2fcc66,[],character.ai
+24 Oct 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 150}]",#e6682e,"[{""Incident_Title"": ""Group Chat Down"", ""Incident_Link"": ""https://status.character.ai/incidents/0cksdfnhfy6p""}]",character.ai
+25 Oct 2023,[],#2fcc66,[],character.ai
+26 Oct 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 30}]",#e98e1e,"[{""Incident_Title"": ""Elevated DB errors"", ""Incident_Link"": ""https://status.character.ai/incidents/bt77d8174xlq""}]",character.ai
+27 Oct 2023,[],#2fcc66,[],character.ai
+28 Oct 2023,[],#2fcc66,[],character.ai
+29 Oct 2023,[],#2fcc66,[],character.ai
+30 Oct 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 34}]",#e67c23,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/tw8n83w5jz43""}]",character.ai
+31 Oct 2023,[],#2fcc66,[],character.ai
+1 Nov 2023,[],#2fcc66,"[{""Incident_Title"": ""Partial outage"", ""Incident_Link"": ""https://status.character.ai/incidents/4vj1gghj29t4""}]",character.ai
+2 Nov 2023,[],#2fcc66,[],character.ai
+3 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 197}]",#e74c3c,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/fl04cnw1hskw""}, {""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/991k21s06ml4""}]",character.ai
+4 Nov 2023,[],#2fcc66,[],character.ai
+5 Nov 2023,[],#2fcc66,[],character.ai
+6 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 13}]",#d4c51c,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/5hgyc7qkhrk7""}]",character.ai
+7 Nov 2023,[],#2fcc66,[],character.ai
+8 Nov 2023,[],#2fcc66,[],character.ai
+9 Nov 2023,[],#2fcc66,[],character.ai
+10 Nov 2023,[],#2fcc66,[],character.ai
+11 Nov 2023,[],#2fcc66,[],character.ai
+12 Nov 2023,[],#2fcc66,[],character.ai
+13 Nov 2023,[],#2fcc66,[],character.ai
+14 Nov 2023,[],#2fcc66,[],character.ai
+15 Nov 2023,[],#2fcc66,[],character.ai
+16 Nov 2023,[],#2fcc66,[],character.ai
+17 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 1}]",#95c838,"[{""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/clpqgprws6jg""}, {""Incident_Title"": ""Site down"", ""Incident_Link"": ""https://status.character.ai/incidents/t666zx5wmjvw""}]",character.ai
+18 Nov 2023,[],#2fcc66,[],character.ai
+19 Nov 2023,[],#2fcc66,[],character.ai
+20 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 14}]",#d6c51b,"[{""Incident_Title"": ""Server Instability"", ""Incident_Link"": ""https://status.character.ai/incidents/q0xvy3xtgsrf""}]",character.ai
+21 Nov 2023,[],#2fcc66,[],character.ai
+22 Nov 2023,[],#2fcc66,"[{""Incident_Title"": ""Degraded performance"", ""Incident_Link"": ""https://status.character.ai/incidents/hyj9hwhl85vd""}]",character.ai
+23 Nov 2023,[],#2fcc66,[],character.ai
+24 Nov 2023,[],#2fcc66,[],character.ai
+25 Nov 2023,[],#2fcc66,[],character.ai
+26 Nov 2023,[],#2fcc66,[],character.ai
+27 Nov 2023,[],#2fcc66,[],character.ai
+28 Nov 2023,[],#2fcc66,[],character.ai
+29 Nov 2023,[],#2fcc66,[],character.ai
+30 Nov 2023,[],#2fcc66,[],character.ai

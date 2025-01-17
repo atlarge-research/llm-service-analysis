@@ -1,0 +1,419 @@
+Date,Outages,Outage_Color,Incidents,Service
+1 Jun 2024,[],#2fcc66,[],claude.ai
+2 Jun 2024,[],#2fcc66,[],claude.ai
+3 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 59}]",#e7c414,"[{""Incident_Title"": ""Haiku Partial Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/q44nvw2pmhpt""}, {""Incident_Title"": ""Elevated error rate on Claude 3 Opus"", ""Incident_Link"": ""https://status.anthropic.com/incidents/95hjzp5m60n8""}]",claude.ai
+4 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 111}]",#e67d23,"[{""Incident_Title"": ""Partial Outage on claude.ai and console.anthropic.com"", ""Incident_Link"": ""https://status.anthropic.com/incidents/gm6vlw4gc377""}]",claude.ai
+5 Jun 2024,[],#2fcc66,[],claude.ai
+6 Jun 2024,[],#2fcc66,[],claude.ai
+7 Jun 2024,[],#2fcc66,[],claude.ai
+8 Jun 2024,[],#2fcc66,[],claude.ai
+9 Jun 2024,[],#2fcc66,[],claude.ai
+10 Jun 2024,[],#2fcc66,[],claude.ai
+11 Jun 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rates on Claude 3 Haiku"", ""Incident_Link"": ""https://status.anthropic.com/incidents/dh75z61fyv1n""}]",claude.ai
+12 Jun 2024,[],#2fcc66,[],claude.ai
+13 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 14}]",#a6c731,"[{""Incident_Title"": ""Elevated errors on Haiku"", ""Incident_Link"": ""https://status.anthropic.com/incidents/2vfzrjrysfqy""}]",claude.ai
+14 Jun 2024,[],#2fcc66,[],claude.ai
+15 Jun 2024,[],#2fcc66,[],claude.ai
+16 Jun 2024,[],#2fcc66,[],claude.ai
+17 Jun 2024,[],#2fcc66,[],claude.ai
+18 Jun 2024,[],#2fcc66,"[{""Incident_Title"": ""Partial disruption for text attachments"", ""Incident_Link"": ""https://status.anthropic.com/incidents/r8dfsq0893sn""}]",claude.ai
+19 Jun 2024,[],#2fcc66,[],claude.ai
+20 Jun 2024,[],#2fcc66,[],claude.ai
+21 Jun 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 75}]",#e74c3c,"[{""Incident_Title"": ""Claude.ai and Console Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/vc4jcltdwzg8""}, {""Incident_Title"": ""Degraded claude-3-5-sonnet latency"", ""Incident_Link"": ""https://status.anthropic.com/incidents/dpy9ymcrmltg""}, {""Incident_Title"": ""Elevated error rates in Claude.ai and Console"", ""Incident_Link"": ""https://status.anthropic.com/incidents/t39s5hjpbs9v""}, {""Incident_Title"": ""Degraded performance on Haiku and Sonnet"", ""Incident_Link"": ""https://status.anthropic.com/incidents/jryzc0zn3k8c""}]",claude.ai
+22 Jun 2024,[],#2fcc66,[],claude.ai
+23 Jun 2024,[],#2fcc66,[],claude.ai
+24 Jun 2024,[],#2fcc66,[],claude.ai
+25 Jun 2024,[],#2fcc66,[],claude.ai
+26 Jun 2024,[],#2fcc66,[],claude.ai
+27 Jun 2024,[],#2fcc66,[],claude.ai
+28 Jun 2024,[],#2fcc66,"[{""Incident_Title"": ""Claude.ai iOS logins unavailable"", ""Incident_Link"": ""https://status.anthropic.com/incidents/8p49xrt1lmzy""}]",claude.ai
+29 Jun 2024,[],#2fcc66,[],claude.ai
+30 Jun 2024,[],#2fcc66,[],claude.ai
+1 Jul 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated errors on Claude.ai"", ""Incident_Link"": ""https://status.anthropic.com/incidents/qkkbd8tzhlvn""}, {""Incident_Title"": ""Elevated errors on Claude.ai"", ""Incident_Link"": ""https://status.anthropic.com/incidents/059swcjlk587""}]",claude.ai
+2 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 41}]",#cdc51f,"[{""Incident_Title"": ""Elevated error rates in the API"", ""Incident_Link"": ""https://status.anthropic.com/incidents/zcqbpk14kylw""}, {""Incident_Title"": ""3.5 Sonnet Partially Down"", ""Incident_Link"": ""https://status.anthropic.com/incidents/v215b9mp2jx2""}]",claude.ai
+3 Jul 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated errors on Claude.ai and Console"", ""Incident_Link"": ""https://status.anthropic.com/incidents/jsp92d37pvs0""}]",claude.ai
+4 Jul 2024,[],#2fcc66,[],claude.ai
+5 Jul 2024,[],#2fcc66,[],claude.ai
+6 Jul 2024,[],#2fcc66,[],claude.ai
+7 Jul 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated Errors on Claude 3.5 Sonnet"", ""Incident_Link"": ""https://status.anthropic.com/incidents/6qbj21vdcmpq""}]",claude.ai
+8 Jul 2024,[],#2fcc66,[],claude.ai
+9 Jul 2024,[],#2fcc66,[],claude.ai
+10 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 13}]",#a3c732,"[{""Incident_Title"": ""Claude 3 Haiku Elevated Error Rates"", ""Incident_Link"": ""https://status.anthropic.com/incidents/gvgs9zlm8ffn""}]",claude.ai
+11 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 87}]",#eca218,"[{""Incident_Title"": ""Elevated errors on Claude.ai and Console"", ""Incident_Link"": ""https://status.anthropic.com/incidents/j8t7dz18qf1y""}]",claude.ai
+12 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 11}]",#a1c733,"[{""Incident_Title"": ""Haiku and 3.5 Sonnet Partial Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/1m34020z39y6""}, {""Incident_Title"": ""Partial unavailability for Claude 3 Haiku and Claude 3.5 Sonnet"", ""Incident_Link"": ""https://status.anthropic.com/incidents/zv1j7d2tnvyw""}]",claude.ai
+13 Jul 2024,[],#2fcc66,[],claude.ai
+14 Jul 2024,[],#2fcc66,[],claude.ai
+15 Jul 2024,[],#2fcc66,[],claude.ai
+16 Jul 2024,[],#2fcc66,[],claude.ai
+17 Jul 2024,[],#2fcc66,[],claude.ai
+18 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 23}]",#b3c72b,"[{""Incident_Title"": ""Partial outage of Claude-2.0 and Claude-2.1"", ""Incident_Link"": ""https://status.anthropic.com/incidents/2pqj8sfk0rqn""}]",claude.ai
+19 Jul 2024,[],#2fcc66,[],claude.ai
+20 Jul 2024,[],#2fcc66,[],claude.ai
+21 Jul 2024,[],#2fcc66,[],claude.ai
+22 Jul 2024,[],#2fcc66,[],claude.ai
+23 Jul 2024,[],#2fcc66,[],claude.ai
+24 Jul 2024,[],#2fcc66,[],claude.ai
+25 Jul 2024,[],#2fcc66,[],claude.ai
+26 Jul 2024,[],#2fcc66,[],claude.ai
+27 Jul 2024,[],#2fcc66,[],claude.ai
+28 Jul 2024,[],#2fcc66,[],claude.ai
+29 Jul 2024,[],#2fcc66,[],claude.ai
+30 Jul 2024,[],#2fcc66,[],claude.ai
+31 Jul 2024,[],#2fcc66,[],claude.ai
+1 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 15}]",#a6c731,"[{""Incident_Title"": ""Elevated rate limiting errors on the API"", ""Incident_Link"": ""https://status.anthropic.com/incidents/nly5s6zbcvg5""}]",claude.ai
+2 Aug 2024,[],#2fcc66,[],claude.ai
+3 Aug 2024,[],#2fcc66,[],claude.ai
+4 Aug 2024,[],#2fcc66,[],claude.ai
+5 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 7}]",#9bc835,"[{""Incident_Title"": ""High error rates affecting inference"", ""Incident_Link"": ""https://status.anthropic.com/incidents/qn4crqd8ym36""}]",claude.ai
+6 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 22}]",#b2c72b,"[{""Incident_Title"": ""Errors when signing up for Claude Pro or Claude Team plans"", ""Incident_Link"": ""https://status.anthropic.com/incidents/s27y0sgpmp75""}, {""Incident_Title"": ""Elevated error rates on API, Claude, and Console"", ""Incident_Link"": ""https://status.anthropic.com/incidents/xndqxrj1mnnb""}]",claude.ai
+7 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rates on 3.5 Sonnet and 3 Opus"", ""Incident_Link"": ""https://status.anthropic.com/incidents/q5dvt5ph7tzx""}]",claude.ai
+8 Aug 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 36}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 743}]",#e74c3c,"[{""Incident_Title"": ""Elevated error rates on 3.5 Sonnet and 3 Opus"", ""Incident_Link"": ""https://status.anthropic.com/incidents/q5dvt5ph7tzx""}]",claude.ai
+9 Aug 2024,[],#2fcc66,[],claude.ai
+10 Aug 2024,[],#2fcc66,[],claude.ai
+11 Aug 2024,[],#2fcc66,[],claude.ai
+12 Aug 2024,[],#2fcc66,[],claude.ai
+13 Aug 2024,[],#2fcc66,[],claude.ai
+14 Aug 2024,[],#2fcc66,[],claude.ai
+15 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 83}]",#eda817,"[{""Incident_Title"": ""Elevated errors for requests with images"", ""Incident_Link"": ""https://status.anthropic.com/incidents/fc5jtvs8k07x""}, {""Incident_Title"": ""Elevated errors for some 3.5 Sonnet users"", ""Incident_Link"": ""https://status.anthropic.com/incidents/p70ytf88h7d5""}]",claude.ai
+16 Aug 2024,[],#2fcc66,[],claude.ai
+17 Aug 2024,[],#2fcc66,[],claude.ai
+18 Aug 2024,[],#2fcc66,[],claude.ai
+19 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated errors for some free Claude.ai users"", ""Incident_Link"": ""https://status.anthropic.com/incidents/tkk1vmjbn9zc""}]",claude.ai
+20 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated errors on Claude.ai for free usage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/s1mhj2t8qjxk""}]",claude.ai
+21 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated errors on Claude.ai for free usage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/fqzlkqnhk3l3""}]",claude.ai
+22 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated errors on Claude.ai for free usage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/fqzlkqnhk3l3""}]",claude.ai
+23 Aug 2024,[],#2fcc66,[],claude.ai
+24 Aug 2024,[],#2fcc66,[],claude.ai
+25 Aug 2024,[],#2fcc66,[],claude.ai
+26 Aug 2024,[],#2fcc66,[],claude.ai
+27 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Bug affecting responses in claude.ai"", ""Incident_Link"": ""https://status.anthropic.com/incidents/kygj9sjs8dxr""}, {""Incident_Title"": ""Elevated error rates on Claude 3.5 Sonnet"", ""Incident_Link"": ""https://status.anthropic.com/incidents/s6lf7cnyxrw2""}]",claude.ai
+28 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Bug affecting responses in claude.ai"", ""Incident_Link"": ""https://status.anthropic.com/incidents/kygj9sjs8dxr""}]",claude.ai
+29 Aug 2024,[],#2fcc66,"[{""Incident_Title"": ""Bug affecting responses in claude.ai"", ""Incident_Link"": ""https://status.anthropic.com/incidents/kygj9sjs8dxr""}]",claude.ai
+30 Aug 2024,[],#2fcc66,[],claude.ai
+31 Aug 2024,[],#2fcc66,[],claude.ai
+1 Mar 2024,[],#2fcc66,[],claude.ai
+2 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rates for some models"", ""Incident_Link"": ""https://status.anthropic.com/incidents/rh54jd1p7477""}]",claude.ai
+3 Mar 2024,[],#2fcc66,[],claude.ai
+4 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 168}]",#e75d33,"[{""Incident_Title"": ""claude.ai and Console temporarily degraded"", ""Incident_Link"": ""https://status.anthropic.com/incidents/2fc5qs2hzvzr""}, {""Incident_Title"": ""Elevated Error Rate"", ""Incident_Link"": ""https://status.anthropic.com/incidents/cj4jxvqhtyq1""}]",claude.ai
+5 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""Google Auth degraded performance"", ""Incident_Link"": ""https://status.anthropic.com/incidents/br9yqm8mybdt""}, {""Incident_Title"": ""Elevated error rates for Claude 3 Opus"", ""Incident_Link"": ""https://status.anthropic.com/incidents/j0whkvcfyybs""}]",claude.ai
+6 Mar 2024,[],#2fcc66,[],claude.ai
+7 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""Claude 3 Opus elevated error rates"", ""Incident_Link"": ""https://status.anthropic.com/incidents/sjxpnt74vz3b""}]",claude.ai
+8 Mar 2024,[],#2fcc66,[],claude.ai
+9 Mar 2024,[],#2fcc66,[],claude.ai
+10 Mar 2024,[],#2fcc66,[],claude.ai
+11 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rate"", ""Incident_Link"": ""https://status.anthropic.com/incidents/gy2g64fmqwjb""}]",claude.ai
+12 Mar 2024,[],#2fcc66,[],claude.ai
+13 Mar 2024,[],#2fcc66,[],claude.ai
+14 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""elevated error rates on claude-2.0"", ""Incident_Link"": ""https://status.anthropic.com/incidents/bpjy52zfjbm7""}]",claude.ai
+15 Mar 2024,[],#2fcc66,[],claude.ai
+16 Mar 2024,[],#2fcc66,[],claude.ai
+17 Mar 2024,[],#2fcc66,[],claude.ai
+18 Mar 2024,[],#2fcc66,[],claude.ai
+19 Mar 2024,[],#2fcc66,[],claude.ai
+20 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rates on Claude 3 Haiku"", ""Incident_Link"": ""https://status.anthropic.com/incidents/t3fxk1ylwgq4""}, {""Incident_Title"": ""Elevated errors on Claude 3 Opus"", ""Incident_Link"": ""https://status.anthropic.com/incidents/wx1cnb9gthdd""}]",claude.ai
+21 Mar 2024,[],#2fcc66,[],claude.ai
+22 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated API Error Rates"", ""Incident_Link"": ""https://status.anthropic.com/incidents/czwvmc36gjgq""}]",claude.ai
+23 Mar 2024,[],#2fcc66,[],claude.ai
+24 Mar 2024,[],#2fcc66,[],claude.ai
+25 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 87}]",#eca218,"[{""Incident_Title"": ""Partial Outage for v1.3"", ""Incident_Link"": ""https://status.anthropic.com/incidents/0thq6plb794h""}, {""Incident_Title"": ""Elevate Opus Error Rates"", ""Incident_Link"": ""https://status.anthropic.com/incidents/yrpdp4bzzhg7""}]",claude.ai
+26 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 16}]",#a9c72f,"[{""Incident_Title"": ""Degraded performance for haiku"", ""Incident_Link"": ""https://status.anthropic.com/incidents/xpbzq5smcjsf""}]",claude.ai
+27 Mar 2024,[],#2fcc66,[],claude.ai
+28 Mar 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated rate of errors on Claude 3 Opus"", ""Incident_Link"": ""https://status.anthropic.com/incidents/tk1x8n0mbnsw""}]",claude.ai
+29 Mar 2024,[],#2fcc66,[],claude.ai
+30 Mar 2024,[],#2fcc66,[],claude.ai
+31 Mar 2024,[],#2fcc66,[],claude.ai
+1 Apr 2024,[],#2fcc66,[],claude.ai
+2 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 837}]",#e74c3c,"[{""Incident_Title"": ""Partial outage on claude.ai and console.anthropic.com"", ""Incident_Link"": ""https://status.anthropic.com/incidents/jgqkj2cjxwml""}, {""Incident_Title"": ""Partial login failure on claude.ai"", ""Incident_Link"": ""https://status.anthropic.com/incidents/s1zv2h77jgw4""}]",claude.ai
+3 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 274}]",#e74c3c,"[{""Incident_Title"": ""Opus partially down"", ""Incident_Link"": ""https://status.anthropic.com/incidents/99zylp2nfykq""}]",claude.ai
+4 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 77}]",#eeb214,"[{""Incident_Title"": ""High Opus Error Rates"", ""Incident_Link"": ""https://status.anthropic.com/incidents/gl42kz9j07rr""}]",claude.ai
+5 Apr 2024,[],#2fcc66,[],claude.ai
+6 Apr 2024,[],#2fcc66,[],claude.ai
+7 Apr 2024,[],#2fcc66,[],claude.ai
+8 Apr 2024,[],#2fcc66,[],claude.ai
+9 Apr 2024,[],#2fcc66,[],claude.ai
+10 Apr 2024,[],#2fcc66,[],claude.ai
+11 Apr 2024,[],#2fcc66,[],claude.ai
+12 Apr 2024,[],#2fcc66,[],claude.ai
+13 Apr 2024,[],#2fcc66,[],claude.ai
+14 Apr 2024,[],#2fcc66,[],claude.ai
+15 Apr 2024,[],#2fcc66,[],claude.ai
+16 Apr 2024,[],#2fcc66,[],claude.ai
+17 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 17}]",#a9c72f,"[{""Incident_Title"": ""Opus elevated error rate"", ""Incident_Link"": ""https://status.anthropic.com/incidents/t2459rjyvh85""}]",claude.ai
+18 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 74}]",#efb613,"[{""Incident_Title"": ""Haiku Partial Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/f8qfyzkbs439""}, {""Incident_Title"": ""Haiku down again"", ""Incident_Link"": ""https://status.anthropic.com/incidents/3ndhz9s72dhx""}, {""Incident_Title"": ""Haiku outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/2hr8fkgz317g""}, {""Incident_Title"": ""Sonnet outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/s33hv3bdp2s8""}]",claude.ai
+19 Apr 2024,[],#2fcc66,[],claude.ai
+20 Apr 2024,[],#2fcc66,[],claude.ai
+21 Apr 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rate on Claude 3 Opus"", ""Incident_Link"": ""https://status.anthropic.com/incidents/wnf493j31fyb""}]",claude.ai
+22 Apr 2024,[],#2fcc66,[],claude.ai
+23 Apr 2024,[],#2fcc66,[],claude.ai
+24 Apr 2024,[],#2fcc66,[],claude.ai
+25 Apr 2024,[],#2fcc66,[],claude.ai
+26 Apr 2024,[],#2fcc66,[],claude.ai
+27 Apr 2024,[],#2fcc66,[],claude.ai
+28 Apr 2024,[],#2fcc66,[],claude.ai
+29 Apr 2024,[],#2fcc66,[],claude.ai
+30 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 44}]",#d1c51e,"[{""Incident_Title"": ""Opus Partially Down"", ""Incident_Link"": ""https://status.anthropic.com/incidents/nx9mszx03jvk""}, {""Incident_Title"": ""Opus Partial Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/ryf4wfgywsq5""}]",claude.ai
+1 May 2024,[],#2fcc66,[],claude.ai
+2 May 2024,[],#2fcc66,[],claude.ai
+3 May 2024,[],#2fcc66,[],claude.ai
+4 May 2024,[],#2fcc66,[],claude.ai
+5 May 2024,[],#2fcc66,[],claude.ai
+6 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 10}]",#9fc734,"[{""Incident_Title"": ""Haiku Partial Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/sr8swn3xvzg4""}]",claude.ai
+7 May 2024,[],#2fcc66,[],claude.ai
+8 May 2024,[],#2fcc66,[],claude.ai
+9 May 2024,[],#2fcc66,[],claude.ai
+10 May 2024,[],#2fcc66,[],claude.ai
+11 May 2024,[],#2fcc66,[],claude.ai
+12 May 2024,[],#2fcc66,[],claude.ai
+13 May 2024,[],#2fcc66,[],claude.ai
+14 May 2024,[],#2fcc66,"[{""Incident_Title"": ""Delays delivering emails"", ""Incident_Link"": ""https://status.anthropic.com/incidents/5ycpp6c9901y""}]",claude.ai
+15 May 2024,[],#2fcc66,[],claude.ai
+16 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 6}]",#99c836,"[{""Incident_Title"": ""Claude Instant 1.2 Elevated Error Rates"", ""Incident_Link"": ""https://status.anthropic.com/incidents/m5y2l11f5qjw""}]",claude.ai
+17 May 2024,[],#2fcc66,[],claude.ai
+18 May 2024,[],#2fcc66,[],claude.ai
+19 May 2024,[],#2fcc66,[],claude.ai
+20 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 27}]",#b8c629,"[{""Incident_Title"": ""Claude 3 Haiku Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/h70zgz99hzxd""}]",claude.ai
+21 May 2024,[],#2fcc66,[],claude.ai
+22 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 14}]",#a5c731,"[{""Incident_Title"": ""Opus Partial Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/fh1r1ypgykk6""}]",claude.ai
+23 May 2024,[],#2fcc66,[],claude.ai
+24 May 2024,[],#2fcc66,[],claude.ai
+25 May 2024,[],#2fcc66,[],claude.ai
+26 May 2024,[],#2fcc66,[],claude.ai
+27 May 2024,[],#2fcc66,[],claude.ai
+28 May 2024,[],#2fcc66,[],claude.ai
+29 May 2024,[],#2fcc66,[],claude.ai
+30 May 2024,[],#2fcc66,[],claude.ai
+31 May 2024,[],#2fcc66,[],claude.ai
+1 Dec 2023,[],#2fcc66,[],claude.ai
+2 Dec 2023,[],#2fcc66,[],claude.ai
+3 Dec 2023,[],#2fcc66,[],claude.ai
+4 Dec 2023,[],#2fcc66,[],claude.ai
+5 Dec 2023,[],#2fcc66,[],claude.ai
+6 Dec 2023,[],#2fcc66,[],claude.ai
+7 Dec 2023,[],#2fcc66,[],claude.ai
+8 Dec 2023,[],#2fcc66,[],claude.ai
+9 Dec 2023,[],#2fcc66,[],claude.ai
+10 Dec 2023,[],#2fcc66,[],claude.ai
+11 Dec 2023,[],#2fcc66,[],claude.ai
+12 Dec 2023,[],#2fcc66,[],claude.ai
+13 Dec 2023,[],#2fcc66,[],claude.ai
+14 Dec 2023,[],#2fcc66,[],claude.ai
+15 Dec 2023,[],#2fcc66,[],claude.ai
+16 Dec 2023,[],#2fcc66,[],claude.ai
+17 Dec 2023,[],#2fcc66,[],claude.ai
+18 Dec 2023,[],#2fcc66,[],claude.ai
+19 Dec 2023,[],#2fcc66,[],claude.ai
+20 Dec 2023,[],#2fcc66,[],claude.ai
+21 Dec 2023,[],#2fcc66,[],claude.ai
+22 Dec 2023,[],#2fcc66,[],claude.ai
+23 Dec 2023,[],#2fcc66,[],claude.ai
+24 Dec 2023,[],#2fcc66,[],claude.ai
+25 Dec 2023,[],#2fcc66,[],claude.ai
+26 Dec 2023,[],#2fcc66,[],claude.ai
+27 Dec 2023,[],#2fcc66,[],claude.ai
+28 Dec 2023,[],#2fcc66,[],claude.ai
+29 Dec 2023,[],#2fcc66,[],claude.ai
+30 Dec 2023,[],#2fcc66,[],claude.ai
+31 Dec 2023,[],#2fcc66,[],claude.ai
+1 Jan 2024,[],#2fcc66,[],claude.ai
+2 Jan 2024,[],#2fcc66,[],claude.ai
+3 Jan 2024,[],#2fcc66,[],claude.ai
+4 Jan 2024,[],#2fcc66,[],claude.ai
+5 Jan 2024,[],#2fcc66,[],claude.ai
+6 Jan 2024,[],#2fcc66,[],claude.ai
+7 Jan 2024,[],#2fcc66,[],claude.ai
+8 Jan 2024,[],#2fcc66,[],claude.ai
+9 Jan 2024,[],#2fcc66,[],claude.ai
+10 Jan 2024,[],#2fcc66,[],claude.ai
+11 Jan 2024,[],#2fcc66,[],claude.ai
+12 Jan 2024,[],#2fcc66,[],claude.ai
+13 Jan 2024,[],#2fcc66,[],claude.ai
+14 Jan 2024,[],#2fcc66,[],claude.ai
+15 Jan 2024,[],#2fcc66,[],claude.ai
+16 Jan 2024,[],#2fcc66,[],claude.ai
+17 Jan 2024,[],#2fcc66,[],claude.ai
+18 Jan 2024,[],#2fcc66,[],claude.ai
+19 Jan 2024,[],#2fcc66,[],claude.ai
+20 Jan 2024,[],#2fcc66,[],claude.ai
+21 Jan 2024,[],#2fcc66,[],claude.ai
+22 Jan 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 6}]",#99c837,"[{""Incident_Title"": ""claude.ai chat not operational"", ""Incident_Link"": ""https://status.anthropic.com/incidents/3ssrcy8kwsx9""}]",claude.ai
+23 Jan 2024,[],#2fcc66,[],claude.ai
+24 Jan 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rates on a subset of models"", ""Incident_Link"": ""https://status.anthropic.com/incidents/ldbx9tw6f7d9""}]",claude.ai
+25 Jan 2024,[],#2fcc66,[],claude.ai
+26 Jan 2024,[],#2fcc66,[],claude.ai
+27 Jan 2024,[],#2fcc66,[],claude.ai
+28 Jan 2024,[],#2fcc66,[],claude.ai
+29 Jan 2024,[],#2fcc66,"[{""Incident_Title"": ""elevated error rate on some models"", ""Incident_Link"": ""https://status.anthropic.com/incidents/s6pmn6mgszgc""}, {""Incident_Title"": ""Elevated API error rate across all models"", ""Incident_Link"": ""https://status.anthropic.com/incidents/qxdvjb4njp6q""}]",claude.ai
+30 Jan 2024,[],#2fcc66,"[{""Incident_Title"": ""elevated error rate on claude-2.1"", ""Incident_Link"": ""https://status.anthropic.com/incidents/rqpd1jfqmglp""}]",claude.ai
+31 Jan 2024,[],#2fcc66,"[{""Incident_Title"": ""Claude.ai Experienced a Temporary Outage"", ""Incident_Link"": ""https://status.anthropic.com/incidents/shhpbrjb160c""}, {""Incident_Title"": ""elevated error rates on some models"", ""Incident_Link"": ""https://status.anthropic.com/incidents/w3g5jpznssrd""}]",claude.ai
+1 Feb 2024,[],#2fcc66,[],claude.ai
+2 Feb 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rate on claude.ai"", ""Incident_Link"": ""https://status.anthropic.com/incidents/h1lxbyszyxrq""}]",claude.ai
+3 Feb 2024,[],#2fcc66,[],claude.ai
+4 Feb 2024,[],#2fcc66,[],claude.ai
+5 Feb 2024,[],#2fcc66,"[{""Incident_Title"": ""elevated error rates on claude-instant-1.2"", ""Incident_Link"": ""https://status.anthropic.com/incidents/gr7nb0dwyydw""}]",claude.ai
+6 Feb 2024,[],#2fcc66,[],claude.ai
+7 Feb 2024,[],#2fcc66,[],claude.ai
+8 Feb 2024,[],#2fcc66,[],claude.ai
+9 Feb 2024,[],#2fcc66,[],claude.ai
+10 Feb 2024,[],#2fcc66,[],claude.ai
+11 Feb 2024,[],#2fcc66,[],claude.ai
+12 Feb 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rate on Claude-2.0, Claude-2.1"", ""Incident_Link"": ""https://status.anthropic.com/incidents/t6v85cs8j6jb""}, {""Incident_Title"": ""Elevated error rate on Claude-2.0, Claude-2.1"", ""Incident_Link"": ""https://status.anthropic.com/incidents/x5f4s8nvkyqq""}]",claude.ai
+13 Feb 2024,[],#2fcc66,[],claude.ai
+14 Feb 2024,[],#2fcc66,[],claude.ai
+15 Feb 2024,[],#2fcc66,[],claude.ai
+16 Feb 2024,[],#2fcc66,[],claude.ai
+17 Feb 2024,[],#2fcc66,[],claude.ai
+18 Feb 2024,[],#2fcc66,[],claude.ai
+19 Feb 2024,[],#2fcc66,[],claude.ai
+20 Feb 2024,[],#2fcc66,[],claude.ai
+21 Feb 2024,[],#2fcc66,[],claude.ai
+22 Feb 2024,[],#2fcc66,[],claude.ai
+23 Feb 2024,[],#2fcc66,[],claude.ai
+24 Feb 2024,[],#2fcc66,[],claude.ai
+25 Feb 2024,[],#2fcc66,[],claude.ai
+26 Feb 2024,[],#2fcc66,"[{""Incident_Title"": ""Elevated Errors"", ""Incident_Link"": ""https://status.anthropic.com/incidents/qv89mzdjvtrs""}]",claude.ai
+27 Feb 2024,[],#2fcc66,[],claude.ai
+28 Feb 2024,[],#2fcc66,[],claude.ai
+29 Feb 2024,[],#2fcc66,[],claude.ai
+1 Sep 2023,[],#2fcc66,[],claude.ai
+2 Sep 2023,[],#2fcc66,[],claude.ai
+3 Sep 2023,[],#2fcc66,[],claude.ai
+4 Sep 2023,[],#2fcc66,[],claude.ai
+5 Sep 2023,[],#2fcc66,[],claude.ai
+6 Sep 2023,[],#2fcc66,[],claude.ai
+7 Sep 2023,[],#2fcc66,[],claude.ai
+8 Sep 2023,[],#2fcc66,[],claude.ai
+9 Sep 2023,[],#2fcc66,[],claude.ai
+10 Sep 2023,[],#2fcc66,[],claude.ai
+11 Sep 2023,[],#2fcc66,[],claude.ai
+12 Sep 2023,[],#2fcc66,[],claude.ai
+13 Sep 2023,[],#2fcc66,[],claude.ai
+14 Sep 2023,[],#2fcc66,[],claude.ai
+15 Sep 2023,[],#2fcc66,[],claude.ai
+16 Sep 2023,[],#2fcc66,[],claude.ai
+17 Sep 2023,[],#2fcc66,[],claude.ai
+18 Sep 2023,[],#2fcc66,[],claude.ai
+19 Sep 2023,[],#2fcc66,[],claude.ai
+20 Sep 2023,[],#2fcc66,[],claude.ai
+21 Sep 2023,[],#2fcc66,[],claude.ai
+22 Sep 2023,[],#2fcc66,[],claude.ai
+23 Sep 2023,[],#2fcc66,[],claude.ai
+24 Sep 2023,[],#2fcc66,[],claude.ai
+25 Sep 2023,[],#2fcc66,[],claude.ai
+26 Sep 2023,[],#2fcc66,[],claude.ai
+27 Sep 2023,[],#2fcc66,[],claude.ai
+28 Sep 2023,[],#2fcc66,[],claude.ai
+29 Sep 2023,[],#2fcc66,[],claude.ai
+30 Sep 2023,[],#2fcc66,[],claude.ai
+1 Oct 2023,[],#2fcc66,[],claude.ai
+2 Oct 2023,[],#2fcc66,"[{""Incident_Title"": ""Payment Failures for Pro Subscriptions"", ""Incident_Link"": ""https://status.anthropic.com/incidents/j7ctkj41pkjp""}]",claude.ai
+3 Oct 2023,[],#2fcc66,[],claude.ai
+4 Oct 2023,[],#2fcc66,[],claude.ai
+5 Oct 2023,[],#2fcc66,[],claude.ai
+6 Oct 2023,[],#2fcc66,[],claude.ai
+7 Oct 2023,[],#2fcc66,[],claude.ai
+8 Oct 2023,[],#2fcc66,[],claude.ai
+9 Oct 2023,[],#2fcc66,[],claude.ai
+10 Oct 2023,[],#2fcc66,[],claude.ai
+11 Oct 2023,[],#2fcc66,"[{""Incident_Title"": ""Elevated API error rate"", ""Incident_Link"": ""https://status.anthropic.com/incidents/306rf7bb75mm""}]",claude.ai
+12 Oct 2023,[],#2fcc66,[],claude.ai
+13 Oct 2023,[],#2fcc66,[],claude.ai
+14 Oct 2023,[],#2fcc66,[],claude.ai
+15 Oct 2023,[],#2fcc66,[],claude.ai
+16 Oct 2023,[],#2fcc66,[],claude.ai
+17 Oct 2023,[],#2fcc66,[],claude.ai
+18 Oct 2023,[],#2fcc66,[],claude.ai
+19 Oct 2023,[],#2fcc66,[],claude.ai
+20 Oct 2023,[],#2fcc66,[],claude.ai
+21 Oct 2023,[],#2fcc66,[],claude.ai
+22 Oct 2023,[],#2fcc66,[],claude.ai
+23 Oct 2023,[],#2fcc66,[],claude.ai
+24 Oct 2023,[],#2fcc66,[],claude.ai
+25 Oct 2023,[],#2fcc66,[],claude.ai
+26 Oct 2023,[],#2fcc66,[],claude.ai
+27 Oct 2023,[],#2fcc66,[],claude.ai
+28 Oct 2023,[],#2fcc66,[],claude.ai
+29 Oct 2023,[],#2fcc66,[],claude.ai
+30 Oct 2023,[],#2fcc66,[],claude.ai
+31 Oct 2023,[],#2fcc66,[],claude.ai
+1 Nov 2023,[],#2fcc66,[],claude.ai
+2 Nov 2023,[],#2fcc66,[],claude.ai
+3 Nov 2023,[],#2fcc66,[],claude.ai
+4 Nov 2023,[],#2fcc66,[],claude.ai
+5 Nov 2023,[],#2fcc66,[],claude.ai
+6 Nov 2023,[],#2fcc66,[],claude.ai
+7 Nov 2023,[],#2fcc66,[],claude.ai
+8 Nov 2023,[],#2fcc66,[],claude.ai
+9 Nov 2023,[],#2fcc66,[],claude.ai
+10 Nov 2023,[],#2fcc66,[],claude.ai
+11 Nov 2023,[],#2fcc66,[],claude.ai
+12 Nov 2023,[],#2fcc66,[],claude.ai
+13 Nov 2023,[],#2fcc66,[],claude.ai
+14 Nov 2023,[],#2fcc66,[],claude.ai
+15 Nov 2023,[],#2fcc66,[],claude.ai
+16 Nov 2023,[],#2fcc66,[],claude.ai
+17 Nov 2023,[],#2fcc66,[],claude.ai
+18 Nov 2023,[],#2fcc66,[],claude.ai
+19 Nov 2023,[],#2fcc66,[],claude.ai
+20 Nov 2023,[],#2fcc66,[],claude.ai
+21 Nov 2023,[],#2fcc66,[],claude.ai
+22 Nov 2023,[],#2fcc66,[],claude.ai
+23 Nov 2023,[],#2fcc66,[],claude.ai
+24 Nov 2023,[],#2fcc66,[],claude.ai
+25 Nov 2023,[],#2fcc66,[],claude.ai
+26 Nov 2023,[],#2fcc66,[],claude.ai
+27 Nov 2023,[],#2fcc66,[],claude.ai
+28 Nov 2023,[],#2fcc66,"[{""Incident_Title"": ""Elevated error rate while accessing claude-instant models"", ""Incident_Link"": ""https://status.anthropic.com/incidents/6hkxdyybn6dp""}]",claude.ai
+29 Nov 2023,[],#2fcc66,[],claude.ai
+30 Nov 2023,[],#2fcc66,[],claude.ai
+11 Jul 2023,[],#2fcc66,[],claude.ai
+12 Jul 2023,[],#2fcc66,[],claude.ai
+13 Jul 2023,[],#2fcc66,[],claude.ai
+14 Jul 2023,[],#2fcc66,[],claude.ai
+15 Jul 2023,[],#2fcc66,[],claude.ai
+16 Jul 2023,[],#2fcc66,[],claude.ai
+17 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 20}]",#aec72d,"[{""Incident_Title"": ""Partial Outage Impacting Claude and Console"", ""Incident_Link"": ""https://status.anthropic.com/incidents/p0x0nrp5ld9k""}]",claude.ai
+18 Jul 2023,[],#2fcc66,"[{""Incident_Title"": ""Elevated errors for sign up page"", ""Incident_Link"": ""https://status.anthropic.com/incidents/gy6zjzf1f719""}]",claude.ai
+19 Jul 2023,[],#2fcc66,[],claude.ai
+20 Jul 2023,[],#2fcc66,[],claude.ai
+21 Jul 2023,[],#2fcc66,[],claude.ai
+22 Jul 2023,[],#2fcc66,[],claude.ai
+23 Jul 2023,[],#2fcc66,[],claude.ai
+24 Jul 2023,[],#2fcc66,[],claude.ai
+25 Jul 2023,[],#2fcc66,[],claude.ai
+26 Jul 2023,[],#2fcc66,[],claude.ai
+27 Jul 2023,[],#2fcc66,[],claude.ai
+28 Jul 2023,[],#2fcc66,[],claude.ai
+29 Jul 2023,[],#2fcc66,[],claude.ai
+30 Jul 2023,[],#2fcc66,[],claude.ai
+31 Jul 2023,[],#2fcc66,[],claude.ai
+1 Aug 2023,[],#2fcc66,[],claude.ai
+2 Aug 2023,[],#2fcc66,"[{""Incident_Title"": ""529s on claude-instant-v1.1"", ""Incident_Link"": ""https://status.anthropic.com/incidents/w604spz451n2""}]",claude.ai
+3 Aug 2023,[],#2fcc66,[],claude.ai
+4 Aug 2023,[],#2fcc66,"[{""Incident_Title"": ""claude.ai down & API partially degraded"", ""Incident_Link"": ""https://status.anthropic.com/incidents/rl5dxx1dvn2b""}]",claude.ai
+5 Aug 2023,[],#2fcc66,[],claude.ai
+6 Aug 2023,[],#2fcc66,[],claude.ai
+7 Aug 2023,[],#2fcc66,[],claude.ai
+8 Aug 2023,[],#2fcc66,[],claude.ai
+9 Aug 2023,[],#2fcc66,[],claude.ai
+10 Aug 2023,[],#2fcc66,[],claude.ai
+11 Aug 2023,[],#2fcc66,[],claude.ai
+12 Aug 2023,[],#2fcc66,[],claude.ai
+13 Aug 2023,[],#2fcc66,[],claude.ai
+14 Aug 2023,[],#2fcc66,[],claude.ai
+15 Aug 2023,[],#2fcc66,[],claude.ai
+16 Aug 2023,[],#2fcc66,[],claude.ai
+17 Aug 2023,[],#2fcc66,[],claude.ai
+18 Aug 2023,[],#2fcc66,[],claude.ai
+19 Aug 2023,[],#2fcc66,[],claude.ai
+20 Aug 2023,[],#2fcc66,[],claude.ai
+21 Aug 2023,[],#2fcc66,[],claude.ai
+22 Aug 2023,[],#2fcc66,"[{""Incident_Title"": ""Claude.ai & Console downtime"", ""Incident_Link"": ""https://status.anthropic.com/incidents/mzbrvjdyg58h""}]",claude.ai
+23 Aug 2023,[],#2fcc66,[],claude.ai
+24 Aug 2023,[],#2fcc66,[],claude.ai
+25 Aug 2023,[],#2fcc66,[],claude.ai
+26 Aug 2023,[],#2fcc66,[],claude.ai
+27 Aug 2023,[],#2fcc66,[],claude.ai
+28 Aug 2023,[],#2fcc66,[],claude.ai
+29 Aug 2023,[],#2fcc66,[],claude.ai
+30 Aug 2023,[],#2fcc66,[],claude.ai
+31 Aug 2023,[],#2fcc66,[],claude.ai

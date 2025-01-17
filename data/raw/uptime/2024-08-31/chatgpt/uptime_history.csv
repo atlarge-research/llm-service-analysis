@@ -1,0 +1,566 @@
+Date,Outages,Outage_Color,Incidents,Service
+1 Jun 2024,[],#10a37f,[],chatgpt
+2 Jun 2024,[],#10a37f,[],chatgpt
+3 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Mobile Chat Prompts with Images Are Not Working"", ""Incident_Link"": ""https://status.openai.com/incidents/8gc22x8b040k""}, {""Incident_Title"": ""Increased latency affecting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/rw6cy1k95c57""}]",chatgpt
+4 Jun 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 329}]",#ef4146,"[{""Incident_Title"": ""ChatGPT is unavailable for some users."", ""Incident_Link"": ""https://status.openai.com/incidents/qvp3rhvc3vwk""}, {""Incident_Title"": ""ChatGPT is unavailable for some users."", ""Incident_Link"": ""https://status.openai.com/incidents/rs49lmsh6xxw""}]",chatgpt
+5 Jun 2024,[],#10a37f,[],chatgpt
+6 Jun 2024,[],#10a37f,[],chatgpt
+7 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Workspace Analytics for ChatGPT Enterprise experiencing errors impacting some users"", ""Incident_Link"": ""https://status.openai.com/incidents/wm6xf3k9jmxg""}, {""Incident_Title"": ""Elevated error rate impacting ChatGPT vision"", ""Incident_Link"": ""https://status.openai.com/incidents/0q5dq6h5j57p""}]",chatgpt
+8 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Workspace Analytics for ChatGPT Enterprise experiencing errors impacting some users"", ""Incident_Link"": ""https://status.openai.com/incidents/wm6xf3k9jmxg""}]",chatgpt
+9 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Workspace Analytics for ChatGPT Enterprise experiencing errors impacting some users"", ""Incident_Link"": ""https://status.openai.com/incidents/wm6xf3k9jmxg""}]",chatgpt
+10 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Workspace Analytics for ChatGPT Enterprise experiencing errors impacting some users"", ""Incident_Link"": ""https://status.openai.com/incidents/wm6xf3k9jmxg""}]",chatgpt
+11 Jun 2024,[],#10a37f,[],chatgpt
+12 Jun 2024,[],#10a37f,[],chatgpt
+13 Jun 2024,[],#10a37f,[],chatgpt
+14 Jun 2024,[],#10a37f,[],chatgpt
+15 Jun 2024,[],#10a37f,[],chatgpt
+16 Jun 2024,[],#10a37f,[],chatgpt
+17 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/hrs6n7lcr2mm""}]",chatgpt
+18 Jun 2024,[],#10a37f,[],chatgpt
+19 Jun 2024,[],#10a37f,[],chatgpt
+20 Jun 2024,[],#10a37f,[],chatgpt
+21 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 22}]",#a9a94e,"[{""Incident_Title"": ""Login issues with SSO impacting some customers"", ""Incident_Link"": ""https://status.openai.com/incidents/rwzw1nvmt4dq""}]",chatgpt
+22 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 19}]",#a3a950,"[{""Incident_Title"": ""Increased error rates impacting API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/1fkvf7jj1zzk""}]",chatgpt
+23 Jun 2024,[],#10a37f,[],chatgpt
+24 Jun 2024,[],#10a37f,[],chatgpt
+25 Jun 2024,[],#10a37f,[],chatgpt
+26 Jun 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 12}]",#98a853,"[{""Incident_Title"": ""Elevated errors in the API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/1fq4lzfy1m17""}]",chatgpt
+27 Jun 2024,[],#10a37f,[],chatgpt
+28 Jun 2024,[],#10a37f,"[{""Incident_Title"": ""Increased errors on ChatGPT and API."", ""Incident_Link"": ""https://status.openai.com/incidents/9r53pld7szhp""}]",chatgpt
+29 Jun 2024,[],#10a37f,[],chatgpt
+30 Jun 2024,[],#10a37f,[],chatgpt
+1 Jul 2024,[],#10a37f,[],chatgpt
+2 Jul 2024,[],#10a37f,[],chatgpt
+3 Jul 2024,[],#10a37f,[],chatgpt
+4 Jul 2024,[],#10a37f,[],chatgpt
+5 Jul 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 10}]",#c0aa47,"[{""Incident_Title"": ""Outage on ChatGPT and API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/92tyglr0b7tk""}]",chatgpt
+6 Jul 2024,[],#10a37f,[],chatgpt
+7 Jul 2024,[],#10a37f,[],chatgpt
+8 Jul 2024,[],#10a37f,[],chatgpt
+9 Jul 2024,[],#10a37f,[],chatgpt
+10 Jul 2024,[],#10a37f,[],chatgpt
+11 Jul 2024,[],#10a37f,[],chatgpt
+12 Jul 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 48}]",#ec532d,"[{""Incident_Title"": ""Outage on ChatGPT and Assistants API"", ""Incident_Link"": ""https://status.openai.com/incidents/b0z4bgvlh8z0""}]",chatgpt
+13 Jul 2024,[],#10a37f,[],chatgpt
+14 Jul 2024,[],#10a37f,[],chatgpt
+15 Jul 2024,[],#10a37f,[],chatgpt
+16 Jul 2024,[],#10a37f,[],chatgpt
+17 Jul 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 170}]",#ed4f32,"[{""Incident_Title"": ""Elevated error rates for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/2b9lxxhh957b""}, {""Incident_Title"": ""ChatGPT outage"", ""Incident_Link"": ""https://status.openai.com/incidents/ff32y1r5px5r""}]",chatgpt
+18 Jul 2024,[],#10a37f,"[{""Incident_Title"": ""Outage on ChatGPT and API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/cgvtvlvkvfxq""}]",chatgpt
+19 Jul 2024,[],#10a37f,[],chatgpt
+20 Jul 2024,[],#10a37f,[],chatgpt
+21 Jul 2024,[],#10a37f,[],chatgpt
+22 Jul 2024,[],#10a37f,[],chatgpt
+23 Jul 2024,[],#10a37f,[],chatgpt
+24 Jul 2024,[],#10a37f,[],chatgpt
+25 Jul 2024,[],#10a37f,[],chatgpt
+26 Jul 2024,[],#10a37f,[],chatgpt
+27 Jul 2024,[],#10a37f,[],chatgpt
+28 Jul 2024,[],#10a37f,[],chatgpt
+29 Jul 2024,[],#10a37f,[],chatgpt
+30 Jul 2024,[],#10a37f,[],chatgpt
+31 Jul 2024,[],#10a37f,[],chatgpt
+1 Aug 2024,[],#10a37f,[],chatgpt
+2 Aug 2024,[],#10a37f,[],chatgpt
+3 Aug 2024,[],#10a37f,[],chatgpt
+4 Aug 2024,[],#10a37f,[],chatgpt
+5 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 81}]",#f09526,"[{""Incident_Title"": ""Elevated errors in ChatGPT when using the browsing tool"", ""Incident_Link"": ""https://status.openai.com/incidents/3wgkrn2qc5tf""}]",chatgpt
+6 Aug 2024,[],#10a37f,[],chatgpt
+7 Aug 2024,[],#10a37f,[],chatgpt
+8 Aug 2024,[],#10a37f,[],chatgpt
+9 Aug 2024,[],#10a37f,[],chatgpt
+10 Aug 2024,[],#10a37f,[],chatgpt
+11 Aug 2024,[],#10a37f,[],chatgpt
+12 Aug 2024,[],#10a37f,[],chatgpt
+13 Aug 2024,[],#10a37f,"[{""Incident_Title"": ""Chat history failing to load for some users."", ""Incident_Link"": ""https://status.openai.com/incidents/vvtggc9m43m8""}]",chatgpt
+14 Aug 2024,[],#10a37f,[],chatgpt
+15 Aug 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/39dpym8fydrd""}]",chatgpt
+16 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 34}]",#bdaa48,"[{""Incident_Title"": ""Elevated error rates for ChatGPT and Platform API"", ""Incident_Link"": ""https://status.openai.com/incidents/s9d5cv5jcy7x""}]",chatgpt
+17 Aug 2024,[],#10a37f,[],chatgpt
+18 Aug 2024,[],#10a37f,[],chatgpt
+19 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 87}]",#ee8c20,"[{""Incident_Title"": ""File uploads returning error messages"", ""Incident_Link"": ""https://status.openai.com/incidents/433mh2zvfmww""}]",chatgpt
+20 Aug 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors impacting logins to ChatGPT and the API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/q1v975w73pm7""}]",chatgpt
+21 Aug 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 35}]",#e9680f,"[{""Incident_Title"": ""Authentication Issues on ChatGPT and the API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/sz5ltf8r0d7p""}, {""Incident_Title"": ""Elevated errors impacting logins to ChatGPT and the API Platform"", ""Incident_Link"": ""https://status.openai.com/incidents/k59vpk7p41p5""}]",chatgpt
+22 Aug 2024,[],#10a37f,[],chatgpt
+23 Aug 2024,[],#10a37f,[],chatgpt
+24 Aug 2024,[],#10a37f,[],chatgpt
+25 Aug 2024,[],#10a37f,[],chatgpt
+26 Aug 2024,[],#10a37f,"[{""Incident_Title"": ""Increased conversation latency in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/4mvhdw8bmz8n""}]",chatgpt
+27 Aug 2024,[],#10a37f,[],chatgpt
+28 Aug 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 164}]",#ec522e,"[{""Incident_Title"": ""Elevated errors rates in Assistants API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/8kb29fwgbp25""}, {""Incident_Title"": ""Elevated error rates for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/frbqbb921940""}]",chatgpt
+29 Aug 2024,[],#10a37f,[],chatgpt
+30 Aug 2024,[],#10a37f,[],chatgpt
+31 Aug 2024,[],#10a37f,[],chatgpt
+1 Mar 2024,[],#10a37f,[],chatgpt
+2 Mar 2024,[],#10a37f,[],chatgpt
+3 Mar 2024,[],#10a37f,[],chatgpt
+4 Mar 2024,[],#10a37f,[],chatgpt
+5 Mar 2024,[],#10a37f,[],chatgpt
+6 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/r2vrysp441yc""}]",chatgpt
+7 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/j2zghg28tgl5""}]",chatgpt
+8 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/j2zghg28tgl5""}]",chatgpt
+9 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/4f8s411z6pms""}, {""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/ytdhb1w2h56d""}]",chatgpt
+10 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/4f8s411z6pms""}]",chatgpt
+11 Mar 2024,[],#10a37f,[],chatgpt
+12 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Increased latency affecting both ChatGPT and APIs"", ""Incident_Link"": ""https://status.openai.com/incidents/f0465gcr4cq4""}]",chatgpt
+13 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 27}]",#b1a94b,"[{""Incident_Title"": ""Degraded performance in ChatGPT and GPT4 models"", ""Incident_Link"": ""https://status.openai.com/incidents/k0v37m46n5t4""}]",chatgpt
+14 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Increased error rates and latency on GPT-3.5-Turbo and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/vy3rjsn7pp5j""}]",chatgpt
+15 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Increased error rates and latency on GPT-3.5-Turbo and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/vy3rjsn7pp5j""}]",chatgpt
+16 Mar 2024,[],#10a37f,[],chatgpt
+17 Mar 2024,[],#10a37f,[],chatgpt
+18 Mar 2024,[],#10a37f,[],chatgpt
+19 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""High error rate on DALL\u00b7E"", ""Incident_Link"": ""https://status.openai.com/incidents/j6j35msq9vdt""}, {""Incident_Title"": ""Elevated errors in requests to GPT-4 in the API"", ""Incident_Link"": ""https://status.openai.com/incidents/vlmww06nns0z""}]",chatgpt
+20 Mar 2024,[],#10a37f,[],chatgpt
+21 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 89}]",#ee8a1e,"[{""Incident_Title"": ""Some Android users are facing a login issue"", ""Incident_Link"": ""https://status.openai.com/incidents/064z68ts8bhd""}]",chatgpt
+22 Mar 2024,[],#10a37f,[],chatgpt
+23 Mar 2024,[],#10a37f,[],chatgpt
+24 Mar 2024,[],#10a37f,[],chatgpt
+25 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 28}]",#b4a94b,"[{""Incident_Title"": ""Elevated errors in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/3wv7n7sy8xv5""}]",chatgpt
+26 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 38}]",#c3aa46,[],chatgpt
+27 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Increased errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/fqrkjmwvkm9c""}]",chatgpt
+28 Mar 2024,[],#10a37f,"[{""Incident_Title"": ""Advanced Data Analysis failing on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/7021042tlg91""}]",chatgpt
+29 Mar 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 97}]",#eb7e16,"[{""Incident_Title"": ""Increased errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/r5vx858m9pxt""}]",chatgpt
+30 Mar 2024,[],#10a37f,[],chatgpt
+31 Mar 2024,[],#10a37f,[],chatgpt
+1 Apr 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 3}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 14}]",#ada94d,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/yk2pndv2tdfw""}]",chatgpt
+2 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Increased errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/sg976xjfqcmc""}]",chatgpt
+3 Apr 2024,[],#10a37f,[],chatgpt
+4 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Increased error rate on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/tfqpd7zp7183""}]",chatgpt
+5 Apr 2024,[],#10a37f,[],chatgpt
+6 Apr 2024,[],#10a37f,[],chatgpt
+7 Apr 2024,[],#10a37f,[],chatgpt
+8 Apr 2024,[],#10a37f,[],chatgpt
+9 Apr 2024,[],#10a37f,[],chatgpt
+10 Apr 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 180}]",#ed4a39,"[{""Incident_Title"": ""Elevated errors in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/w20mcckg1748""}, {""Incident_Title"": ""Elevated errors in requests using vision in ChatGPT and the API"", ""Incident_Link"": ""https://status.openai.com/incidents/tslskm62x0v6""}]",chatgpt
+11 Apr 2024,[],#10a37f,[],chatgpt
+12 Apr 2024,[],#10a37f,[],chatgpt
+13 Apr 2024,[],#10a37f,[],chatgpt
+14 Apr 2024,[],#10a37f,[],chatgpt
+15 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/xhr9d3qykd2p""}]",chatgpt
+16 Apr 2024,[],#10a37f,[],chatgpt
+17 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/zx65grg8q28j""}]",chatgpt
+18 Apr 2024,[],#10a37f,[],chatgpt
+19 Apr 2024,[],#10a37f,[],chatgpt
+20 Apr 2024,[],#10a37f,[],chatgpt
+21 Apr 2024,[],#10a37f,[],chatgpt
+22 Apr 2024,[],#10a37f,[],chatgpt
+23 Apr 2024,[],#10a37f,[],chatgpt
+24 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/5lnkhd8p9d0d""}]",chatgpt
+25 Apr 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/nwjf6sj8cl5l""}, {""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/cczgsv2kzdnh""}]",chatgpt
+26 Apr 2024,[],#10a37f,[],chatgpt
+27 Apr 2024,[],#10a37f,[],chatgpt
+28 Apr 2024,[],#10a37f,[],chatgpt
+29 Apr 2024,[],#10a37f,[],chatgpt
+30 Apr 2024,[],#10a37f,[],chatgpt
+1 May 2024,[],#10a37f,"[{""Incident_Title"": ""The website openai.com is currently down."", ""Incident_Link"": ""https://status.openai.com/incidents/dnd5t229ll1l""}, {""Incident_Title"": ""Elevated error rates on ASR (Whisper)"", ""Incident_Link"": ""https://status.openai.com/incidents/8n6cpxchrx14""}, {""Incident_Title"": ""Users are facing elevated error rates on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/j1glqxyh61gk""}]",chatgpt
+2 May 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 27}]",#ed851a,"[{""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/9p4bcf43mvly""}]",chatgpt
+3 May 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 21}]",#f3a531,"[{""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/kprfbhg9g654""}]",chatgpt
+4 May 2024,[],#10a37f,[],chatgpt
+5 May 2024,[],#10a37f,[],chatgpt
+6 May 2024,[],#10a37f,[],chatgpt
+7 May 2024,[],#10a37f,"[{""Incident_Title"": ""Some Customers Cannot Message Support"", ""Incident_Link"": ""https://status.openai.com/incidents/tk3m1vwpslck""}]",chatgpt
+8 May 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors uploading files in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/vn8j63zg56hz""}]",chatgpt
+9 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 48}]",#d5ab40,"[{""Incident_Title"": ""Partial outage for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/xjkmkztfzrsw""}, {""Incident_Title"": ""Elevated errors on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/xcj743yytngc""}]",chatgpt
+10 May 2024,[],#10a37f,[],chatgpt
+11 May 2024,[],#10a37f,[],chatgpt
+12 May 2024,[],#10a37f,[],chatgpt
+13 May 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors in ChatGPT on model GPT-4o (API not impacted)"", ""Incident_Link"": ""https://status.openai.com/incidents/9gmqy8w5719x""}]",chatgpt
+14 May 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates for ChatGPT voice"", ""Incident_Link"": ""https://status.openai.com/incidents/5gthxl1ypwl2""}]",chatgpt
+15 May 2024,[],#10a37f,[],chatgpt
+16 May 2024,[],#10a37f,[],chatgpt
+17 May 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/bk61kqf9lxy5""}]",chatgpt
+18 May 2024,[],#10a37f,[],chatgpt
+19 May 2024,[],#10a37f,[],chatgpt
+20 May 2024,[],#10a37f,[],chatgpt
+21 May 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 9}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 58}]",#ed881c,"[{""Incident_Title"": ""Partial outage for GPT-4o free users"", ""Incident_Link"": ""https://status.openai.com/incidents/mdbx834gwswg""}]",chatgpt
+22 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 28}]",#b3a94b,"[{""Incident_Title"": ""ChatGPT's ability to search the internet is being affected"", ""Incident_Link"": ""https://status.openai.com/incidents/kg1szc9qhk4k""}, {""Incident_Title"": ""Elevated error rate impacting ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/pbmztw8m1xtw""}]",chatgpt
+23 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 514}]",#ef4146,"[{""Incident_Title"": ""Elevated API and ChatGPT Latency and Error Rate"", ""Incident_Link"": ""https://status.openai.com/incidents/9gm58mclcmst""}, {""Incident_Title"": ""ChatGPT's ability to search the internet is being affected"", ""Incident_Link"": ""https://status.openai.com/incidents/kg1szc9qhk4k""}]",chatgpt
+24 May 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 79}]",#f09929,"[{""Incident_Title"": ""ChatGPT Not Loading for Some Users"", ""Incident_Link"": ""https://status.openai.com/incidents/4g07kxgj9y9q""}]",chatgpt
+25 May 2024,[],#10a37f,[],chatgpt
+26 May 2024,[],#10a37f,[],chatgpt
+27 May 2024,[],#10a37f,[],chatgpt
+28 May 2024,[],#10a37f,[],chatgpt
+29 May 2024,[],#10a37f,[],chatgpt
+30 May 2024,[],#10a37f,[],chatgpt
+31 May 2024,[],#10a37f,[],chatgpt
+1 Dec 2023,[],#10a37f,[],chatgpt
+2 Dec 2023,[],#10a37f,[],chatgpt
+3 Dec 2023,[],#10a37f,[],chatgpt
+4 Dec 2023,[],#10a37f,[],chatgpt
+5 Dec 2023,[],#10a37f,[],chatgpt
+6 Dec 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated errors with ChatGPT calls using Vision"", ""Incident_Link"": ""https://status.openai.com/incidents/bq8y55s5kg0l""}]",chatgpt
+7 Dec 2023,[],#10a37f,[],chatgpt
+8 Dec 2023,[],#10a37f,[],chatgpt
+9 Dec 2023,[],#10a37f,[],chatgpt
+10 Dec 2023,[],#10a37f,[],chatgpt
+11 Dec 2023,[],#10a37f,[],chatgpt
+12 Dec 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/2g56krjndsb6""}]",chatgpt
+13 Dec 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 31}]",#e9710d,"[{""Incident_Title"": ""Major outage on ChatGPT on web"", ""Incident_Link"": ""https://status.openai.com/incidents/myrbs3mvcxn1""}, {""Incident_Title"": ""Some ChatGPT Enterprise users are receiving elevated error rates"", ""Incident_Link"": ""https://status.openai.com/incidents/zyhpyqrlchpx""}, {""Incident_Title"": ""Elevated error rate for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/2g56krjndsb6""}]",chatgpt
+14 Dec 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates with file uploads"", ""Incident_Link"": ""https://status.openai.com/incidents/knvm9l5xb78m""}]",chatgpt
+15 Dec 2023,[],#10a37f,[],chatgpt
+16 Dec 2023,[],#10a37f,[],chatgpt
+17 Dec 2023,[],#10a37f,[],chatgpt
+18 Dec 2023,[],#10a37f,[],chatgpt
+19 Dec 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 1}]",#6fa761,"[{""Incident_Title"": ""Elevated errors on GPT-V for ChatGPT models"", ""Incident_Link"": ""https://status.openai.com/incidents/qpsc9m1z6bjv""}]",chatgpt
+20 Dec 2023,[],#10a37f,[],chatgpt
+21 Dec 2023,[],#10a37f,[],chatgpt
+22 Dec 2023,[],#10a37f,[],chatgpt
+23 Dec 2023,[],#10a37f,[],chatgpt
+24 Dec 2023,[],#10a37f,[],chatgpt
+25 Dec 2023,[],#10a37f,[],chatgpt
+26 Dec 2023,[],#10a37f,[],chatgpt
+27 Dec 2023,[],#10a37f,[],chatgpt
+28 Dec 2023,[],#10a37f,[],chatgpt
+29 Dec 2023,[],#10a37f,[],chatgpt
+30 Dec 2023,[],#10a37f,[],chatgpt
+31 Dec 2023,[],#10a37f,[],chatgpt
+1 Jan 2024,[],#10a37f,[],chatgpt
+2 Jan 2024,[],#10a37f,[],chatgpt
+3 Jan 2024,[],#10a37f,[],chatgpt
+4 Jan 2024,[],#10a37f,[],chatgpt
+5 Jan 2024,[],#10a37f,[],chatgpt
+6 Jan 2024,[],#10a37f,[],chatgpt
+7 Jan 2024,[],#10a37f,[],chatgpt
+8 Jan 2024,[],#10a37f,[],chatgpt
+9 Jan 2024,[],#10a37f,[],chatgpt
+10 Jan 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 165}]",#ec512f,"[{""Incident_Title"": ""Service degradation in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/63znmd047rgk""}]",chatgpt
+11 Jan 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 19}]",#a4a950,"[{""Incident_Title"": ""Service degradation in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/5yw8z67133bm""}, {""Incident_Title"": ""Service degradation in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/63znmd047rgk""}]",chatgpt
+12 Jan 2024,[],#10a37f,[],chatgpt
+13 Jan 2024,[],#10a37f,[],chatgpt
+14 Jan 2024,[],#10a37f,[],chatgpt
+15 Jan 2024,[],#10a37f,[],chatgpt
+16 Jan 2024,[],#10a37f,[],chatgpt
+17 Jan 2024,[],#10a37f,[],chatgpt
+18 Jan 2024,[],#10a37f,"[{""Incident_Title"": ""Some users are experiencing degraded performance when logging into ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/82yfp1gjfx7n""}]",chatgpt
+19 Jan 2024,[],#10a37f,[],chatgpt
+20 Jan 2024,[],#10a37f,[],chatgpt
+21 Jan 2024,[],#10a37f,[],chatgpt
+22 Jan 2024,[],#10a37f,[],chatgpt
+23 Jan 2024,[],#10a37f,[],chatgpt
+24 Jan 2024,[],#10a37f,[],chatgpt
+25 Jan 2024,[],#10a37f,[],chatgpt
+26 Jan 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 16}]",#9ea951,"[{""Incident_Title"": ""Increased errors on ChatGPT Browse"", ""Incident_Link"": ""https://status.openai.com/incidents/8768htm0xtc4""}]",chatgpt
+27 Jan 2024,[],#10a37f,[],chatgpt
+28 Jan 2024,[],#10a37f,[],chatgpt
+29 Jan 2024,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 18}]",#edac38,"[{""Incident_Title"": ""Elevated errors affecting API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/n38dwwksfkv9""}, {""Incident_Title"": ""High error rates on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/84t59pn6yhvk""}]",chatgpt
+30 Jan 2024,[],#10a37f,[],chatgpt
+31 Jan 2024,[],#10a37f,[],chatgpt
+1 Feb 2024,[],#10a37f,[],chatgpt
+2 Feb 2024,[],#10a37f,[],chatgpt
+3 Feb 2024,[],#10a37f,[],chatgpt
+4 Feb 2024,[],#10a37f,[],chatgpt
+5 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/y6c5p2pcxmzn""}]",chatgpt
+6 Feb 2024,[],#10a37f,[],chatgpt
+7 Feb 2024,[],#10a37f,[],chatgpt
+8 Feb 2024,[],#10a37f,[],chatgpt
+9 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/1jr5v353kpcc""}]",chatgpt
+10 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated error rate affecting Voice on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/wc4rmhy73tyl""}]",chatgpt
+11 Feb 2024,[],#10a37f,[],chatgpt
+12 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/shqybftjc7mc""}]",chatgpt
+13 Feb 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 316}]",#ef4146,"[{""Incident_Title"": ""Elevated errors across multiple API endpoints and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/mswp9vt22gm2""}, {""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/70p519qgngrw""}]",chatgpt
+14 Feb 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 172}]",#ed4e33,"[{""Incident_Title"": ""Elevated error rate impacting ChatGPT (including logins)"", ""Incident_Link"": ""https://status.openai.com/incidents/34lnbv1gvd2p""}, {""Incident_Title"": ""Elevated error rate impacting ChatGPT (including logins)"", ""Incident_Link"": ""https://status.openai.com/incidents/gln4g8d46s2b""}, {""Incident_Title"": ""Elevated errors on GPT-4V for ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/70p519qgngrw""}]",chatgpt
+15 Feb 2024,[],#10a37f,[],chatgpt
+16 Feb 2024,[],#10a37f,[],chatgpt
+17 Feb 2024,[],#10a37f,[],chatgpt
+18 Feb 2024,[],#10a37f,[],chatgpt
+19 Feb 2024,[],#10a37f,[],chatgpt
+20 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""Unexpected responses from ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/ssg8fh7sfyz3""}]",chatgpt
+21 Feb 2024,[],#10a37f,[],chatgpt
+22 Feb 2024,[],#10a37f,[],chatgpt
+23 Feb 2024,[],#10a37f,"[{""Incident_Title"": ""ChatGPT error rate"", ""Incident_Link"": ""https://status.openai.com/incidents/nw3b5rvn86ff""}]",chatgpt
+24 Feb 2024,[],#10a37f,[],chatgpt
+25 Feb 2024,[],#10a37f,[],chatgpt
+26 Feb 2024,[],#10a37f,[],chatgpt
+27 Feb 2024,[],#10a37f,[],chatgpt
+28 Feb 2024,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 102}]",#ea7711,"[{""Incident_Title"": ""Increased latency and errors affecting both ChatGPT and APIs"", ""Incident_Link"": ""https://status.openai.com/incidents/zqfdnfbd0nqv""}]",chatgpt
+29 Feb 2024,[],#10a37f,[],chatgpt
+1 Sep 2023,[],#10a37f,[],chatgpt
+2 Sep 2023,[],#10a37f,[],chatgpt
+3 Sep 2023,[],#10a37f,[],chatgpt
+4 Sep 2023,[],#10a37f,[],chatgpt
+5 Sep 2023,[],#10a37f,[],chatgpt
+6 Sep 2023,[],#10a37f,[],chatgpt
+7 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates in chat conversations for ChatGPT products"", ""Incident_Link"": ""https://status.openai.com/incidents/nylf4wwwz1q9""}]",chatgpt
+8 Sep 2023,[],#10a37f,[],chatgpt
+9 Sep 2023,[],#10a37f,[],chatgpt
+10 Sep 2023,[],#10a37f,[],chatgpt
+11 Sep 2023,[],#10a37f,[],chatgpt
+12 Sep 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 75}]",#f19e2c,"[{""Incident_Title"": ""Elevated error rates in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/2z7dr40w8zg9""}]",chatgpt
+13 Sep 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 16}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 54}]",#e86d0a,"[{""Incident_Title"": ""Increase in latency in ChatGPT conversations for free and paid users and increase in error..."", ""Incident_Link"": ""https://status.openai.com/incidents/p81f131pnw0v""}, {""Incident_Title"": ""Elevated error rates in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/6thj7jr2zm8l""}]",chatgpt
+14 Sep 2023,[],#10a37f,[],chatgpt
+15 Sep 2023,[],#10a37f,[],chatgpt
+16 Sep 2023,[],#10a37f,[],chatgpt
+17 Sep 2023,[],#10a37f,[],chatgpt
+18 Sep 2023,[],#10a37f,[],chatgpt
+19 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Moderation API returning incorrect scores"", ""Incident_Link"": ""https://status.openai.com/incidents/70cbfl5cqxbj""}]",chatgpt
+20 Sep 2023,[],#10a37f,"[{""Incident_Title"": ""Moderation API returning incorrect scores"", ""Incident_Link"": ""https://status.openai.com/incidents/70cbfl5cqxbj""}]",chatgpt
+21 Sep 2023,[],#10a37f,[],chatgpt
+22 Sep 2023,[],#10a37f,[],chatgpt
+23 Sep 2023,[],#10a37f,[],chatgpt
+24 Sep 2023,[],#10a37f,[],chatgpt
+25 Sep 2023,[],#10a37f,[],chatgpt
+26 Sep 2023,[],#10a37f,[],chatgpt
+27 Sep 2023,[],#10a37f,[],chatgpt
+28 Sep 2023,[],#10a37f,[],chatgpt
+29 Sep 2023,[],#10a37f,[],chatgpt
+30 Sep 2023,[],#10a37f,[],chatgpt
+1 Oct 2023,[],#10a37f,[],chatgpt
+2 Oct 2023,[],#10a37f,[],chatgpt
+3 Oct 2023,[],#10a37f,[],chatgpt
+4 Oct 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates in some ChatGPT services"", ""Incident_Link"": ""https://status.openai.com/incidents/lg33hmqb4rn2""}]",chatgpt
+5 Oct 2023,[],#10a37f,[],chatgpt
+6 Oct 2023,[],#10a37f,[],chatgpt
+7 Oct 2023,[],#10a37f,[],chatgpt
+8 Oct 2023,[],#10a37f,[],chatgpt
+9 Oct 2023,[],#10a37f,[],chatgpt
+10 Oct 2023,[],#10a37f,[],chatgpt
+11 Oct 2023,[],#10a37f,[],chatgpt
+12 Oct 2023,[],#10a37f,[],chatgpt
+13 Oct 2023,[],#10a37f,[],chatgpt
+14 Oct 2023,[],#10a37f,[],chatgpt
+15 Oct 2023,[],#10a37f,[],chatgpt
+16 Oct 2023,[],#10a37f,[],chatgpt
+17 Oct 2023,[],#10a37f,[],chatgpt
+18 Oct 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates in some ChatGPT services"", ""Incident_Link"": ""https://status.openai.com/incidents/7c3dm7prslv2""}]",chatgpt
+19 Oct 2023,[],#10a37f,[],chatgpt
+20 Oct 2023,[],#10a37f,[],chatgpt
+21 Oct 2023,[],#10a37f,[],chatgpt
+22 Oct 2023,[],#10a37f,[],chatgpt
+23 Oct 2023,[],#10a37f,[],chatgpt
+24 Oct 2023,[],#10a37f,[],chatgpt
+25 Oct 2023,[],#10a37f,[],chatgpt
+26 Oct 2023,[],#10a37f,[],chatgpt
+27 Oct 2023,[],#10a37f,[],chatgpt
+28 Oct 2023,[],#10a37f,[],chatgpt
+29 Oct 2023,[],#10a37f,[],chatgpt
+30 Oct 2023,[],#10a37f,[],chatgpt
+31 Oct 2023,[],#10a37f,[],chatgpt
+1 Nov 2023,[],#10a37f,[],chatgpt
+2 Nov 2023,[],#10a37f,"[{""Incident_Title"": ""Increased error rates on ChatGPT Free"", ""Incident_Link"": ""https://status.openai.com/incidents/k5jbr248gk87""}]",chatgpt
+3 Nov 2023,[],#10a37f,[],chatgpt
+4 Nov 2023,[],#10a37f,[],chatgpt
+5 Nov 2023,[],#10a37f,[],chatgpt
+6 Nov 2023,[],#10a37f,[],chatgpt
+7 Nov 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 54}]",#e0ab3c,"[{""Incident_Title"": ""Partial outage across ChatGPT and the API"", ""Incident_Link"": ""https://status.openai.com/incidents/462433f2fk2j""}]",chatgpt
+8 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 141}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 7}]",#ef4146,"[{""Incident_Title"": ""Periodic outages across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/21vl32gvx3hb""}, {""Incident_Title"": ""Major Outage across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/00fpy0yxrx1q""}]",chatgpt
+9 Nov 2023,[],#10a37f,"[{""Incident_Title"": ""Periodic outages across ChatGPT and API"", ""Incident_Link"": ""https://status.openai.com/incidents/21vl32gvx3hb""}]",chatgpt
+10 Nov 2023,[],#10a37f,[],chatgpt
+11 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 47}]",#ec5529,"[{""Incident_Title"": ""Labs, API, ChatGPT, and Platform.openai.com are inaccessible"", ""Incident_Link"": ""https://status.openai.com/incidents/xlqxj2ncx6nh""}]",chatgpt
+12 Nov 2023,[],#10a37f,[],chatgpt
+13 Nov 2023,[],#10a37f,[],chatgpt
+14 Nov 2023,[],#10a37f,[],chatgpt
+15 Nov 2023,[],#10a37f,[],chatgpt
+16 Nov 2023,[],#10a37f,[],chatgpt
+17 Nov 2023,[],#10a37f,[],chatgpt
+18 Nov 2023,[],#10a37f,[],chatgpt
+19 Nov 2023,[],#10a37f,[],chatgpt
+20 Nov 2023,[],#10a37f,[],chatgpt
+21 Nov 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 196}]",#ef4344,"[{""Incident_Title"": ""Elevated Errors on API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/n254wyd7nml7""}]",chatgpt
+22 Nov 2023,[],#10a37f,[],chatgpt
+23 Nov 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 5}]",#a3a950,"[{""Incident_Title"": ""Elevated ChatGPT Errors"", ""Incident_Link"": ""https://status.openai.com/incidents/hjkhcq784trv""}]",chatgpt
+24 Nov 2023,[],#10a37f,[],chatgpt
+25 Nov 2023,[],#10a37f,[],chatgpt
+26 Nov 2023,[],#10a37f,[],chatgpt
+27 Nov 2023,[],#10a37f,[],chatgpt
+28 Nov 2023,[],#10a37f,"[{""Incident_Title"": ""Increased errors across API and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/q58417g6n5r7""}]",chatgpt
+29 Nov 2023,[],#10a37f,[],chatgpt
+30 Nov 2023,[],#10a37f,[],chatgpt
+1 Jun 2023,[],#10a37f,[],chatgpt
+2 Jun 2023,[],#10a37f,[],chatgpt
+3 Jun 2023,[],#10a37f,[],chatgpt
+4 Jun 2023,[],#10a37f,[],chatgpt
+5 Jun 2023,[],#10a37f,[],chatgpt
+6 Jun 2023,[],#10a37f,[],chatgpt
+7 Jun 2023,[],#10a37f,[],chatgpt
+8 Jun 2023,[],#10a37f,"[{""Incident_Title"": ""Degraded performance on text-davinci-003 and ChatGPT with elevated error rates on multiple..."", ""Incident_Link"": ""https://status.openai.com/incidents/mbs0wctm6dcx""}]",chatgpt
+9 Jun 2023,[],#10a37f,[],chatgpt
+10 Jun 2023,[],#10a37f,[],chatgpt
+11 Jun 2023,[],#10a37f,[],chatgpt
+12 Jun 2023,[],#10a37f,[],chatgpt
+13 Jun 2023,[],#10a37f,[],chatgpt
+14 Jun 2023,[],#10a37f,[],chatgpt
+15 Jun 2023,[],#10a37f,[],chatgpt
+16 Jun 2023,[],#10a37f,[],chatgpt
+17 Jun 2023,[],#10a37f,[],chatgpt
+18 Jun 2023,[],#10a37f,[],chatgpt
+19 Jun 2023,[],#10a37f,[],chatgpt
+20 Jun 2023,[],#10a37f,[],chatgpt
+21 Jun 2023,[],#10a37f,[],chatgpt
+22 Jun 2023,[],#10a37f,[],chatgpt
+23 Jun 2023,[],#10a37f,[],chatgpt
+24 Jun 2023,[],#10a37f,[],chatgpt
+25 Jun 2023,[],#10a37f,[],chatgpt
+26 Jun 2023,[],#10a37f,[],chatgpt
+27 Jun 2023,[],#10a37f,[],chatgpt
+28 Jun 2023,[],#10a37f,[],chatgpt
+29 Jun 2023,[],#10a37f,[],chatgpt
+30 Jun 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 39}]",#ea6118,"[{""Incident_Title"": ""Customer logins to ChatGPT are not available"", ""Incident_Link"": ""https://status.openai.com/incidents/6qt257jw6lx7""}]",chatgpt
+1 Jul 2023,[],#10a37f,[],chatgpt
+2 Jul 2023,[],#10a37f,[],chatgpt
+3 Jul 2023,[],#10a37f,[],chatgpt
+4 Jul 2023,[],#10a37f,[],chatgpt
+5 Jul 2023,[],#10a37f,[],chatgpt
+6 Jul 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates affecting gpt-4 and ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/k8zt0j662p02""}]",chatgpt
+7 Jul 2023,[],#10a37f,[],chatgpt
+8 Jul 2023,[],#10a37f,[],chatgpt
+9 Jul 2023,[],#10a37f,[],chatgpt
+10 Jul 2023,[],#10a37f,[],chatgpt
+11 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 163}]",#ec522e,"[{""Incident_Title"": ""Elevated error rate for ChatGPT logins"", ""Incident_Link"": ""https://status.openai.com/incidents/x4g37lrdgg0d""}]",chatgpt
+12 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 96}]",#ec7f17,"[{""Incident_Title"": ""Elevated error rate for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/3c69s485lr15""}]",chatgpt
+13 Jul 2023,[],#10a37f,"[{""Incident_Title"": ""Degraded performance for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/l2fmf12vvkg3""}]",chatgpt
+14 Jul 2023,[],#10a37f,"[{""Incident_Title"": ""Code Interpreter is currently under maintenance"", ""Incident_Link"": ""https://status.openai.com/incidents/swm7xsx0t5j4""}]",chatgpt
+15 Jul 2023,[],#10a37f,[],chatgpt
+16 Jul 2023,[],#10a37f,[],chatgpt
+17 Jul 2023,[],#10a37f,"[{""Incident_Title"": ""ChatGPT subscriptions not taking effect."", ""Incident_Link"": ""https://status.openai.com/incidents/3ngfvkqpwr7n""}]",chatgpt
+18 Jul 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 3}]",#87a859,"[{""Incident_Title"": ""ChatGPT elevated errors and latency"", ""Incident_Link"": ""https://status.openai.com/incidents/kcrxdtkyqjl4""}, {""Incident_Title"": ""ChatGPT subscriptions not taking effect."", ""Incident_Link"": ""https://status.openai.com/incidents/3ngfvkqpwr7n""}]",chatgpt
+19 Jul 2023,[],#10a37f,[],chatgpt
+20 Jul 2023,[],#10a37f,[],chatgpt
+21 Jul 2023,[],#10a37f,[],chatgpt
+22 Jul 2023,[],#10a37f,[],chatgpt
+23 Jul 2023,[],#10a37f,[],chatgpt
+24 Jul 2023,[],#10a37f,[],chatgpt
+25 Jul 2023,[],#10a37f,[],chatgpt
+26 Jul 2023,[],#10a37f,[],chatgpt
+27 Jul 2023,[],#10a37f,[],chatgpt
+28 Jul 2023,[],#10a37f,[],chatgpt
+29 Jul 2023,[],#10a37f,[],chatgpt
+30 Jul 2023,[],#10a37f,[],chatgpt
+31 Jul 2023,[],#10a37f,[],chatgpt
+1 Aug 2023,[],#10a37f,[],chatgpt
+2 Aug 2023,[],#10a37f,[],chatgpt
+3 Aug 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 9}]",#b7aa49,"[{""Incident_Title"": ""ChatGPT Severe Degradation"", ""Incident_Link"": ""https://status.openai.com/incidents/zv4rq28nrr7s""}]",chatgpt
+4 Aug 2023,[],#10a37f,[],chatgpt
+5 Aug 2023,[],#10a37f,[],chatgpt
+6 Aug 2023,[],#10a37f,[],chatgpt
+7 Aug 2023,[],#10a37f,[],chatgpt
+8 Aug 2023,[],#10a37f,[],chatgpt
+9 Aug 2023,[],#10a37f,"[{""Incident_Title"": ""Code interpreter and plugins not completing"", ""Incident_Link"": ""https://status.openai.com/incidents/gv4j4nmz0ry9""}]",chatgpt
+10 Aug 2023,[],#10a37f,"[{""Incident_Title"": ""Degraded performance on ChatGPT Free"", ""Incident_Link"": ""https://status.openai.com/incidents/vbz1gsrhnxwx""}]",chatgpt
+11 Aug 2023,[],#10a37f,[],chatgpt
+12 Aug 2023,[],#10a37f,[],chatgpt
+13 Aug 2023,[],#10a37f,[],chatgpt
+14 Aug 2023,[],#10a37f,[],chatgpt
+15 Aug 2023,[],#10a37f,[],chatgpt
+16 Aug 2023,[],#10a37f,[],chatgpt
+17 Aug 2023,[],#10a37f,[],chatgpt
+18 Aug 2023,[],#10a37f,[],chatgpt
+19 Aug 2023,[],#10a37f,[],chatgpt
+20 Aug 2023,[],#10a37f,[],chatgpt
+21 Aug 2023,[],#10a37f,[],chatgpt
+22 Aug 2023,[],#10a37f,[],chatgpt
+23 Aug 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 7}]",#8fa856,"[{""Incident_Title"": ""ChatGPT web UI unavailable"", ""Incident_Link"": ""https://status.openai.com/incidents/dtn5wy8nn4c6""}]",chatgpt
+24 Aug 2023,[],#10a37f,[],chatgpt
+25 Aug 2023,[],#10a37f,[],chatgpt
+26 Aug 2023,[],#10a37f,"[{""Incident_Title"": ""ChatGPT web UI unavailable"", ""Incident_Link"": ""https://status.openai.com/incidents/70v6kc5bkn5f""}]",chatgpt
+27 Aug 2023,[],#10a37f,[],chatgpt
+28 Aug 2023,[],#10a37f,[],chatgpt
+29 Aug 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 30}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 42}]",#eb5c1f,"[{""Incident_Title"": ""ChatGPT web & mobile UIs unavailable"", ""Incident_Link"": ""https://status.openai.com/incidents/5l07rfcr5fyn""}]",chatgpt
+30 Aug 2023,[],#10a37f,[],chatgpt
+31 Aug 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 192}]",#ef4146,"[{""Incident_Title"": ""ChatGPT severely degraded"", ""Incident_Link"": ""https://status.openai.com/incidents/85tj32txyltd""}, {""Incident_Title"": ""Degraded performance on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/c9fzdr2cxnbq""}]",chatgpt
+1 Mar 2023,[],#10a37f,[],chatgpt
+2 Mar 2023,[],#10a37f,[],chatgpt
+3 Mar 2023,[],#10a37f,[],chatgpt
+4 Mar 2023,[],#10a37f,[],chatgpt
+5 Mar 2023,[],#10a37f,[],chatgpt
+6 Mar 2023,[],#10a37f,[],chatgpt
+7 Mar 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates on all models."", ""Incident_Link"": ""https://status.openai.com/incidents/75n0s8jzv5gx""}]",chatgpt
+8 Mar 2023,[],#10a37f,"[{""Incident_Title"": ""Missing conversation history in ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/xz0g27bjwpgd""}]",chatgpt
+9 Mar 2023,[],#10a37f,[],chatgpt
+10 Mar 2023,[],#10a37f,[],chatgpt
+11 Mar 2023,[],#10a37f,[],chatgpt
+12 Mar 2023,[],#10a37f,[],chatgpt
+13 Mar 2023,[],#10a37f,[],chatgpt
+14 Mar 2023,[],#10a37f,[],chatgpt
+15 Mar 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 20}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 4}]",#f3a531,"[{""Incident_Title"": ""ChatGPT Outage"", ""Incident_Link"": ""https://status.openai.com/incidents/ds7h4z02flf5""}]",chatgpt
+16 Mar 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 7}]",#aaa94e,[],chatgpt
+17 Mar 2023,[],#10a37f,[],chatgpt
+18 Mar 2023,[],#10a37f,[],chatgpt
+19 Mar 2023,[],#10a37f,[],chatgpt
+20 Mar 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 234}]",#ef4146,"[{""Incident_Title"": ""ChatGPT Web Interface Incident"", ""Incident_Link"": ""https://status.openai.com/incidents/jq9232rcmktd""}, {""Incident_Title"": ""Outage on chat.openai.com"", ""Incident_Link"": ""https://status.openai.com/incidents/y6cdztrnth60""}]",chatgpt
+21 Mar 2023,[],#10a37f,[],chatgpt
+22 Mar 2023,[],#10a37f,[],chatgpt
+23 Mar 2023,[],#10a37f,[],chatgpt
+24 Mar 2023,[],#10a37f,[],chatgpt
+25 Mar 2023,[],#10a37f,[],chatgpt
+26 Mar 2023,[],#10a37f,[],chatgpt
+27 Mar 2023,[],#10a37f,[],chatgpt
+28 Mar 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 30}]",#b6aa4a,"[{""Incident_Title"": ""API error rate increase"", ""Incident_Link"": ""https://status.openai.com/incidents/gclzj9h0jfql""}]",chatgpt
+29 Mar 2023,[],#10a37f,[],chatgpt
+30 Mar 2023,[],#10a37f,[],chatgpt
+31 Mar 2023,[],#10a37f,[],chatgpt
+1 Apr 2023,[],#10a37f,[],chatgpt
+2 Apr 2023,[],#10a37f,[],chatgpt
+3 Apr 2023,[],#10a37f,[],chatgpt
+4 Apr 2023,[],#10a37f,[],chatgpt
+5 Apr 2023,[],#10a37f,[],chatgpt
+6 Apr 2023,[],#10a37f,[],chatgpt
+7 Apr 2023,[],#10a37f,[],chatgpt
+8 Apr 2023,[],#10a37f,[],chatgpt
+9 Apr 2023,[],#10a37f,[],chatgpt
+10 Apr 2023,[],#10a37f,[],chatgpt
+11 Apr 2023,[],#10a37f,[],chatgpt
+12 Apr 2023,[],#10a37f,[],chatgpt
+13 Apr 2023,[],#10a37f,[],chatgpt
+14 Apr 2023,[],#10a37f,[],chatgpt
+15 Apr 2023,[],#10a37f,[],chatgpt
+16 Apr 2023,[],#10a37f,[],chatgpt
+17 Apr 2023,[],#10a37f,[],chatgpt
+18 Apr 2023,[],#10a37f,[],chatgpt
+19 Apr 2023,[],#10a37f,[],chatgpt
+20 Apr 2023,[],#10a37f,[],chatgpt
+21 Apr 2023,[],#10a37f,[],chatgpt
+22 Apr 2023,[],#10a37f,[],chatgpt
+23 Apr 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 13}]",#d2ab41,"[{""Incident_Title"": ""ChatGPT outage"", ""Incident_Link"": ""https://status.openai.com/incidents/b64cj28zhss6""}]",chatgpt
+24 Apr 2023,[],#10a37f,[],chatgpt
+25 Apr 2023,[],#10a37f,"[{""Incident_Title"": ""ChatGPT Login Issues"", ""Incident_Link"": ""https://status.openai.com/incidents/cs8fghhddc5s""}, {""Incident_Title"": ""Elevated error rates on some OpenAI models"", ""Incident_Link"": ""https://status.openai.com/incidents/h0trpydy4dqw""}]",chatgpt
+26 Apr 2023,[],#10a37f,[],chatgpt
+27 Apr 2023,[],#10a37f,[],chatgpt
+28 Apr 2023,[],#10a37f,[],chatgpt
+29 Apr 2023,[],#10a37f,[],chatgpt
+30 Apr 2023,[],#10a37f,[],chatgpt
+1 May 2023,[],#10a37f,[],chatgpt
+2 May 2023,[],#10a37f,[],chatgpt
+3 May 2023,[],#10a37f,[],chatgpt
+4 May 2023,[],#10a37f,[],chatgpt
+5 May 2023,[],#10a37f,[],chatgpt
+6 May 2023,[],#10a37f,[],chatgpt
+7 May 2023,[],#10a37f,[],chatgpt
+8 May 2023,[],#10a37f,[],chatgpt
+9 May 2023,[],#10a37f,[],chatgpt
+10 May 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates across all services"", ""Incident_Link"": ""https://status.openai.com/incidents/wz6ndnqbzgt0""}]",chatgpt
+11 May 2023,[],#10a37f,[],chatgpt
+12 May 2023,[],#10a37f,[],chatgpt
+13 May 2023,[],#10a37f,[],chatgpt
+14 May 2023,[],#10a37f,[],chatgpt
+15 May 2023,[],#10a37f,[],chatgpt
+16 May 2023,[],#10a37f,[],chatgpt
+17 May 2023,[],#10a37f,[],chatgpt
+18 May 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 14}]",#9aa853,"[{""Incident_Title"": ""Elevated error rates for ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/967l02ml4zbs""}, {""Incident_Title"": ""Elevated error rates for API & ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/qq8bygtcgp2k""}]",chatgpt
+19 May 2023,[],#10a37f,[],chatgpt
+20 May 2023,[],#10a37f,[],chatgpt
+21 May 2023,[],#10a37f,[],chatgpt
+22 May 2023,[],#10a37f,[],chatgpt
+23 May 2023,[],#10a37f,"[{""Incident_Title"": ""Elevated error rates across all services"", ""Incident_Link"": ""https://status.openai.com/incidents/8myhythbkn51""}]",chatgpt
+24 May 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 51}]",#ed4e33,"[{""Incident_Title"": ""Multiple engines have elevated error rates"", ""Incident_Link"": ""https://status.openai.com/incidents/jbt079x532bg""}]",chatgpt
+25 May 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 42}]",#eb5c1f,"[{""Incident_Title"": ""ChatGPT site outage"", ""Incident_Link"": ""https://status.openai.com/incidents/79zpcjqlg6f3""}]",chatgpt
+26 May 2023,[],#10a37f,[],chatgpt
+27 May 2023,[],#10a37f,[],chatgpt
+28 May 2023,[],#10a37f,[],chatgpt
+29 May 2023,[],#10a37f,[],chatgpt
+30 May 2023,[],#10a37f,[],chatgpt
+31 May 2023,[],#10a37f,[],chatgpt
+14 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 2}]",#90a856,"[{""Incident_Title"": ""Outage on ChatGPT"", ""Incident_Link"": ""https://status.openai.com/incidents/1t32snx54lfy""}]",chatgpt
+15 Feb 2023,[],#10a37f,[],chatgpt
+16 Feb 2023,[],#10a37f,[],chatgpt
+17 Feb 2023,[],#10a37f,[],chatgpt
+18 Feb 2023,[],#10a37f,[],chatgpt
+19 Feb 2023,[],#10a37f,[],chatgpt
+20 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 19}]",#f3ac36,"[{""Incident_Title"": ""Outage on all models"", ""Incident_Link"": ""https://status.openai.com/incidents/mq5jgswy45fr""}]",chatgpt
+21 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 243}]",#ef4146,"[{""Incident_Title"": ""OpenAI Labs (DALL\u00b7E User interface) and Some API Endpoint Degradation"", ""Incident_Link"": ""https://status.openai.com/incidents/vzrthmy2shh7""}, {""Incident_Title"": ""Outage on all models"", ""Incident_Link"": ""https://status.openai.com/incidents/mq5jgswy45fr""}]",chatgpt
+22 Feb 2023,[],#10a37f,[],chatgpt
+23 Feb 2023,"[{""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 19}]",#a3a950,"[{""Incident_Title"": ""Outage on multiple models"", ""Incident_Link"": ""https://status.openai.com/incidents/s29fb94kx5q7""}]",chatgpt
+24 Feb 2023,[],#10a37f,[],chatgpt
+25 Feb 2023,[],#10a37f,[],chatgpt
+26 Feb 2023,[],#10a37f,[],chatgpt
+27 Feb 2023,"[{""Outage_Type"": ""Major outage"", ""Downtime (min)"": 57}, {""Outage_Type"": ""Partial outage"", ""Downtime (min)"": 143}]",#ef4146,"[{""Incident_Title"": ""ChatGPT outage"", ""Incident_Link"": ""https://status.openai.com/incidents/g8qdfl279sqz""}]",chatgpt
+28 Feb 2023,[],#10a37f,[],chatgpt
