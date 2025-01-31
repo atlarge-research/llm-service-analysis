@@ -11,9 +11,12 @@ Set up a Python environment and install requirements to run the Jupyter Notebook
 
 ```shell
 conda env create -f environment.yml
-conda activate llm-analysis
+conda activate llm-service-analysis
 ```
-
+OR
+```shell
+pip install -r requirements.txt
+```
 
 ## Scripts
 
